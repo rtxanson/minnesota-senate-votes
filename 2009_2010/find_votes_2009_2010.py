@@ -154,10 +154,52 @@ def find_votes(lines):
 
     return processed
 
+def parse_date(lines):
+    import datetime
+    strp = datetime.datetime.strptime
+
+    date_line = False
+    splitter = re.compile('\s{2,}').split
+    for d in lines:
+        if 'DAY' in d:
+            date_line = d
+
+    if not date_line:
+        return False
+
+    _x = splitter(date_line)
+    day = _x[0]
+    date = _x[1]
+
+    if day:
+        day = day.replace(']', '').lower()
+
+    try:
+        formatted = strp(date, '%A, %B %d, %Y').isoformat()
+    except ValueError:
+        formatted = False
+
+    result = { 'date_utc': formatted
+             , 'date_string': date
+             , 'session_day': day
+             }
+
+    return result
+
 def main(filename):
+    _date = False
+    _day  = False
+
     no_page_breaks = lambda x: not x.startswith("")
     with open(filename) as F:
         data = filter(no_page_breaks, F.read().splitlines())
+
+    _date_info = parse_date(data[0:3])
+
+    if _date_info:
+        logger.info("%s - DATE: %s" % (filename, str(bool(_date_info))))
+    else:
+        logger.warning( "%s - ROLL: ERROR" % filename)
 
     names = call_of_the_senate(data)
 
@@ -175,12 +217,18 @@ def main(filename):
 
     journal = { 'role_call': names
               , 'votes': votes
+              , 'filename': filename
+              , 'date': _date_info
               }
 
-    print >> sys.stdout, json.dumps(journal, indent=4)
+    with open(filename + '.json', 'w') as F:
+        print >> F, json.dumps(journal, indent=4)
+    
+    return
 
 if __name__ == "__main__":
     pdf_file = sys.argv[1]
+
     try:
         main(pdf_file)
     except Exception, e:
@@ -189,6 +237,7 @@ if __name__ == "__main__":
         traceback.print_tb(exc_traceback, limit=10, file=sys.stdout)
         logger.error(e)
         logger.error(" Error with: %s" % pdf_file)
+
     sys.exit()
 
 
