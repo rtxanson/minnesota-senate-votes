@@ -11,4 +11,5 @@ Misc notes:
 Things to do:
 
  * Once vote parsing works out, include districts
+ * consistent filename format
 
