@@ -32,6 +32,13 @@ logger.addHandler(logging.FileHandler('last_run_status.txt'))
 # TODO: make this a commandline switch later
 DEBUG = True
 
+##
+###  Utility functions
+##
+
+# These ideally will not need to change much to handle new types of
+# records.
+
 # [str], str, str -> [str] or False
 def getblock(lines, start_str, end_str):
     """ Find a block of text where the bounding lines contain start_str
@@ -120,34 +127,33 @@ def chunkby(lines, chunk_str=False, regex=False):
         else:
             cur_chunk.append(line)
 
+##
+###  Document parsing
+##
 
 splitter = re.compile('\s{2,}').split
+def parse_vote_name_block(block):
+    names = sum([splitter(line) for line in block], [])
+    return sorted(filter(lambda a: a.strip(), names))
+
 def call_of_the_senate(lines):
     start = "The Senate met at "
     end   = " declared a quorum present."
 
-    call_of_senate = getblock( lines
-                             , start
-                             , end
-                             )
+    call_of_senate = getblock(lines, start, end)
 
     if not call_of_senate:
         return False
 
-    roll = getblock( call_of_senate
-                   , "The roll was called"
-                   , "quorum"
-                   )
+    roll = getblock(call_of_senate, "The roll was called", "quorum")
 
     if not roll:
         return False
 
-    senator_list = roll[1:len(roll) - 1]
+    senator_list = parse_vote_name_block( roll[1:len(roll) - 1] )
 
-    names = sorted([ a for a in sum([splitter(a) for a in senator_list], [])
-                     if a.strip() ])
+    return senator_list
 
-    return names
 
 find_bill_title = re.compile(r'([HS]\.F\. No\. \d+)')
 def process_vote_chunk(chunk):
@@ -157,56 +163,48 @@ def process_vote_chunk(chunk):
 
     pass_status = [a for a in chunk if 'So the bill' in a][0]
 
+    # Look for title line
     for _l in chunk:
         if 'H.F. No.' in _l or 'S.F. No.' in _l:
             bill_title_line = _l
             break
-
     if bill_title_line:
         try:
             bill_title = find_bill_title.search(bill_title_line).groups()[0]
         except:
             pass
 
-    aff_and_neg = getblock( chunk
-                          , 'Those who voted in the affirmative'
-                          , 'Those who voted in the negative'
-                          )
-    if aff_and_neg:
-        affirmatives = getblock( chunk
-                               , 'Those who voted in the affirmative'
-                               , 'Those who voted in the negative'
-                               )
-        negatives = getblock( chunk
-                            , 'Those who voted in the negative'
-                            , 'So the bill'
-                            )
-    else:
-        affirmatives = getblock( chunk
-                               , 'Those who voted in the affirmative'
-                               , 'So the bill'
-                               )
-        negatives = False
+    # TODO: umm, also what about just negatives?
+    _vote_aff = 'Those who voted in the affirmative'
+    _vote_neg = 'Those who voted in the negative'
 
-    affs = affirmatives[1:len(affirmatives) - 1]
-    affirmative_names = [ a for a in sum([splitter(a) for a in affs], [])
-                          if a.strip() ]
+    includes_negative = getblock(chunk, _vote_aff, _vote_neg)
+    if includes_negative:
+        affirmatives = includes_negative
+        negatives    = getblock(chunk, _vote_neg, 'So the bill')
 
-    if negatives:
+        # Pop off the inclusive end block match line
         neg = negatives[1:len(negatives) - 1]
-        negative_names = [ a for a in sum([splitter(a) for a in neg], [])
-                           if a.strip() ]
-        negative_names = sorted(negative_names)
+        negative_names = parse_vote_name_block(neg)
+    else:
+        affirmatives = getblock(chunk, _vote_aff, 'So the bill')
+        negatives    = False
 
-    result = { 'affirmatives': sorted(affirmative_names)
-             , 'negatives': negative_names
-             , 'title': bill_title
-             , 'status': pass_status
-             }
+    # Pop off the inclusive end block match line
+    affs = affirmatives[1:len(affirmatives) - 1]
+    affirmative_names = parse_vote_name_block(affs)
 
-    return result
+    return  { 'affirmatives': affirmative_names
+            , 'negatives': negative_names
+            , 'title': bill_title
+            , 'status': pass_status
+            }
 
 def find_votes(lines):
+    """ Find bill votes in the whole text, and return a list of vote
+    info.
+    """
+
     def begin_test(lines, line, index):
         """ Two formats to the beginning of a vote on a bill.
              * bill is read with description included
@@ -276,11 +274,12 @@ def find_votes(lines):
     if len(vote_chunks) == 0:
         return False
 
-    processed_votes = map(process_vote_chunk, vote_chunks)
-
-    return processed_votes
+    return map(process_vote_chunk, vote_chunks)
 
 def parse_date(lines):
+    """ The date format is pretty consistent, but ISO date formats are
+    better, however keep the original date string and day of year.
+    """
     import datetime
     strp = datetime.datetime.strptime
 
@@ -305,7 +304,7 @@ def parse_date(lines):
     except ValueError:
         formatted = False
 
-    result = { 'date_utc': formatted
+    result = { 'date_iso': formatted
              , 'date_string': date
              , 'session_day': day
              }
