@@ -69,12 +69,6 @@
         "Vickerman", 
         "Wiger"
     ], 
-    "votes": [
-        {
-            "affirmatives": [], 
-            "negatives": false, 
-            "title": "S.F. No. 3260"
-        }
-    ], 
+    "bill_votes": false, 
     "filename": "2009_2010/sessions/txt/20100315074.txt"
 }

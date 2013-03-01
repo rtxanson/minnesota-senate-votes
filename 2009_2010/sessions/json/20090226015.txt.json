@@ -73,8 +73,9 @@
         "Vickerman", 
         "Wiger"
     ], 
-    "votes": [
+    "bill_votes": [
         {
+            "status": "So the bill passed and its title was agreed to.", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -95,20 +96,12 @@
                 "Fobbe", 
                 "Foley", 
                 "Frederickson", 
-                "Gerlach", 
                 "Gimse", 
-                "Hann", 
                 "Higgins", 
-                "Ingebrigtsen", 
-                "Johnson", 
-                "Jungbauer", 
                 "Kelash", 
-                "Koch", 
                 "Koering", 
-                "Kubly", 
                 "Langseth", 
                 "Latz", 
-                "Limmer", 
                 "Lourey", 
                 "Lynch", 
                 "Marty", 
@@ -121,7 +114,6 @@
                 "Olson, M.", 
                 "Ortman", 
                 "Pappas", 
-                "Pariseau", 
                 "Pogemiller", 
                 "Prettner Solon", 
                 "Rest", 
@@ -138,21 +130,21 @@
                 "Skogen", 
                 "Sparks", 
                 "Stumpf", 
-                "Those who voted in the negative were:", 
                 "Tomassoni", 
                 "Torres Ray", 
-                "Vandeveer", 
                 "Vickerman", 
                 "Wiger"
             ], 
             "negatives": [
-                "Limmer"
+                "Gerlach", 
+                "Hann", 
+                "Ingebrigtsen", 
+                "Johnson", 
+                "Jungbauer", 
+                "Koch", 
+                "Limmer", 
+                "Vandeveer"
             ], 
-            "title": "S.F. No. 166"
-        }, 
-        {
-            "affirmatives": [], 
-            "negatives": false, 
             "title": "H.F. No. 886"
         }
     ], 

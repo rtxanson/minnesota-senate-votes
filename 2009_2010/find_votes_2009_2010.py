@@ -8,6 +8,7 @@ import json
 logger = logging.getLogger("senate")
 logger.setLevel("INFO")
 logger.addHandler(logging.StreamHandler())
+logger.addHandler(logging.FileHandler('last_run_status.txt'))
 
 DEBUG = True
 
@@ -31,6 +32,50 @@ def getblock(lines, start_str, end_str):
         return lines[begin_no:end_no]
 
     return False
+
+def sample_test(lines, line, index):
+    return True
+
+def getblocksByTests(lines, begin_test, end_test):
+    """ Provide two functions to test, if these return true, then a
+    chunk is matched.
+
+    Each test function takes as arguments lines, line, and index, where
+    lines is the whole text, line is the current line being iterated,
+    and index is the index to that line in the text.
+
+        begin_test - lines are all of the lines in the whole text
+
+        end_test - lines are only the lines containing the first matched
+        line, and all lines after. That is, lines sliced at the index of
+        begin_test's line match index
+
+    Test functions may be however complex.
+
+    The function returns a list of chunks that are matched.
+
+    """
+
+    match_indexes = []
+
+    i = 0
+    for line in lines:
+
+        if begin_test(lines, line, i):
+            # Within block
+            j = 0
+            inner = lines[:][i::]
+            for _line in inner:
+                if end_test(inner, _line, j):
+                    match_indexes.append((i - 1, i + j + 1))
+                    j = 0
+                    break
+                j += 1
+
+        i += 1
+
+    chunks = [lines[a:b] for a, b in match_indexes]
+    return chunks
 
 def chunkby(lines, chunk_str=False, regex=False):
     if chunk_str:
@@ -88,70 +133,103 @@ def call_of_the_senate(lines):
 
     return names
 
+find_bill_title = re.compile(r'([HS]\.F\. No\. \d+)')
 def process_vote_chunk(chunk):
+    bill_title        = False
     affirmative_names = False
     negative_names    = False
+
+    pass_status = [a for a in chunk if 'So the bill' in a][0]
+
+    for _l in chunk:
+        if 'H.F. No.' in _l or 'S.F. No.' in _l:
+            bill_title_line = _l
+            break
+
+    if bill_title_line:
+        try:
+            bill_title = find_bill_title.search(bill_title_line).groups()[0]
+        except:
+            pass
 
     aff_and_neg = getblock( chunk
                           , 'Those who voted in the affirmative'
                           , 'Those who voted in the negative'
                           )
     if aff_and_neg:
+        affirmatives = getblock( chunk
+                               , 'Those who voted in the affirmative'
+                               , 'Those who voted in the negative'
+                               )
         negatives = getblock( chunk
                             , 'Those who voted in the negative'
                             , 'So the bill'
                             )
-        affirmatives = aff_and_neg
     else:
+        affirmatives = getblock( chunk
+                               , 'Those who voted in the affirmative'
+                               , 'So the bill'
+                               )
         negatives = False
 
-    affirmatives = getblock( chunk
-                           , 'Those who voted in the affirmative'
-                           , 'So the bill'
-                           )
-
     affs = affirmatives[1:len(affirmatives) - 1]
-    affirmative_names = sorted([ a for a in sum([splitter(a) for a in affs], [])
-                                 if a.strip() ])
+    affirmative_names = [ a for a in sum([splitter(a) for a in affs], [])
+                          if a.strip() ]
 
     if negatives:
         neg = negatives[1:len(negatives) - 1]
-        negative_names = sorted([ a for a in sum([splitter(a) for a in neg], [])
-                                  if a.strip() ])
-    result = { 'affirmatives': affirmative_names
+        negative_names = [ a for a in sum([splitter(a) for a in neg], [])
+                           if a.strip() ]
+        negative_names = sorted(negative_names)
+
+    result = { 'affirmatives': sorted(affirmative_names)
              , 'negatives': negative_names
+             , 'title': bill_title
+             , 'status': pass_status
              }
 
     return result
 
 def find_votes(lines):
-    start = "INTRODUCTION AND FIRST READING OF SENATE BILLS"
-    end = "REPORTS OF COMMITTEES"
-    votes = getblock( lines
-                    , start
-                    , end
-                    )
-    if not votes:
+    def begin_test(lines, line, index):
+        if index > 10:
+            next_ten = lines[index:index+10]
+
+            hf_or_sf        = ('S.F. No.' in line) or ('H.F. No.' in line)
+            was_read        = 'was read' in line
+            placed_on       = 'placed on' in line
+
+            bill_vote_begin = all([hf_or_sf, was_read, placed_on])
+
+            if bill_vote_begin:
+                a = 'question was taken on'
+                b = 'roll was called'
+                c = 'Those who voted in'
+                _a, _b, _c = False, False, False
+                for _l in next_ten:
+                    if a in _l:
+                        _a = True
+                    if b in _l:
+                        _b = True
+                    if c in _l:
+                        _c = True
+                if all([_a, _b, _c]):
+                    return True
         return False
 
-    vote_chunks = chunkby( votes
-                         , ": A bill for an act relating to"
-                         )
+    def end_test(inner, line, index):
+        if 'So the bill' in line:
+            return True
+        return False
 
-    vote_chunks = list(vote_chunks)
-    processed = []
-    for c in vote_chunks:
-        has_vote = False
-        for l in c:
-            if 'roll was called,' in l:
-                has_vote = True
+    vote_chunks = getblocksByTests(lines, begin_test, end_test)
 
-        if has_vote:
-            _votes = process_vote_chunk(c)
-            _votes['title'] = c[0].strip().partition(':')[0]
-            processed.append(_votes)
+    if len(vote_chunks) == 0:
+        return False
 
-    return processed
+    processed_votes = map(process_vote_chunk, vote_chunks)
+
+    return processed_votes
 
 def parse_date(lines):
     import datetime
@@ -186,8 +264,6 @@ def parse_date(lines):
     return result
 
 def main(filename):
-    _date = False
-    _day  = False
 
     no_page_breaks = lambda x: not x.startswith("")
     with open(filename) as F:
@@ -199,6 +275,10 @@ def main(filename):
         logger.info("%s - DATE: %s" % (filename, str(bool(_date_info))))
     else:
         logger.warning( "%s - ROLL: ERROR" % filename)
+
+    data = map( lambda x: x.strip()
+              , data
+              )
 
     names = call_of_the_senate(data)
 
@@ -215,14 +295,14 @@ def main(filename):
         logger.warning( "%s - VOTES: ERROR" % filename)
 
     journal = { 'role_call': names
-              , 'votes': votes
+              , 'bill_votes': votes
               , 'filename': filename
               , 'date': _date_info
               }
 
     with open(filename + '.json', 'w') as F:
-        print >> F, json.dumps(journal, indent=4)
-    
+        print >> F, json.dumps(journal, indent=4).encode('utf-8')
+
     return
 
 if __name__ == "__main__":
