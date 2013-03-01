@@ -166,7 +166,7 @@ def call_of_the_senate(lines):
     return senator_list
 
 
-find_bill_title = re.compile(r'([HS]\.F\. No\. \d+)')
+find_bill_title = re.compile(r'([HS]\.( )?F\. No\. \d+)')
 def process_vote_chunk(chunk):
     bill_title        = False
     affirmative_names = []
@@ -176,9 +176,10 @@ def process_vote_chunk(chunk):
 
     # Look for title line
     for _l in chunk:
-        if 'H.F. No.' in _l or 'S.F. No.' in _l:
+        if 'F. No.' in _l:
             bill_title_line = _l
             break
+
     if bill_title_line:
         try:
             bill_title = find_bill_title.search(bill_title_line).groups()[0]
