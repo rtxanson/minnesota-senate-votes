@@ -1,24 +1,35 @@
 #!/usr/bin/env python
-"""
-Reads a pdftotext-converted senate record, and outputs JSON.
+"""Record parser. Reads a pdftotext-converted senate record, and outputs JSON.
 
-TODO: first readings of bills could be possible, but maybe already
-      included in some other machine readable dataset online
+Usage:
+  record_parser.py read <input_file> [options]
+  record_parser.py read <input_file> <output_file> [options]
+  record_parser.py (-h | --help)
 
-    "The following bill(s) was/were read for the first time."
-
-TODO: votes on resolutions
-TODO: votes on adoptions of amendments
-TODO: things that committees reccommend
-
-TODO: keyword mentions
- - all bill titles mentioned (note several formats, individual and list
-   format, No. vs. Nos.)
- - committee mentions...?
-
-
+Options:
+  -h --help             Show this screen.
+  --format=<format>     Output format. [default: JSON]
+  --with-resolutions    Output votes on resolutions.
+  --with-amendments     Output votes on amendments.
 """
 
+
+# TODO: first readings of bills could be possible, but maybe already
+#       included in some other machine readable dataset online
+#
+#     "The following bill(s) was/were read for the first time."
+#
+# TODO: votes on resolutions
+# TODO: votes on adoptions of amendments
+# TODO: things that committees reccommend
+# TODO: adoption of motions
+#
+# TODO: keyword mentions
+#  - all bill titles mentioned (note several formats, individual and list
+#    format, No. vs. Nos.)
+#  - committee mentions...?
+
+from docopt import docopt
 import sys
 import logging
 import json
@@ -200,9 +211,6 @@ def process_vote_chunk(chunk):
                )
     logger.info("    %s - yays: %d, nays: %d" % log_args)
 
-    if len(affirmative_names) > 100 or len(negative_names) > 100:
-        print chunk[0]
-
     return  { 'affirmatives': affirmative_names
             , 'negatives': negative_names
             , 'title': bill_title
@@ -290,6 +298,81 @@ def find_votes(lines):
 
     return map(process_vote_chunk, vote_chunks)
 
+# NB: idea for more general rule parser
+
+### Patterns:
+
+### beginning:
+### "S.F. No." or "H.F. No." & "committee recommends"
+### + (immediately follows a line containing)
+### "moved to amend"
+### ... (eventually followed by a line containing)
+### "The question was taken"
+### + (immediately)
+### "The roll was called"
+### ... (eventually)
+### "The motion prevailed" || "The motion did not prevail"
+
+### end:
+### "The motion prevailed" || "The motion did not prevail"
+
+def process_amendment_vote_chunk(chunk):
+    print '\n'.join(chunk[0:5])
+    print '--'
+    print
+    return chunk
+
+def find_amendment_votes(lines):
+
+    def begin_test(lines, line, index):
+        if index > 10:
+            hf_or_sf        = ('S.F. No.' in line) or ('H.F. No.' in line)
+            recommends      = "committee recommends" in line
+
+            with_the        = "with the following" in line
+            subject_to      = "subject to the following" in line
+
+            mark_amendments = with_the or subject_to
+
+            if not all([hf_or_sf, recommends, mark_amendments]):
+                return False
+
+            a = "The question was taken"
+            b = "The roll was called"
+            c = "Those who voted"
+            _end = "The motion prevailed"
+            _end_b = "The motion did not prevail"
+            _a, _b, _c = False, False, False
+
+            for _l in lines[index+2::]:
+                if a in _l:
+                    _a = True
+                if b in _l and _a:
+                    _b = True
+                if c in _l and _a and _b:
+                    _c = True
+                if (_end in _l) or (_end_b in _l) and _a and _b and _c:
+                    return True
+        return False
+
+    def end_test(inner, line, index):
+        # Trick here is that sometimes there's other things coming after
+        # this that need to be included
+        prevail = "The motion prevailed" in line
+        nope    = "The motion did not prevail" in line
+        following_ammendment = 'moved to amend' in inner[index+1]
+        # test preceding S.F. No. / H.F. No. value?
+        return (prevail or nope) and not following_ammendment
+
+    vote_chunks = getblocksByTests(lines, begin_test, end_test)
+    print len(vote_chunks)
+
+    if len(vote_chunks) == 0:
+        return False
+
+    return map(process_amendment_vote_chunk, vote_chunks)
+
+
 def parse_date(lines):
     """ The date format is pretty consistent, but ISO date formats are
     better, however keep the original date string and day of year.
@@ -325,7 +408,7 @@ def parse_date(lines):
 
     return result
 
-def main(filename):
+def main(filename, arguments):
 
     no_page_breaks = lambda x: not x.startswith("")
     with open(filename) as F:
@@ -352,9 +435,9 @@ def main(filename):
     votes = find_votes(data)
 
     if votes:
-        logger.info("%s - VOTES: %s" % (filename, str(bool(votes))))
+        logger.info("%s - BILL VOTES: %s" % (filename, str(bool(votes))))
     else:
-        logger.warning( "%s - VOTES: ERROR" % filename)
+        logger.warning( "%s - BILL VOTES: ERROR" % filename)
 
     journal = { 'role_call': names
               , 'bill_votes': votes
@@ -362,20 +445,51 @@ def main(filename):
               , 'date': _date_info
               }
 
-    with open(filename + '.json', 'w') as F:
+    if arguments["--with-amendments"] is True:
+        amendment_votes = find_amendment_votes(data)
+        journal['amendment_votes'] = amendment_votes
+        if amendment_votes:
+            logger.info("%s - AMENDMENT VOTES: %s"
+                        % (filename, str(bool(amendment_votes)))
+                       )
+        else:
+            logger.warning( "%s - RESOLUTION VOTES: ERROR" % filename)
+
+    # if arguments["--with-resolutions"] is True:
+    #     resolution_votes = find_resolution_votes(data)
+    #     journal['resolution_votes'] = resolution_votes
+
+    #     if resolution_votes:
+    #         logger.info("%s - RESOLUTION VOTES: %s"
+    #                     % (filename, str(bool(resolution_votes)))
+    #                    )
+    #     else:
+    #         logger.warning( "%s - RESOLUTION VOTES: ERROR" % filename)
+
+    if arguments["--format"] == "JSON":
         try:
-            print >> F, json.dumps(journal, indent=4)
+            output = json.dumps(journal, indent=4)
         except:
             logger.error(" *** OMG: Something went way wrong encoding to JSON")
             sys.exit()
 
+    if arguments["<output_file>"] is None:
+        output = sys.stdout
+    else:
+        output = open(arguments["<output_file>"], 'w')
+
+    with output as F:
+        print >> F, json.dumps(journal, indent=4)
+
     return
 
 if __name__ == "__main__":
-    pdf_file = sys.argv[1]
+    arguments = docopt(__doc__, version='0.0.1')
+
+    pdf_file = arguments["<input_file>"]
 
     try:
-        main(pdf_file)
+        main(pdf_file, arguments)
     except Exception, e:
         import traceback
         exc_type, exc_value, exc_traceback = sys.exc_info()
