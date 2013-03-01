@@ -72,7 +72,7 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "status": "So the bill passed and its title was agreed to.", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -108,6 +108,7 @@
                 "Metzen", 
                 "Michel", 
                 "Moua", 
+                "Murphy", 
                 "Olseen", 
                 "Olson, G.", 
                 "Olson, M.", 
@@ -131,13 +132,14 @@
                 "Skogen", 
                 "Sparks", 
                 "Stumpf", 
+                "Tomassoni", 
                 "Torres Ray", 
                 "Vandeveer", 
                 "Vickerman", 
                 "Wiger"
             ], 
             "negatives": false, 
-            "title": "S.F. No. 2251"
+            "title": "S.F. No. 2572"
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100301069.txt"

@@ -192,6 +192,12 @@ def process_vote_chunk(chunk):
 
 def find_votes(lines):
     def begin_test(lines, line, index):
+        """ Two formats to the beginning of a vote on a bill.
+             * bill is read with description included
+             * bill is read without description
+        """
+        first_possibility = False
+
         if index > 10:
             next_ten = lines[index:index+10]
 
@@ -214,8 +220,35 @@ def find_votes(lines):
                     if c in _l:
                         _c = True
                 if all([_a, _b, _c]):
-                    return True
-        return False
+                    first_possibility = False
+
+        second_possibility = False
+
+        a_bill_for = ": A bill for an act relating to" in line
+        if a_bill_for:
+            a = "Was read the third time"
+            b = "The question was taken"
+            c = "The roll was called"
+            d = "Those who voted"
+            _a, _b, _c, _d = False, False, False, False
+
+            for _l in lines[index+1::]:
+                if ('H.F. No.' in _l) or ('S.F. No.' in _l):
+                    second_possibility = False
+                    break
+                else:
+                    if a in _l:
+                        _a = True
+                    if b in _l and _a:
+                        _b = True
+                    if c in _l and _b and _a:
+                        _c = True
+                    if d in _l and _c and _b and _a:
+                        _d = True
+            if all([_a, _b, _c, _d]):
+                second_possibility = True
+
+        return first_possibility or second_possibility
 
     def end_test(inner, line, index):
         if 'So the bill' in line:
@@ -286,6 +319,9 @@ def main(filename):
         logger.info("%s - ROLL: %s" % (filename, str(bool(names))))
     else:
         logger.warning( "%s - ROLL: ERROR" % filename)
+
+    # TODO: first readings of bills could be possible
+    # The following bill(s) was/were read for the first time.
 
     votes = find_votes(data)
 

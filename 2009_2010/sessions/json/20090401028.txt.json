@@ -73,7 +73,7 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "status": "So the bill passed and its title was agreed to.", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -98,12 +98,14 @@
                 "Hann", 
                 "Higgins", 
                 "Ingebrigtsen", 
+                "Johnson", 
                 "Kelash", 
                 "Koch", 
                 "Koering", 
                 "Kubly", 
                 "Langseth", 
                 "Latz", 
+                "Limmer", 
                 "Lourey", 
                 "Lynch", 
                 "Marty", 
@@ -114,10 +116,13 @@
                 "Olseen", 
                 "Olson, G.", 
                 "Olson, M.", 
+                "Ortman", 
                 "Pappas", 
+                "Pariseau", 
                 "Pogemiller", 
                 "Prettner Solon", 
                 "Rest", 
+                "Robling", 
                 "Rosen", 
                 "Rummel", 
                 "Saltzman", 
@@ -132,17 +137,12 @@
                 "Stumpf", 
                 "Tomassoni", 
                 "Torres Ray", 
+                "Vandeveer", 
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": [
-                "Johnson", 
-                "Limmer", 
-                "Ortman", 
-                "Pariseau", 
-                "Vandeveer"
-            ], 
-            "title": "H.F. No. 392"
+            "negatives": false, 
+            "title": "S.F. No. 764"
         }, 
         {
             "status": "So the bill passed and its title was agreed to.", 
@@ -214,7 +214,7 @@
                 "Wiger"
             ], 
             "negatives": false, 
-            "title": "H.F. No. 865"
+            "title": "S.F. No. 811"
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090401028.txt"

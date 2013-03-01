@@ -96,10 +96,17 @@
                 "Fobbe", 
                 "Foley", 
                 "Frederickson", 
+                "Gerlach", 
                 "Gimse", 
+                "Hann", 
                 "Higgins", 
+                "Ingebrigtsen", 
+                "Johnson", 
+                "Jungbauer", 
                 "Kelash", 
+                "Koch", 
                 "Koering", 
+                "Kubly", 
                 "Langseth", 
                 "Latz", 
                 "Lourey", 
@@ -114,6 +121,7 @@
                 "Olson, M.", 
                 "Ortman", 
                 "Pappas", 
+                "Pariseau", 
                 "Pogemiller", 
                 "Prettner Solon", 
                 "Rest", 
@@ -132,20 +140,14 @@
                 "Stumpf", 
                 "Tomassoni", 
                 "Torres Ray", 
+                "Vandeveer", 
                 "Vickerman", 
                 "Wiger"
             ], 
             "negatives": [
-                "Gerlach", 
-                "Hann", 
-                "Ingebrigtsen", 
-                "Johnson", 
-                "Jungbauer", 
-                "Koch", 
-                "Limmer", 
-                "Vandeveer"
+                "Limmer"
             ], 
-            "title": "H.F. No. 886"
+            "title": "S.F. No. 166"
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090226015.txt"
