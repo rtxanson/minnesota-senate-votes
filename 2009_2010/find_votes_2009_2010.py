@@ -203,7 +203,7 @@ def find_votes(lines):
 
             hf_or_sf        = ('S.F. No.' in line) or ('H.F. No.' in line)
             was_read        = 'was read' in line
-            placed_on       = 'placed on' in line
+            placed_on       = 'placed' in line
 
             bill_vote_begin = all([hf_or_sf, was_read, placed_on])
 
