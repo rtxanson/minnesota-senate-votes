@@ -220,7 +220,7 @@ def find_votes(lines):
                     if c in _l:
                         _c = True
                 if all([_a, _b, _c]):
-                    first_possibility = False
+                    first_possibility = True
 
         second_possibility = False
 
