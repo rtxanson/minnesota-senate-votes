@@ -158,8 +158,8 @@ def call_of_the_senate(lines):
 find_bill_title = re.compile(r'([HS]\.F\. No\. \d+)')
 def process_vote_chunk(chunk):
     bill_title        = False
-    affirmative_names = False
-    negative_names    = False
+    affirmative_names = []
+    negative_names    = []
 
     pass_status = [a for a in chunk if 'So the bill' in a][0]
 
@@ -188,11 +188,20 @@ def process_vote_chunk(chunk):
         negative_names = parse_vote_name_block(neg)
     else:
         affirmatives = getblock(chunk, _vote_aff, 'So the bill')
-        negatives    = False
+        negatives_names = []
 
     # Pop off the inclusive end block match line
     affs = affirmatives[1:len(affirmatives) - 1]
     affirmative_names = parse_vote_name_block(affs)
+
+    log_args = ( str(bill_title)
+               , len(affirmative_names)
+               , len(negative_names)
+               )
+    logger.info("    %s - yays: %d, nays: %d" % log_args)
+
+    if len(affirmative_names) > 100 or len(negative_names) > 100:
+        print chunk[0]
 
     return  { 'affirmatives': affirmative_names
             , 'negatives': negative_names
@@ -210,6 +219,11 @@ def find_votes(lines):
              * bill is read with description included
              * bill is read without description
         """
+        # TODO: 20100515106 l. 14135 - matching a block which is too big
+        # and ends in:
+        # So the resolution passed and its title was agreed to.
+        # However obviously this keeps going. fix somehow
+
         first_possibility = False
 
         if index > 10:
@@ -349,7 +363,11 @@ def main(filename):
               }
 
     with open(filename + '.json', 'w') as F:
-        print >> F, json.dumps(journal, indent=4).encode('utf-8')
+        try:
+            print >> F, json.dumps(journal, indent=4)
+        except:
+            logger.error(" *** OMG: Something went way wrong encoding to JSON")
+            sys.exit()
 
     return
 
