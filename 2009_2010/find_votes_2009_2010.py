@@ -1,18 +1,42 @@
 #!/usr/bin/env python
+"""
+Reads a pdftotext-converted senate record, and outputs JSON.
 
-import os
+TODO: first readings of bills could be possible, but maybe already
+      included in some other machine readable dataset online
+
+    "The following bill(s) was/were read for the first time."
+
+TODO: votes on resolutions
+TODO: votes on adoptions of amendments
+TODO: things that committees reccommend
+
+TODO: keyword mentions
+ - all bill titles mentioned (note several formats, individual and list
+   format, No. vs. Nos.)
+ - committee mentions...?
+
+
+"""
+
 import sys
 import logging
 import json
+import re
 
 logger = logging.getLogger("senate")
 logger.setLevel("INFO")
 logger.addHandler(logging.StreamHandler())
 logger.addHandler(logging.FileHandler('last_run_status.txt'))
 
+# TODO: make this a commandline switch later
 DEBUG = True
 
+# [str], str, str -> [str] or False
 def getblock(lines, start_str, end_str):
+    """ Find a block of text where the bounding lines contain start_str
+        and end_str. Inclusive of bounding lines.
+    """
     begin_no = False
     end_no = False
 
@@ -33,9 +57,7 @@ def getblock(lines, start_str, end_str):
 
     return False
 
-def sample_test(lines, line, index):
-    return True
-
+# [str], func, func -> [[str]]
 def getblocksByTests(lines, begin_test, end_test):
     """ Provide two functions to test, if these return true, then a
     chunk is matched.
@@ -52,7 +74,10 @@ def getblocksByTests(lines, begin_test, end_test):
 
     Test functions may be however complex.
 
-    The function returns a list of chunks that are matched.
+        >>> def sample_test(lines, line, index):
+        >>>     return True
+
+    This function returns a list of chunks that are matched.
 
     """
 
@@ -96,12 +121,7 @@ def chunkby(lines, chunk_str=False, regex=False):
             cur_chunk.append(line)
 
 
-def session_date(lines):
-    return lines
-
-import re
 splitter = re.compile('\s{2,}').split
-
 def call_of_the_senate(lines):
     start = "The Senate met at "
     end   = " declared a quorum present."
@@ -119,8 +139,6 @@ def call_of_the_senate(lines):
                    , "quorum"
                    )
 
-    # TODO: move elsewhere so filename is avail
-
     if not roll:
         return False
 
@@ -128,8 +146,6 @@ def call_of_the_senate(lines):
 
     names = sorted([ a for a in sum([splitter(a) for a in senator_list], [])
                      if a.strip() ])
-
-    _n_count = len(names)
 
     return names
 
@@ -319,9 +335,6 @@ def main(filename):
         logger.info("%s - ROLL: %s" % (filename, str(bool(names))))
     else:
         logger.warning( "%s - ROLL: ERROR" % filename)
-
-    # TODO: first readings of bills could be possible
-    # The following bill(s) was/were read for the first time.
 
     votes = find_votes(data)
 
