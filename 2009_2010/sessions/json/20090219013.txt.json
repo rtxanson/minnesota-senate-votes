@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "13th day", 
-        "date_utc": "2009-02-19T00:00:00", 
+        "date_iso": "2009-02-19T00:00:00", 
         "date_string": "THURSDAY, FEBRUARY 19, 2009"
     }, 
     "role_call": [
@@ -70,7 +70,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 162", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 55, 
+            "nays": 7, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -136,11 +141,15 @@
                 "Pariseau", 
                 "Scheid", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 162"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 213", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 58, 
+            "nays": 4, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -206,8 +215,7 @@
                 "Hann", 
                 "Limmer", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 213"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090219013.txt"

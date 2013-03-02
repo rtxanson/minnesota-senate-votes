@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "74th day", 
-        "date_utc": "2010-03-15T00:00:00", 
+        "date_iso": "2010-03-15T00:00:00", 
         "date_string": "MONDAY, MARCH 15, 2010"
     }, 
     "role_call": [
@@ -71,7 +71,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 2946", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 63, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -137,8 +142,7 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 2946"
+            "negatives": []
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100315074.txt"

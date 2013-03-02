@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "70th day", 
-        "date_utc": "2010-03-04T00:00:00", 
+        "date_iso": "2010-03-04T00:00:00", 
         "date_string": "THURSDAY, MARCH 4, 2010"
     }, 
     "role_call": [
@@ -72,7 +72,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 2352", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 59, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -134,11 +139,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 2352"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 2596", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 62, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -203,11 +212,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 2596"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 2340", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 62, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -272,8 +285,7 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 2340"
+            "negatives": []
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100304070.txt"

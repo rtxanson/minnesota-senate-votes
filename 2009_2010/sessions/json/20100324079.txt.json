@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "79th day", 
-        "date_utc": "2010-03-24T00:00:00", 
+        "date_iso": "2010-03-24T00:00:00", 
         "date_string": "WEDNESDAY, MARCH 24, 2010"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 2596", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 56, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -133,11 +138,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 2596"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 460", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 50, 
+            "nays": 12, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -203,8 +212,7 @@
                 "Skoe", 
                 "Skogen", 
                 "Sparks"
-            ], 
-            "title": "S.F. No. 460"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100324079.txt"

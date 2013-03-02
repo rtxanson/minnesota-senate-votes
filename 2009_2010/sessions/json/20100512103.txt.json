@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "103rd day", 
-        "date_utc": "2010-05-12T00:00:00", 
+        "date_iso": "2010-05-12T00:00:00", 
         "date_string": "WEDNESDAY, MAY 12, 2010"
     }, 
     "role_call": [
@@ -75,7 +75,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 341", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 41, 
+            "nays": 24, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -144,11 +149,15 @@
                 "Stumpf", 
                 "Vandeveer", 
                 "Vickerman"
-            ], 
-            "title": "S.F. No. 341"
+            ]
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 2918", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 52, 
+            "nays": 14, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -218,11 +227,15 @@
                 "Parry", 
                 "Senjem", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 2918"
+            ]
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "H.F. No. 3263", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 61, 
+            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Berglin", 
@@ -286,11 +299,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "H.F. No. 3263"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 3275", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 59, 
+            "nays": 7, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -360,11 +377,15 @@
                 "Ortman", 
                 "Parry", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 3275"
+            ]
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "H.F. No. 2624", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 59, 
+            "nays": 7, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -434,11 +455,15 @@
                 "Limmer", 
                 "Parry", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 2624"
+            ]
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "H.F. No. 2614", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 47, 
+            "nays": 18, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -507,8 +532,7 @@
                 "Rosen", 
                 "Senjem", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 2614"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100512103.txt"

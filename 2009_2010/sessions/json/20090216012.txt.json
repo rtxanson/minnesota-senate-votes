@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "12th day", 
-        "date_utc": "2009-02-16T00:00:00", 
+        "date_iso": "2009-02-16T00:00:00", 
         "date_string": "MONDAY, FEBRUARY 16, 2009"
     }, 
     "role_call": [
@@ -69,7 +69,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 47", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 47, 
+            "nays": 14, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -134,11 +139,15 @@
                 "Pariseau", 
                 "Senjem", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 47"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 307", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 59, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -200,8 +209,7 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 307"
+            "negatives": []
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090216012.txt"

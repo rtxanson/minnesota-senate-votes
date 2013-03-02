@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "10th day", 
-        "date_utc": "2009-02-09T00:00:00", 
+        "date_iso": "2009-02-09T00:00:00", 
         "date_string": "MONDAY, FEBRUARY 9, 2009"
     }, 
     "role_call": [
@@ -72,7 +72,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 350", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 64, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -139,11 +144,15 @@
                 "Vandeveer", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 350"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 104", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 56, 
+            "nays": 7, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -210,8 +219,7 @@
                 "Ortman", 
                 "Robling", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 104"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090209010.txt"

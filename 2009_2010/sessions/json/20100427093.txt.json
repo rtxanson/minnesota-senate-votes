@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "93rd day", 
-        "date_utc": "2010-04-27T00:00:00", 
+        "date_iso": "2010-04-27T00:00:00", 
         "date_string": "TUESDAY, APRIL 27, 2010"
     }, 
     "role_call": [
@@ -70,7 +70,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 2758", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 53, 
+            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Betzold", 
@@ -126,11 +131,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 2758"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "H.F. No. 3164", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 55, 
+            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Betzold", 
@@ -188,8 +197,7 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "H.F. No. 3164"
+            "negatives": []
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100427093.txt"

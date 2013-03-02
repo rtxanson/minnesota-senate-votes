@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "47th day", 
-        "date_utc": "2009-05-05T00:00:00", 
+        "date_iso": "2009-05-05T00:00:00", 
         "date_string": "TUESDAY, MAY 5, 2009"
     }, 
     "role_call": [
@@ -73,7 +73,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 245", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 54, 
+            "nays": 3, 
             "affirmatives": [
                 "Berglin", 
                 "Betzold", 
@@ -134,11 +139,15 @@
                 "Hann", 
                 "Ingebrigtsen", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 245"
+            ]
         }, 
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 412", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 59, 
+            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Berglin", 
@@ -200,11 +209,15 @@
                 "Vandeveer", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 412"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 640", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 60, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -267,11 +280,15 @@
                 "Vandeveer", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 640"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 729", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 60, 
+            "nays": 1, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -336,11 +353,15 @@
             ], 
             "negatives": [
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 729"
+            ]
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 166", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 64, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -407,8 +428,7 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 166"
+            "negatives": []
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090505047.txt"

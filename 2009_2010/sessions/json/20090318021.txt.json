@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "21st day", 
-        "date_utc": "2009-03-18T00:00:00", 
+        "date_iso": "2009-03-18T00:00:00", 
         "date_string": "WEDNESDAY, MARCH 18, 2009"
     }, 
     "role_call": [
@@ -69,7 +69,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "H.F. No. 392", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 52, 
+            "nays": 9, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -134,11 +139,15 @@
                 "Koch", 
                 "Limmer", 
                 "Senjem"
-            ], 
-            "title": "H.F. No. 392"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "H.F. No. 56", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 60, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -201,11 +210,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "H.F. No. 56"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 740", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 52, 
+            "nays": 6, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -267,8 +280,7 @@
                 "Ortman", 
                 "Robling", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 740"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090318021.txt"

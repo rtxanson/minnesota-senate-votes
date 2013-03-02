@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "75th day", 
-        "date_utc": "2010-03-17T00:00:00", 
+        "date_iso": "2010-03-17T00:00:00", 
         "date_string": "WEDNESDAY, MARCH 17, 2010"
     }, 
     "role_call": [
@@ -73,7 +73,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 3026", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 64, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -140,11 +145,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 3026"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 3167", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 64, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -211,8 +220,7 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 3167"
+            "negatives": []
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100317075.txt"

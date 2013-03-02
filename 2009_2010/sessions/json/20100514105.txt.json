@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "105th day", 
-        "date_utc": "2010-05-14T00:00:00", 
+        "date_iso": "2010-05-14T00:00:00", 
         "date_string": "FRIDAY, MAY 14, 2010"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "H.F. No. 3834", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 61, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -138,11 +143,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "H.F. No. 3834"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "H.F. No. 2859", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 53, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -198,11 +207,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "H.F. No. 2859"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "H.F. No. 2801", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 53, 
+            "nays": 1, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -260,8 +273,7 @@
             ], 
             "negatives": [
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 2801"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100514105.txt"

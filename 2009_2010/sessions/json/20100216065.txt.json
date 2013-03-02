@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "65th day", 
-        "date_utc": "2010-02-16T00:00:00", 
+        "date_iso": "2010-02-16T00:00:00", 
         "date_string": "TUESDAY, FEBRUARY 16, 2010"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "H.F. No. 2700", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 53, 
+            "nays": 13, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -144,11 +149,15 @@
                 "Robling", 
                 "Senjem", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 2700"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 2251", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -216,8 +225,7 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 2251"
+            "negatives": []
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100216065.txt"

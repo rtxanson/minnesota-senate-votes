@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "80th day", 
-        "date_utc": "2010-03-25T00:00:00", 
+        "date_iso": "2010-03-25T00:00:00", 
         "date_string": "THURSDAY, MARCH 25, 2010"
     }, 
     "role_call": [
@@ -73,7 +73,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "H.F. No. 3108", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 50, 
+            "nays": 0, 
             "affirmatives": [
                 "Berglin", 
                 "Betzold", 
@@ -126,8 +131,7 @@
                 "Vandeveer", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "H.F. No. 3108"
+            "negatives": []
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100325080.txt"

@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "36th day", 
-        "date_utc": "2009-04-20T00:00:00", 
+        "date_iso": "2009-04-20T00:00:00", 
         "date_string": "MONDAY, APRIL 20, 2009"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 615", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 62, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -139,11 +144,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 615"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "S.F. No. 2082", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 59, 
+            "nays": 6, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -212,11 +221,15 @@
                 "Koering", 
                 "Michel", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 2082"
+            ]
         }, 
         {
-            "status": "So the bill, as amended, failed to pass.", 
+            "title": "S.F. No. 802", 
+            "pass": false, 
+            "status_string": " amended, failed to pass", 
+            "amended": false, 
+            "yays": 33, 
+            "nays": 32, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -285,11 +298,15 @@
                 "Sieben", 
                 "Vandeveer", 
                 "Wiger"
-            ], 
-            "title": "S.F. No. 802"
+            ]
         }, 
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "S.F. No. 802", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 34, 
+            "nays": 31, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -358,8 +375,7 @@
                 "Sieben", 
                 "Vandeveer", 
                 "Wiger"
-            ], 
-            "title": "S.F. No. 802"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090420036.txt"

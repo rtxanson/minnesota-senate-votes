@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "39th day", 
-        "date_utc": "2009-04-23T00:00:00", 
+        "date_iso": "2009-04-23T00:00:00", 
         "date_string": "THURSDAY, APRIL 23, 2009"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "H.F. No. 1122", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 54, 
+            "nays": 12, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -144,11 +149,15 @@
                 "Ortman", 
                 "Rosen", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 1122"
+            ]
         }, 
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "S.F. No. 1276", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 47, 
+            "nays": 18, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -217,11 +226,15 @@
                 "Sparks", 
                 "Tomassoni", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 1276"
+            ]
         }, 
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "S.F. No. 2099", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 49, 
+            "nays": 15, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -289,11 +302,15 @@
                 "Pariseau", 
                 "Senjem", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 2099"
+            ]
         }, 
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "H.F. No. 2123", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 46, 
+            "nays": 16, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -359,8 +376,7 @@
                 "Pariseau", 
                 "Senjem", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 2123"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090423039.txt"

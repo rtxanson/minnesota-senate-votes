@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "54th day", 
-        "date_utc": "2009-05-14T00:00:00", 
+        "date_iso": "2009-05-14T00:00:00", 
         "date_string": "THURSDAY, MAY 14, 2009"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "H.F. No. 1275", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 39, 
+            "nays": 17, 
             "affirmatives": [
                 "Bakk", 
                 "Berglin", 
@@ -134,8 +139,7 @@
                 "Rosen", 
                 "Senjem", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 1275"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090514054.txt"

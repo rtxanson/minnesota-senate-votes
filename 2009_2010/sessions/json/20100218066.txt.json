@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "66th day", 
-        "date_utc": "2010-02-18T00:00:00", 
+        "date_iso": "2010-02-18T00:00:00", 
         "date_string": "THURSDAY, FEBRUARY 18, 2010"
     }, 
     "role_call": [
@@ -72,7 +72,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 2352", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 56, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -131,11 +136,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 2352"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 2309", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 59, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -197,11 +206,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 2309"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 2168", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 47, 
+            "nays": 16, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -268,8 +281,7 @@
                 "Rosen", 
                 "Senjem", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 2168"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100218066.txt"

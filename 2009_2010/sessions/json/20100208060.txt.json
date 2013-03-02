@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "60th day", 
-        "date_utc": "2010-02-08T00:00:00", 
+        "date_iso": "2010-02-08T00:00:00", 
         "date_string": "MONDAY, FEBRUARY 8, 2010"
     }, 
     "role_call": [
@@ -69,7 +69,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 848", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 61, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -133,11 +138,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 848"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 740", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 55, 
+            "nays": 6, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -202,8 +211,7 @@
                 "Ortman", 
                 "Robling", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 740"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100208060.txt"

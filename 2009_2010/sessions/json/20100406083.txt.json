@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "83rd day", 
-        "date_utc": "2010-04-06T00:00:00", 
+        "date_iso": "2010-04-06T00:00:00", 
         "date_string": "TUESDAY, APRIL 6, 2010"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "H.F. No. 2668", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 55, 
+            "nays": 7, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -140,11 +145,15 @@
                 "Limmer", 
                 "Parry", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 2668"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "H.F. No. 3164", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 63, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -210,11 +219,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "H.F. No. 3164"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "H.F. No. 3393", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 62, 
+            "nays": 2, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -282,11 +295,15 @@
             "negatives": [
                 "Limmer", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 3393"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "H.F. No. 3286", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 46, 
+            "nays": 18, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -354,8 +371,7 @@
                 "Rosen", 
                 "Senjem", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 3286"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100406083.txt"

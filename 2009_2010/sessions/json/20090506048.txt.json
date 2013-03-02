@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "48th day", 
-        "date_utc": "2009-05-06T00:00:00", 
+        "date_iso": "2009-05-06T00:00:00", 
         "date_string": "WEDNESDAY, MAY 6, 2009"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 1467", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 53, 
+            "nays": 0, 
             "affirmatives": [
                 "Berglin", 
                 "Betzold", 
@@ -130,11 +135,15 @@
                 "Vandeveer", 
                 "Vickerman"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 1467"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "H.F. No. 1301", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 63, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -200,11 +209,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "H.F. No. 1301"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "H.F. No. 936", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 61, 
+            "nays": 1, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -270,11 +283,15 @@
             ], 
             "negatives": [
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 936"
+            ]
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "H.F. No. 819", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 62, 
+            "nays": 1, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -341,8 +358,7 @@
             ], 
             "negatives": [
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 819"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090506048.txt"

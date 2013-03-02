@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "16th day", 
-        "date_utc": "2009-03-02T00:00:00", 
+        "date_iso": "2009-03-02T00:00:00", 
         "date_string": "MONDAY, MARCH 2, 2009"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 230", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 55, 
+            "nays": 4, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -137,11 +142,15 @@
                 "Johnson", 
                 "Limmer", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 230"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 261", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -209,11 +218,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 261"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 496", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -281,8 +294,7 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 496"
+            "negatives": []
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090302016.txt"

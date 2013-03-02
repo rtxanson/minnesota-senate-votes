@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "76th day", 
-        "date_utc": "2010-03-18T00:00:00", 
+        "date_iso": "2010-03-18T00:00:00", 
         "date_string": "THURSDAY, MARCH 18, 2010"
     }, 
     "role_call": [
@@ -75,7 +75,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "H.F. No. 3108", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -143,11 +148,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "H.F. No. 3108"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "H.F. No. 3111", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 63, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -213,8 +222,7 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "H.F. No. 3111"
+            "negatives": []
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100318076.txt"

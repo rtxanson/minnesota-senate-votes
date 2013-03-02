@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "87th day", 
-        "date_utc": "2010-04-13T00:00:00", 
+        "date_iso": "2010-04-13T00:00:00", 
         "date_string": "TUESDAY, APRIL 13, 2010"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 2808", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 56, 
+            "nays": 5, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -139,8 +144,7 @@
                 "Hann", 
                 "Rest", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 2808"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100413087.txt"

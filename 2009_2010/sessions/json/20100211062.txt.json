@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "62nd day", 
-        "date_utc": "2010-02-11T00:00:00", 
+        "date_iso": "2010-02-11T00:00:00", 
         "date_string": "THURSDAY, FEBRUARY 11, 2010"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "S.F. No. 2168", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 45, 
+            "nays": 20, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -143,8 +148,7 @@
                 "Rosen", 
                 "Senjem", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 2168"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100211062.txt"

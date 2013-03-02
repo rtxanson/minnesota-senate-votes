@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "68th day", 
-        "date_utc": "2010-02-25T00:00:00", 
+        "date_iso": "2010-02-25T00:00:00", 
         "date_string": "THURSDAY, FEBRUARY 25, 2010"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 2259", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 63, 
+            "nays": 3, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -144,8 +149,7 @@
                 "Gerlach", 
                 "Johnson", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 2259"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100225068.txt"

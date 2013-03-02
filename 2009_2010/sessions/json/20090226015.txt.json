@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "15th day", 
-        "date_utc": "2009-02-26T00:00:00", 
+        "date_iso": "2009-02-26T00:00:00", 
         "date_string": "THURSDAY, FEBRUARY 26, 2009"
     }, 
     "role_call": [
@@ -75,7 +75,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 166", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 66, 
+            "nays": 1, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -146,11 +151,15 @@
             ], 
             "negatives": [
                 "Limmer"
-            ], 
-            "title": "S.F. No. 166"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "H.F. No. 886", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 57, 
+            "nays": 8, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -219,8 +228,7 @@
                 "Koch", 
                 "Limmer", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 886"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090226015.txt"

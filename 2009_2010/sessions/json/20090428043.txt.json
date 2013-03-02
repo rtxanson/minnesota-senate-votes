@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "43rd day", 
-        "date_utc": "2009-04-28T00:00:00", 
+        "date_iso": "2009-04-28T00:00:00", 
         "date_string": "TUESDAY, APRIL 28, 2009"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "H.F. No. 2323", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 35, 
+            "nays": 30, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -143,11 +148,15 @@
                 "Senjem", 
                 "Skogen", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 2323"
+            ]
         }, 
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "H.F. No. 1362", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 40, 
+            "nays": 25, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -216,8 +225,7 @@
                 "Sparks", 
                 "Vandeveer", 
                 "Vickerman"
-            ], 
-            "title": "H.F. No. 1362"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090428043.txt"

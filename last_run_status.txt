@@ -321,3 +321,2994 @@
 2009_2010/sessions/txt/20100516107.txt - DATE: True
 2009_2010/sessions/txt/20100516107.txt - ROLL: True
 2009_2010/sessions/txt/20100516107.txt - VOTES: True
+2008_2009/sessions/txt/20070103001.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070103001.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070103001.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070104002.txt - DATE: True
+2008_2009/sessions/txt/20070104002.txt - ROLL: True
+2008_2009/sessions/txt/20070104002.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070108003.txt - DATE: True
+2008_2009/sessions/txt/20070108003.txt - ROLL: True
+2008_2009/sessions/txt/20070108003.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070111004.txt - DATE: True
+2008_2009/sessions/txt/20070111004.txt - ROLL: True
+2008_2009/sessions/txt/20070111004.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070116005.txt - DATE: True
+2008_2009/sessions/txt/20070116005.txt - ROLL: True
+2008_2009/sessions/txt/20070116005.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070117006.txt - DATE: True
+2008_2009/sessions/txt/20070117006.txt - ROLL: True
+2008_2009/sessions/txt/20070117006.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070118007.txt - DATE: True
+2008_2009/sessions/txt/20070118007.txt - ROLL: True
+2008_2009/sessions/txt/20070118007.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070122008.txt - DATE: True
+2008_2009/sessions/txt/20070122008.txt - ROLL: True
+    S.F. No. 19 - yays: 64, nays: 0
+2008_2009/sessions/txt/20070122008.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070125009.txt - DATE: True
+2008_2009/sessions/txt/20070125009.txt - ROLL: True
+    H.F. No. 8 - yays: 65, nays: 0
+2008_2009/sessions/txt/20070125009.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070129010.txt - DATE: True
+2008_2009/sessions/txt/20070129010.txt - ROLL: True
+2008_2009/sessions/txt/20070129010.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070201011.txt - DATE: True
+2008_2009/sessions/txt/20070201011.txt - ROLL: True
+2008_2009/sessions/txt/20070201011.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070205012.txt - DATE: True
+2008_2009/sessions/txt/20070205012.txt - ROLL: True
+2008_2009/sessions/txt/20070205012.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070207013.txt - DATE: True
+2008_2009/sessions/txt/20070207013.txt - ROLL: True
+    S.F. No. 123 - yays: 61, nays: 0
+    S.F. No. 138 - yays: 63, nays: 0
+2008_2009/sessions/txt/20070207013.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070208014.txt - DATE: True
+2008_2009/sessions/txt/20070208014.txt - ROLL: True
+    S.F. No. 255 - yays: 66, nays: 0
+    S.F. No. 4 - yays: 63, nays: 3
+2008_2009/sessions/txt/20070208014.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070212015.txt - DATE: True
+2008_2009/sessions/txt/20070212015.txt - ROLL: True
+2008_2009/sessions/txt/20070212015.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070213016.txt - DATE: True
+2008_2009/sessions/txt/20070213016.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070213016.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070215017.txt - DATE: True
+2008_2009/sessions/txt/20070215017.txt - ROLL: True
+    H.F. No. 110 - yays: 57, nays: 3
+    S.F. No. 321 - yays: 60, nays: 0
+    S.F. No. 54 - yays: 58, nays: 0
+2008_2009/sessions/txt/20070215017.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070219018.txt - DATE: True
+2008_2009/sessions/txt/20070219018.txt - ROLL: True
+    S.F. No. 372 - yays: 48, nays: 15
+    S.F. No. 302 - yays: 61, nays: 1
+    S.F. No. 26 - yays: 63, nays: 0
+2008_2009/sessions/txt/20070219018.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070221019.txt - DATE: True
+2008_2009/sessions/txt/20070221019.txt - ROLL: True
+    S.F. No. 122 - yays: 49, nays: 17
+    S.F. No. 463 - yays: 58, nays: 7
+2008_2009/sessions/txt/20070221019.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070222020.txt - DATE: True
+2008_2009/sessions/txt/20070222020.txt - ROLL: True
+2008_2009/sessions/txt/20070222020.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070226021.txt - DATE: True
+2008_2009/sessions/txt/20070226021.txt - ROLL: True
+    S.F. No. 106 - yays: 50, nays: 10
+    S.F. No. 555 - yays: 62, nays: 0
+2008_2009/sessions/txt/20070226021.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070228022.txt - DATE: True
+2008_2009/sessions/txt/20070228022.txt - ROLL: True
+    S.F. No. 226 - yays: 52, nays: 8
+    S.F. No. 458 - yays: 55, nays: 3
+    S.F. No. 483 - yays: 60, nays: 0
+    H.F. No. 87 - yays: 60, nays: 0
+    S.F. No. 736 - yays: 59, nays: 0
+2008_2009/sessions/txt/20070228022.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070301023.txt - DATE: True
+2008_2009/sessions/txt/20070301023.txt - ROLL: True
+    S.F. No. 660 - yays: 59, nays: 0
+    S.F. No. 60 - yays: 59, nays: 0
+2008_2009/sessions/txt/20070301023.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070305024.txt - DATE: True
+2008_2009/sessions/txt/20070305024.txt - ROLL: True
+2008_2009/sessions/txt/20070305024.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070307025.txt - DATE: True
+2008_2009/sessions/txt/20070307025.txt - ROLL: True
+    S.F. No. 646 - yays: 61, nays: 2
+    S.F. No. 227 - yays: 64, nays: 0
+    S.F. No. 227 - yays: 61, nays: 4
+    S.F. No. 572 - yays: 65, nays: 0
+2008_2009/sessions/txt/20070307025.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070308026.txt - DATE: True
+2008_2009/sessions/txt/20070308026.txt - ROLL: True
+2008_2009/sessions/txt/20070308026.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070312027.txt - DATE: True
+2008_2009/sessions/txt/20070312027.txt - ROLL: True
+    S.F. No. 108 - yays: 66, nays: 0
+    S.F. No. 112 - yays: 40, nays: 25
+    S.F. No. 563 - yays: 64, nays: 1
+2008_2009/sessions/txt/20070312027.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070313028.txt - DATE: True
+2008_2009/sessions/txt/20070313028.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070313028.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070314029.txt - DATE: True
+2008_2009/sessions/txt/20070314029.txt - ROLL: True
+    S.F. No. 805 - yays: 62, nays: 0
+    S.F. No. 1499 - yays: 62, nays: 0
+    S.F. No. 1499 - yays: 64, nays: 0
+2008_2009/sessions/txt/20070314029.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070315030.txt - DATE: True
+2008_2009/sessions/txt/20070315030.txt - ROLL: True
+2008_2009/sessions/txt/20070315030.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070319031.txt - DATE: True
+2008_2009/sessions/txt/20070319031.txt - ROLL: True
+    S.F. No. 470 - yays: 58, nays: 0
+    S.F. No. 538 - yays: 59, nays: 0
+    S.F. No. 1168 - yays: 62, nays: 0
+    S.F. No. 1045 - yays: 60, nays: 0
+    S.F. No. 1019 - yays: 62, nays: 0
+    S.F. No. 1294 - yays: 62, nays: 0
+    S.F. No. 1311 - yays: 62, nays: 0
+2008_2009/sessions/txt/20070319031.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070320032.txt - DATE: True
+2008_2009/sessions/txt/20070320032.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070320032.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070321033.txt - DATE: True
+2008_2009/sessions/txt/20070321033.txt - ROLL: True
+    S.F. No. 1340 - yays: 59, nays: 0
+    S.F. No. 357 - yays: 63, nays: 0
+    H.F. No. 1008 - yays: 66, nays: 0
+    S.F. No. 1350 - yays: 66, nays: 0
+2008_2009/sessions/txt/20070321033.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070322034.txt - DATE: True
+2008_2009/sessions/txt/20070322034.txt - ROLL: True
+    S.F. No. 1989 - yays: 64, nays: 2
+    S.F. No. 1925 - yays: 66, nays: 0
+2008_2009/sessions/txt/20070322034.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070323035.txt - DATE: True
+2008_2009/sessions/txt/20070323035.txt - ROLL: True
+    S.F. No. 547 - yays: 61, nays: 0
+    S.F. No. 1053 - yays: 64, nays: 0
+    S.F. No. 585 - yays: 65, nays: 0
+    S.F. No. 252 - yays: 64, nays: 0
+    S.F. No. 144 - yays: 65, nays: 0
+    S.F. No. 1332 - yays: 65, nays: 0
+    H.F. No. 1200 - yays: 66, nays: 0
+    S.F. No. 1133 - yays: 65, nays: 0
+    S.F. No. 1986 - yays: 42, nays: 24
+    S.F. No. 1992 - yays: 64, nays: 0
+2008_2009/sessions/txt/20070323035.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070324036.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070324036.txt - ROLL: True
+    H.F. No. 274 - yays: 63, nays: 0
+    S.F. No. 1997 - yays: 42, nays: 20
+2008_2009/sessions/txt/20070324036.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070326037.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070326037.txt - ROLL: True
+    H.F. No. 736 - yays: 63, nays: 0
+    S.F. No. 167 - yays: 48, nays: 15
+    H.F. No. 1441 - yays: 62, nays: 0
+    S.F. No. 156 - yays: 63, nays: 0
+    S.F. No. 1181 - yays: 62, nays: 2
+    S.F. No. 1525 - yays: 60, nays: 2
+    S.F. No. 846 - yays: 61, nays: 2
+    S.F. No. 2095 - yays: 51, nays: 12
+2008_2009/sessions/txt/20070326037.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070327038.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070327038.txt - ROLL: True
+    S.F. No. 817 - yays: 51, nays: 12
+    S.F. No. 238 - yays: 41, nays: 24
+    S.F. No. 2089 - yays: 59, nays: 4
+    S.F. No. 857 - yays: 33, nays: 32
+    S.F. No. 2096 - yays: 63, nays: 2
+    S.F. No. 857 - yays: 36, nays: 29
+    H.F. No. 966 - yays: 53, nays: 12
+    S.F. No. 2096 - yays: 61, nays: 2
+2008_2009/sessions/txt/20070327038.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070328039.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070328039.txt - ROLL: True
+    S.F. No. 2054 - yays: 57, nays: 7
+    S.F. No. 2157 - yays: 56, nays: 9
+    S.F. No. 1972 - yays: 63, nays: 0
+    S.F. No. 276 - yays: 42, nays: 23
+    S.F. No. 60 - yays: 63, nays: 0
+2008_2009/sessions/txt/20070328039.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070329040.txt - DATE: True
+2008_2009/sessions/txt/20070329040.txt - ROLL: True
+    S.F. No. 1333 - yays: 40, nays: 25
+    H.F. No. 274 - yays: 65, nays: 0
+    S.F. No. 2171 - yays: 42, nays: 23
+2008_2009/sessions/txt/20070329040.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070330041.txt - DATE: True
+2008_2009/sessions/txt/20070330041.txt - ROLL: True
+    S.F. No. 997 - yays: 64, nays: 1
+    S.F. No. 1024 - yays: 38, nays: 28
+2008_2009/sessions/txt/20070330041.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070331042.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070331042.txt - ROLL: True
+    S.F. No. 1887 - yays: 54, nays: 0
+    S.F. No. 1611 - yays: 35, nays: 29
+    S.F. No. 2190 - yays: 46, nays: 17
+2008_2009/sessions/txt/20070331042.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070402043.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070402043.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070402043.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070410044.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070410044.txt - ROLL: True
+2008_2009/sessions/txt/20070410044.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070411045.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070411045.txt - ROLL: True
+2008_2009/sessions/txt/20070411045.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070412046.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070412046.txt - ROLL: True
+    S.F. No. 493 - yays: 63, nays: 0
+    S.F. No. 1236 - yays: 65, nays: 0
+    S.F. No. 1048 - yays: 64, nays: 0
+    S.F. No. 837 - yays: 62, nays: 0
+    S.F. No. 753 - yays: 57, nays: 6
+    S.F. No. 1696 - yays: 65, nays: 0
+    S.F. No. 1335 - yays: 63, nays: 1
+2008_2009/sessions/txt/20070412046.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070413047.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070413047.txt - ROLL: True
+    H.F. No. 1004 - yays: 60, nays: 0
+    S.F. No. 221 - yays: 63, nays: 0
+    S.F. No. 1495 - yays: 62, nays: 0
+    S.F. No. 380 - yays: 59, nays: 2
+    S.F. No. 248 - yays: 56, nays: 3
+2008_2009/sessions/txt/20070413047.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070416048.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070416048.txt - ROLL: True
+    S.F. No. 1363 - yays: 52, nays: 0
+    S.F. No. 1098 - yays: 54, nays: 0
+    S.F. No. 1396 - yays: 53, nays: 0
+    S.F. No. 1017 - yays: 56, nays: 0
+    S.F. No. 420 - yays: 54, nays: 5
+    S.F. No. 1201 - yays: 58, nays: 1
+    S.F. No. 2034 - yays: 60, nays: 0
+    S.F. No. 69 - yays: 43, nays: 16
+    S.F. No. 1787 - yays: 60, nays: 0
+    H.F. No. 878 - yays: 60, nays: 0
+    H.F. No. 472 - yays: 61, nays: 0
+2008_2009/sessions/txt/20070416048.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070417049.txt - DATE: True
+2008_2009/sessions/txt/20070417049.txt - ROLL: True
+2008_2009/sessions/txt/20070417049.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070418050.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070418050.txt - ROLL: True
+    H.F. No. 2227 - yays: 65, nays: 0
+    S.F. No. 2043 - yays: 65, nays: 0
+    S.F. No. 1165 - yays: 65, nays: 0
+    S.F. No. 1597 - yays: 65, nays: 0
+    S.F. No. 1675 - yays: 65, nays: 0
+    S.F. No. 683 - yays: 65, nays: 0
+    S.F. No. 1338 - yays: 65, nays: 0
+    S.F. No. 1051 - yays: 65, nays: 0
+    S.F. No. 984 - yays: 51, nays: 14
+    S.F. No. 1296 - yays: 63, nays: 1
+    H.F. No. 293 - yays: 65, nays: 0
+    S.F. No. 986 - yays: 65, nays: 0
+    S.F. No. 924 - yays: 66, nays: 0
+    S.F. No. 1509 - yays: 66, nays: 0
+    S.F. No. 1388 - yays: 63, nays: 0
+    S.F. No. 1285 - yays: 64, nays: 0
+    S.F. No. 1377 - yays: 65, nays: 0
+    S.F. No. 1528 - yays: 64, nays: 1
+    S.F. No. 1755 - yays: 65, nays: 0
+    S.F. No. 1161 - yays: 63, nays: 2
+    S.F. No. 218 - yays: 64, nays: 2
+    S.F. No. 289 - yays: 65, nays: 1
+    H.F. No. 1594 - yays: 65, nays: 0
+    S.F. No. 44 - yays: 64, nays: 2
+    S.F. No. 1260 - yays: 65, nays: 0
+    S.F. No. 1790 - yays: 64, nays: 1
+    S.F. No. 1735 - yays: 51, nays: 14
+    S.F. No. 1441 - yays: 50, nays: 16
+    S.F. No. 1278 - yays: 53, nays: 13
+    S.F. No. 50 - yays: 33, nays: 33
+    S.F. No. 1370 - yays: 66, nays: 0
+    S.F. No. 1085 - yays: 61, nays: 5
+    S.F. No. 1200 - yays: 62, nays: 1
+    S.F. No. 322 - yays: 63, nays: 1
+    S.F. No. 608 - yays: 64, nays: 0
+    S.F. No. 1366 - yays: 45, nays: 18
+    S.F. No. 2053 - yays: 65, nays: 0
+    S.F. No. 739 - yays: 61, nays: 4
+    S.F. No. 1902 - yays: 65, nays: 0
+    S.F. No. 2030 - yays: 64, nays: 1
+    S.F. No. 642 - yays: 65, nays: 0
+    S.F. No. 1705 - yays: 64, nays: 1
+    S.F. No. 1417 - yays: 64, nays: 0
+    S.F. No. 1483 - yays: 65, nays: 0
+    S.F. No. 958 - yays: 64, nays: 1
+    S.F. No. 758 - yays: 65, nays: 0
+    H.F. No. 1033 - yays: 65, nays: 0
+    S.F. No. 1069 - yays: 64, nays: 1
+    S.F. No. 1464 - yays: 63, nays: 2
+    S.F. No. 358 - yays: 63, nays: 1
+    S.F. No. 1949 - yays: 65, nays: 0
+    S.F. No. 1581 - yays: 66, nays: 0
+    H.F. No. 539 - yays: 66, nays: 0
+    S.F. No. 1131 - yays: 65, nays: 0
+    S.F. No. 400 - yays: 66, nays: 0
+    S.F. No. 1343 - yays: 65, nays: 1
+    S.F. No. 1432 - yays: 65, nays: 1
+    S.F. No. 241 - yays: 63, nays: 2
+    S.F. No. 1062 - yays: 64, nays: 2
+    S.F. No. 1193 - yays: 66, nays: 0
+    S.F. No. 2047 - yays: 65, nays: 0
+    S.F. No. 1581 - yays: 57, nays: 9
+    H.F. No. 829 - yays: 63, nays: 0
+2008_2009/sessions/txt/20070418050.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070419051.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070419051.txt - ROLL: True
+    H.F. No. 6 - yays: 48, nays: 8
+2008_2009/sessions/txt/20070419051.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070420052.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070420052.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070420052.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070423053.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070423053.txt - ROLL: True
+    S.F. No. 744 - yays: 63, nays: 1
+    S.F. No. 1105 - yays: 64, nays: 0
+    S.F. No. 1558 - yays: 63, nays: 1
+    S.F. No. 1807 - yays: 64, nays: 0
+    S.F. No. 1336 - yays: 64, nays: 0
+    S.F. No. 1436 - yays: 64, nays: 0
+    S.F. No. 1221 - yays: 63, nays: 0
+    S.F. No. 1542 - yays: 64, nays: 0
+    S.F. No. 1271 - yays: 43, nays: 22
+    S.F. No. 1660 - yays: 64, nays: 1
+    S.F. No. 1148 - yays: 65, nays: 0
+    S.F. No. 1605 - yays: 40, nays: 24
+    S.F. No. 124 - yays: 42, nays: 21
+    S.F. No. 1157 - yays: 64, nays: 0
+    S.F. No. 1959 - yays: 64, nays: 0
+    S.F. No. 1443 - yays: 51, nays: 13
+    S.F. No. 2212 - yays: 64, nays: 0
+    S.F. No. 794 - yays: 64, nays: 0
+    S.F. No. 2068 - yays: 62, nays: 1
+    S.F. No. 2098 - yays: 47, nays: 17
+    S.F. No. 2099 - yays: 64, nays: 0
+    S.F. No. 2100 - yays: 64, nays: 0
+    S.F. No. 2105 - yays: 62, nays: 2
+    S.F. No. 1405 - yays: 64, nays: 0
+    S.F. No. 1218 - yays: 63, nays: 1
+    S.F. No. 1073 - yays: 62, nays: 0
+    H.F. No. 2090 - yays: 64, nays: 0
+    H.F. No. 1490 - yays: 62, nays: 1
+    H.F. No. 881 - yays: 60, nays: 4
+    H.F. No. 272 - yays: 63, nays: 0
+    S.F. No. 145 - yays: 55, nays: 9
+    S.F. No. 875 - yays: 40, nays: 23
+    S.F. No. 1262 - yays: 60, nays: 3
+    S.F. No. 1533 - yays: 63, nays: 1
+    S.F. No. 356 - yays: 48, nays: 16
+    S.F. No. 1920 - yays: 63, nays: 0
+    S.F. No. 890 - yays: 63, nays: 0
+    S.F. No. 1966 - yays: 64, nays: 0
+    S.F. No. 2161 - yays: 64, nays: 0
+    S.F. No. 1700 - yays: 64, nays: 0
+    S.F. No. 1349 - yays: 59, nays: 3
+    S.F. No. 1724 - yays: 63, nays: 1
+    S.F. No. 900 - yays: 64, nays: 0
+    S.F. No. 1998 - yays: 59, nays: 5
+    S.F. No. 1393 - yays: 64, nays: 0
+    S.F. No. 1556 - yays: 64, nays: 0
+2008_2009/sessions/txt/20070423053.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070424054.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070424054.txt - ROLL: True
+2008_2009/sessions/txt/20070424054.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070425055.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070425055.txt - ROLL: True
+    S.F. No. 1949 - yays: 60, nays: 0
+    S.F. No. 1144 - yays: 61, nays: 0
+    S.F. No. 1857 - yays: 63, nays: 0
+    S.F. No. 1557 - yays: 63, nays: 0
+    S.F. No. 475 - yays: 56, nays: 7
+    S.F. No. 846 - yays: 62, nays: 0
+2008_2009/sessions/txt/20070425055.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070426056.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070426056.txt - ROLL: True
+2008_2009/sessions/txt/20070426056.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20070427057.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070427057.txt - ROLL: True
+    S.F. No. 1075 - yays: 60, nays: 0
+    S.F. No. 2174 - yays: 62, nays: 0
+    S.F. No. 2226 - yays: 62, nays: 0
+    S.F. No. 2203 - yays: 59, nays: 2
+    S.F. No. 949 - yays: 62, nays: 0
+    S.F. No. 1310 - yays: 61, nays: 1
+    S.F. No. 1981 - yays: 61, nays: 1
+    S.F. No. 2041 - yays: 61, nays: 2
+    S.F. No. 1822 - yays: 62, nays: 1
+    S.F. No. 1298 - yays: 40, nays: 23
+    S.F. No. 2059 - yays: 63, nays: 0
+    S.F. No. 1178 - yays: 61, nays: 2
+    S.F. No. 1070 - yays: 56, nays: 6
+    S.F. No. 100 - yays: 38, nays: 26
+    H.F. No. 2362 - yays: 35, nays: 22
+2008_2009/sessions/txt/20070427057.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070430058.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070430058.txt - ROLL: True
+    S.F. No. 420 - yays: 52, nays: 6
+    S.F. No. 1236 - yays: 60, nays: 0
+    S.F. No. 802 - yays: 61, nays: 0
+    S.F. No. 1429 - yays: 60, nays: 0
+    H.F. No. 532 - yays: 62, nays: 0
+    S.F. No. 514 - yays: 40, nays: 22
+    S.F. No. 868 - yays: 61, nays: 2
+    S.F. No. 1302 - yays: 59, nays: 2
+    S.F. No. 1791 - yays: 47, nays: 14
+    S.F. No. 596 - yays: 64, nays: 0
+    S.F. No. 988 - yays: 64, nays: 0
+    S.F. No. 2231 - yays: 62, nays: 1
+    S.F. No. 118 - yays: 62, nays: 1
+    H.F. No. 455 - yays: 63, nays: 0
+    H.F. No. 854 - yays: 63, nays: 1
+    S.F. No. 1126 - yays: 63, nays: 0
+    S.F. No. 140 - yays: 54, nays: 10
+    S.F. No. 1186 - yays: 64, nays: 0
+2008_2009/sessions/txt/20070430058.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070501059.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070501059.txt - ROLL: True
+    H.F. No. 2227 - yays: 64, nays: 0
+    H.F. No. 966 - yays: 50, nays: 10
+2008_2009/sessions/txt/20070501059.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070502060.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070502060.txt - ROLL: True
+    S.F. No. 358 - yays: 57, nays: 1
+    S.F. No. 555 - yays: 62, nays: 0
+    S.F. No. 1398 - yays: 43, nays: 22
+2008_2009/sessions/txt/20070502060.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070503061.txt - DATE: True
+2008_2009/sessions/txt/20070503061.txt - ROLL: True
+    S.F. No. 345 - yays: 35, nays: 29
+    S.F. No. 2236 - yays: 62, nays: 0
+    H.F. No. 272 - yays: 61, nays: 0
+2008_2009/sessions/txt/20070503061.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070504062.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070504062.txt - ROLL: True
+    S.F. No. 2089 - yays: 42, nays: 22
+    S.F. No. 1997 - yays: 42, nays: 23
+    H.F. No. 829 - yays: 65, nays: 0
+    S.F. No. 2096 - yays: 64, nays: 1
+    H.F. No. 2433 - yays: 63, nays: 0
+2008_2009/sessions/txt/20070504062.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070507063.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070507063.txt - ROLL: True
+    S.F. No. 2171 - yays: 47, nays: 19
+2008_2009/sessions/txt/20070507063.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070508064.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070508064.txt - ROLL: True
+    S.F. No. 1989 - yays: 44, nays: 21
+    S.F. No. 1193 - yays: 60, nays: 4
+2008_2009/sessions/txt/20070508064.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070509065.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070509065.txt - ROLL: True
+    S.F. No. 1509 - yays: 59, nays: 0
+    S.F. No. 1312 - yays: 61, nays: 0
+    S.F. No. 1045 - yays: 57, nays: 1
+    S.F. No. 1971 - yays: 52, nays: 12
+    S.F. No. 1346 - yays: 62, nays: 1
+    S.F. No. 961 - yays: 64, nays: 0
+    S.F. No. 1753 - yays: 60, nays: 3
+    S.F. No. 303 - yays: 63, nays: 1
+    S.F. No. 1449 - yays: 64, nays: 0
+    S.F. No. 1215 - yays: 63, nays: 1
+2008_2009/sessions/txt/20070509065.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070510066.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070510066.txt - ROLL: True
+    S.F. No. 538 - yays: 63, nays: 0
+    H.F. No. 2294 - yays: 35, nays: 31
+2008_2009/sessions/txt/20070510066.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070511067.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070511067.txt - ROLL: True
+    S.F. No. 238 - yays: 43, nays: 21
+    S.F. No. 6 - yays: 52, nays: 14
+    S.F. No. 883 - yays: 55, nays: 9
+    S.F. No. 184 - yays: 62, nays: 1
+    S.F. No. 1823 - yays: 64, nays: 0
+    S.F. No. 1360 - yays: 64, nays: 0
+    S.F. No. 1185 - yays: 61, nays: 3
+    S.F. No. 893 - yays: 55, nays: 9
+    S.F. No. 445 - yays: 63, nays: 0
+2008_2009/sessions/txt/20070511067.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070514068.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070514068.txt - ROLL: True
+    H.F. No. 946 - yays: 47, nays: 17
+2008_2009/sessions/txt/20070514068.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070515069.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070515069.txt - ROLL: True
+    S.F. No. 1070 - yays: 56, nays: 4
+    S.F. No. 118 - yays: 61, nays: 1
+    H.F. No. 1351 - yays: 53, nays: 9
+2008_2009/sessions/txt/20070515069.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070516070.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070516070.txt - ROLL: True
+    S.F. No. 303 - yays: 53, nays: 0
+    S.F. No. 54 - yays: 56, nays: 0
+    S.F. No. 961 - yays: 57, nays: 0
+    S.F. No. 69 - yays: 50, nays: 8
+    H.F. No. 1063 - yays: 64, nays: 0
+    H.F. No. 122 - yays: 54, nays: 11
+    H.F. No. 1078 - yays: 44, nays: 21
+    H.F. No. 548 - yays: 42, nays: 22
+    S.F. No. 653 - yays: 44, nays: 20
+    H.F. No. 1758 - yays: 63, nays: 1
+    H.F. No. 2245 - yays: 47, nays: 17
+    H.F. No. 2268 - yays: 40, nays: 24
+    S.F. No. 1165 - yays: 63, nays: 0
+    S.F. No. 1085 - yays: 59, nays: 2
+    S.F. No. 1333 - yays: 51, nays: 7
+2008_2009/sessions/txt/20070516070.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070517071.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070517071.txt - ROLL: True
+    S.F. No. 1959 - yays: 55, nays: 0
+    S.F. No. 1581 - yays: 55, nays: 4
+    S.F. No. 241 - yays: 56, nays: 1
+    S.F. No. 1533 - yays: 60, nays: 0
+    S.F. No. 563 - yays: 58, nays: 0
+    S.F. No. 430 - yays: 61, nays: 0
+    S.F. No. 493 - yays: 59, nays: 0
+    S.F. No. 1724 - yays: 62, nays: 0
+2008_2009/sessions/txt/20070517071.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070518072.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070518072.txt - ROLL: True
+    H.F. No. 532 - yays: 53, nays: 0
+    S.F. No. 2226 - yays: 50, nays: 2
+    S.F. No. 1302 - yays: 54, nays: 1
+    S.F. No. 802 - yays: 56, nays: 0
+    S.F. No. 26 - yays: 51, nays: 5
+    S.F. No. 2226 - yays: 57, nays: 2
+2008_2009/sessions/txt/20070518072.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070519073.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070519073.txt - ROLL: True
+    S.F. No. 1271 - yays: 53, nays: 7
+    S.F. No. 221 - yays: 40, nays: 22
+    S.F. No. 883 - yays: 53, nays: 9
+    H.F. No. 1973 - yays: 60, nays: 2
+    H.F. No. 464 - yays: 49, nays: 16
+    H.F. No. 2433 - yays: 60, nays: 0
+    S.F. No. 463 - yays: 44, nays: 17
+    S.F. No. 1131 - yays: 61, nays: 4
+    S.F. No. 1048 - yays: 65, nays: 0
+    S.F. No. 167 - yays: 65, nays: 0
+    S.F. No. 1377 - yays: 63, nays: 0
+    S.F. No. 596 - yays: 64, nays: 0
+    H.F. No. 1409 - yays: 64, nays: 2
+    S.F. No. 1196 - yays: 66, nays: 0
+    H.F. No. 1396 - yays: 61, nays: 5
+    H.F. No. 1208 - yays: 65, nays: 1
+2008_2009/sessions/txt/20070519073.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070520074.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070520074.txt - ROLL: True
+    S.F. No. 1262 - yays: 54, nays: 0
+    H.F. No. 122 - yays: 58, nays: 4
+    H.F. No. 122 - yays: 53, nays: 10
+    H.F. No. 2285 - yays: 50, nays: 12
+    S.F. No. 184 - yays: 60, nays: 1
+    S.F. No. 430 - yays: 62, nays: 0
+    S.F. No. 145 - yays: 59, nays: 5
+2008_2009/sessions/txt/20070520074.txt - BILL VOTES: True
+2008_2009/sessions/txt/20070521075.txt - ROLL: ERROR
+2008_2009/sessions/txt/20070521075.txt - ROLL: True
+    H.F. No. 2293 - yays: 60, nays: 0
+    H.F. No. 1175 - yays: 59, nays: 0
+    H.F. No. 562 - yays: 65, nays: 0
+    H.F. No. 1208 - yays: 62, nays: 2
+    S.F. No. 1196 - yays: 64, nays: 0
+    H.F. No. 464 - yays: 43, nays: 23
+    H.F. No. 2245 - yays: 51, nays: 15
+    H.F. No. 548 - yays: 65, nays: 1
+    H.F. No. 2268 - yays: 53, nays: 13
+    S.F. No. 1966 - yays: 66, nays: 0
+    H.F. No. 1048 - yays: 59, nays: 7
+    H.F. No. 1781 - yays: 67, nays: 0
+2008_2009/sessions/txt/20070521075.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080212076.txt - DATE: True
+2008_2009/sessions/txt/20080212076.txt - ROLL: True
+2008_2009/sessions/txt/20080212076.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20080214077.txt - DATE: True
+2008_2009/sessions/txt/20080214077.txt - ROLL: True
+    H.F. No. 2285 - yays: 46, nays: 17
+2008_2009/sessions/txt/20080214077.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080218078.txt - DATE: True
+2008_2009/sessions/txt/20080218078.txt - ROLL: True
+2008_2009/sessions/txt/20080218078.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20080219079.txt - DATE: True
+2008_2009/sessions/txt/20080219079.txt - ROLL: ERROR
+2008_2009/sessions/txt/20080219079.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20080220080.txt - DATE: True
+2008_2009/sessions/txt/20080220080.txt - ROLL: True
+2008_2009/sessions/txt/20080220080.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20080221081.txt - DATE: True
+2008_2009/sessions/txt/20080221081.txt - ROLL: True
+    S.F. No. 2428 - yays: 63, nays: 0
+    H.F. No. 2800 - yays: 47, nays: 20
+2008_2009/sessions/txt/20080221081.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080225082.txt - DATE: True
+2008_2009/sessions/txt/20080225082.txt - ROLL: True
+2008_2009/sessions/txt/20080225082.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20080228083.txt - DATE: True
+2008_2009/sessions/txt/20080228083.txt - ROLL: True
+    S.F. No. 2564 - yays: 54, nays: 0
+    S.F. No. 2379 - yays: 60, nays: 0
+2008_2009/sessions/txt/20080228083.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080303084.txt - DATE: True
+2008_2009/sessions/txt/20080303084.txt - ROLL: True
+    S.F. No. 2861 - yays: 55, nays: 0
+2008_2009/sessions/txt/20080303084.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080304085.txt - DATE: True
+2008_2009/sessions/txt/20080304085.txt - ROLL: True
+    S.F. No. 3295 - yays: 51, nays: 7
+2008_2009/sessions/txt/20080304085.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080305086.txt - DATE: True
+2008_2009/sessions/txt/20080305086.txt - ROLL: True
+    S.F. No. 2912 - yays: 51, nays: 1
+    S.F. No. 2910 - yays: 49, nays: 0
+    S.F. No. 2918 - yays: 56, nays: 0
+2008_2009/sessions/txt/20080305086.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080306087.txt - ROLL: ERROR
+2008_2009/sessions/txt/20080306087.txt - ROLL: True
+    S.F. No. 3154 - yays: 62, nays: 0
+    S.F. No. 2881 - yays: 64, nays: 0
+    S.F. No. 2908 - yays: 63, nays: 0
+    S.F. No. 2909 - yays: 63, nays: 0
+    S.F. No. 2471 - yays: 64, nays: 0
+    S.F. No. 2511 - yays: 62, nays: 2
+    S.F. No. 2377 - yays: 63, nays: 0
+    S.F. No. 2796 - yays: 63, nays: 0
+    S.F. No. 2377 - yays: 63, nays: 0
+    S.F. No. 2262 - yays: 63, nays: 1
+    H.F. No. 3201 - yays: 63, nays: 2
+    H.F. No. 380 - yays: 57, nays: 9
+2008_2009/sessions/txt/20080306087.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080310088.txt - DATE: True
+2008_2009/sessions/txt/20080310088.txt - ROLL: True
+    H.F. No. 2590 - yays: 45, nays: 0
+    H.F. No. 2590 - yays: 61, nays: 0
+    S.F. No. 2667 - yays: 51, nays: 10
+    H.F. No. 3055 - yays: 59, nays: 1
+    S.F. No. 2402 - yays: 60, nays: 0
+    S.F. No. 2500 - yays: 54, nays: 5
+2008_2009/sessions/txt/20080310088.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080311089.txt - DATE: True
+2008_2009/sessions/txt/20080311089.txt - ROLL: True
+2008_2009/sessions/txt/20080311089.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20080313090.txt - DATE: True
+2008_2009/sessions/txt/20080313090.txt - ROLL: True
+    S.F. No. 3161 - yays: 63, nays: 0
+    S.F. No. 3364 - yays: 63, nays: 0
+    S.F. No. 3323 - yays: 62, nays: 0
+    S.F. No. 3286 - yays: 60, nays: 0
+2008_2009/sessions/txt/20080313090.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080317091.txt - DATE: True
+2008_2009/sessions/txt/20080317091.txt - ROLL: True
+    H.F. No. 2827 - yays: 55, nays: 0
+    H.F. No. 2907 - yays: 45, nays: 10
+    H.F. No. 3368 - yays: 57, nays: 0
+    H.F. No. 2816 - yays: 47, nays: 10
+    S.F. No. 1918 - yays: 55, nays: 2
+    H.F. No. 1219 - yays: 56, nays: 3
+    S.F. No. 457 - yays: 41, nays: 18
+    H.F. No. 2553 - yays: 57, nays: 0
+    S.F. No. 3147 - yays: 59, nays: 0
+    S.F. No. 3443 - yays: 61, nays: 0
+    S.F. No. 2830 - yays: 59, nays: 1
+    S.F. No. 3084 - yays: 61, nays: 0
+2008_2009/sessions/txt/20080317091.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080318092.txt - DATE: True
+2008_2009/sessions/txt/20080318092.txt - ROLL: True
+2008_2009/sessions/txt/20080318092.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20080319093.txt - DATE: True
+2008_2009/sessions/txt/20080319093.txt - ROLL: True
+    H.F. No. 1546 - yays: 63, nays: 0
+    S.F. No. 3564 - yays: 46, nays: 19
+    H.F. No. 3099 - yays: 65, nays: 0
+    H.F. No. 2636 - yays: 62, nays: 1
+    S.F. No. 2369 - yays: 65, nays: 0
+    S.F. No. 1965 - yays: 59, nays: 4
+    S.F. No. 2786 - yays: 65, nays: 0
+    S.F. No. 2688 - yays: 60, nays: 5
+    S.F. No. 3158 - yays: 64, nays: 0
+    S.F. No. 2390 - yays: 63, nays: 2
+    S.F. No. 2653 - yays: 62, nays: 3
+    S.F. No. 2941 - yays: 65, nays: 0
+    S.F. No. 2822 - yays: 50, nays: 15
+    S.F. No. 3402 - yays: 64, nays: 0
+    S.F. No. 2755 - yays: 65, nays: 0
+    S.F. No. 3674 - yays: 65, nays: 0
+    S.F. No. 3555 - yays: 64, nays: 0
+    S.F. No. 3461 - yays: 66, nays: 0
+2008_2009/sessions/txt/20080319093.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080325094.txt - DATE: True
+2008_2009/sessions/txt/20080325094.txt - ROLL: True
+    S.F. No. 3313 - yays: 58, nays: 0
+    H.F. No. 2582 - yays: 59, nays: 0
+    S.F. No. 3050 - yays: 60, nays: 0
+    S.F. No. 3755 - yays: 63, nays: 0
+2008_2009/sessions/txt/20080325094.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080327095.txt - DATE: True
+2008_2009/sessions/txt/20080327095.txt - ROLL: True
+    S.F. No. 2861 - yays: 60, nays: 0
+2008_2009/sessions/txt/20080327095.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080331096.txt - DATE: True
+2008_2009/sessions/txt/20080331096.txt - ROLL: True
+    S.F. No. 2915 - yays: 57, nays: 4
+    S.F. No. 2706 - yays: 47, nays: 13
+    S.F. No. 3099 - yays: 39, nays: 23
+2008_2009/sessions/txt/20080331096.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080401097.txt - DATE: True
+2008_2009/sessions/txt/20080401097.txt - ROLL: True
+2008_2009/sessions/txt/20080401097.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20080402098.txt - DATE: True
+2008_2009/sessions/txt/20080402098.txt - ROLL: True
+    S.F. No. 2653 - yays: 60, nays: 0
+    S.F. No. 2908 - yays: 65, nays: 0
+    S.F. No. 2918 - yays: 66, nays: 0
+    H.F. No. 380 - yays: 57, nays: 10
+2008_2009/sessions/txt/20080402098.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080403099.txt - DATE: True
+2008_2009/sessions/txt/20080403099.txt - ROLL: True
+    S.F. No. 3337 - yays: 52, nays: 14
+    S.F. No. 3089 - yays: 63, nays: 1
+    H.F. No. 3157 - yays: 65, nays: 1
+    H.F. No. 3289 - yays: 65, nays: 0
+    S.F. No. 2948 - yays: 54, nays: 12
+    S.F. No. 2939 - yays: 65, nays: 1
+    S.F. No. 3377 - yays: 66, nays: 0
+    H.F. No. 2898 - yays: 66, nays: 0
+    S.F. No. 3492 - yays: 64, nays: 1
+    S.F. No. 3669 - yays: 66, nays: 0
+    S.F. No. 3256 - yays: 66, nays: 0
+    S.F. No. 2828 - yays: 65, nays: 1
+    S.F. No. 3119 - yays: 66, nays: 0
+    S.F. No. 1018 - yays: 66, nays: 0
+    S.F. No. 2024 - yays: 64, nays: 0
+    S.F. No. 3202 - yays: 65, nays: 0
+    S.F. No. 2765 - yays: 65, nays: 0
+    S.F. No. 3672 - yays: 60, nays: 3
+    S.F. No. 3098 - yays: 66, nays: 0
+    S.F. No. 2597 - yays: 66, nays: 0
+    S.F. No. 3138 - yays: 46, nays: 19
+    S.F. No. 3137 - yays: 58, nays: 8
+    S.F. No. 3474 - yays: 52, nays: 12
+    S.F. No. 3049 - yays: 66, nays: 0
+    S.F. No. 2996 - yays: 66, nays: 0
+    S.F. No. 2806 - yays: 66, nays: 0
+    H.F. No. 1314 - yays: 66, nays: 0
+    S.F. No. 3070 - yays: 66, nays: 0
+    H.F. No. 2599 - yays: 65, nays: 0
+    S.F. No. 3203 - yays: 65, nays: 1
+    S.F. No. 3342 - yays: 66, nays: 0
+    S.F. No. 3130 - yays: 66, nays: 0
+    S.F. No. 2533 - yays: 50, nays: 16
+    S.F. No. 3003 - yays: 59, nays: 6
+    S.F. No. 2775 - yays: 65, nays: 0
+    S.F. No. 2449 - yays: 46, nays: 20
+    S.F. No. 3282 - yays: 66, nays: 0
+    S.F. No. 3263 - yays: 63, nays: 3
+    S.F. No. 3268 - yays: 65, nays: 1
+    S.F. No. 3132 - yays: 60, nays: 6
+    S.F. No. 3473 - yays: 51, nays: 15
+    S.F. No. 3326 - yays: 66, nays: 0
+    S.F. No. 2990 - yays: 52, nays: 14
+    S.F. No. 3214 - yays: 66, nays: 0
+    S.F. No. 3213 - yays: 66, nays: 0
+    S.F. No. 3412 - yays: 65, nays: 0
+    S.F. No. 2642 - yays: 65, nays: 0
+    S.F. No. 3225 - yays: 66, nays: 0
+    S.F. No. 3563 - yays: 65, nays: 1
+    S.F. No. 2654 - yays: 63, nays: 1
+    S.F. No. 3455 - yays: 65, nays: 1
+    S.F. No. 3446 - yays: 64, nays: 0
+    H.F. No. 2788 - yays: 65, nays: 1
+    S.F. No. 1578 - yays: 66, nays: 0
+    S.F. No. 2980 - yays: 66, nays: 0
+    S.F. No. 3341 - yays: 61, nays: 5
+    S.F. No. 2936 - yays: 66, nays: 0
+    S.F. No. 3756 - yays: 66, nays: 0
+    S.F. No. 3450 - yays: 65, nays: 0
+    S.F. No. 3000 - yays: 55, nays: 11
+    H.F. No. 3240 - yays: 66, nays: 0
+    S.F. No. 3303 - yays: 66, nays: 0
+    S.F. No. 2399 - yays: 44, nays: 22
+    S.F. No. 960 - yays: 43, nays: 22
+    S.F. No. 3417 - yays: 64, nays: 0
+    S.F. No. 3571 - yays: 66, nays: 0
+    S.F. No. 3201 - yays: 66, nays: 0
+    S.F. No. 3021 - yays: 65, nays: 0
+    S.F. No. 3362 - yays: 65, nays: 0
+    S.F. No. 3336 - yays: 65, nays: 0
+    S.F. No. 2919 - yays: 66, nays: 0
+    S.F. No. 2368 - yays: 66, nays: 0
+    S.F. No. 2403 - yays: 66, nays: 0
+    H.F. No. 117 - yays: 63, nays: 2
+    H.F. No. 2602 - yays: 66, nays: 0
+    S.F. No. 3235 - yays: 67, nays: 0
+    S.F. No. 2576 - yays: 66, nays: 0
+    S.F. No. 3647 - yays: 67, nays: 0
+    H.F. No. 2932 - yays: 66, nays: 0
+    S.F. No. 3486 - yays: 66, nays: 0
+    S.F. No. 2866 - yays: 67, nays: 0
+    S.F. No. 3061 - yays: 65, nays: 2
+    S.F. No. 3135 - yays: 65, nays: 2
+    S.F. No. 2876 - yays: 66, nays: 1
+    S.F. No. 3502 - yays: 67, nays: 0
+    S.F. No. 3576 - yays: 66, nays: 1
+    S.F. No. 3397 - yays: 66, nays: 0
+    S.F. No. 3166 - yays: 67, nays: 0
+    S.F. No. 3082 - yays: 50, nays: 17
+    H.F. No. 3114 - yays: 58, nays: 8
+    S.F. No. 3508 - yays: 49, nays: 18
+    S.F. No. 3227 - yays: 67, nays: 0
+    S.F. No. 3622 - yays: 64, nays: 3
+    S.F. No. 3581 - yays: 67, nays: 0
+    S.F. No. 3372 - yays: 67, nays: 0
+    S.F. No. 3174 - yays: 67, nays: 0
+    S.F. No. 2408 - yays: 48, nays: 18
+    S.F. No. 3224 - yays: 63, nays: 4
+    S.F. No. 3350 - yays: 64, nays: 3
+    S.F. No. 3129 - yays: 55, nays: 12
+    S.F. No. 2645 - yays: 67, nays: 0
+    S.F. No. 2869 - yays: 39, nays: 28
+    H.F. No. 3708 - yays: 66, nays: 0
+2008_2009/sessions/txt/20080403099.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080407100.txt - DATE: True
+2008_2009/sessions/txt/20080407100.txt - ROLL: True
+    H.F. No. 3220 - yays: 55, nays: 5
+    H.F. No. 1499 - yays: 60, nays: 0
+    H.F. No. 3516 - yays: 60, nays: 0
+    H.F. No. 1812 - yays: 40, nays: 25
+2008_2009/sessions/txt/20080407100.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080410101.txt - ROLL: ERROR
+2008_2009/sessions/txt/20080410101.txt - ROLL: True
+    S.F. No. 1218 - yays: 60, nays: 0
+    S.F. No. 3139 - yays: 62, nays: 0
+    S.F. No. 3218 - yays: 63, nays: 1
+    H.F. No. 3662 - yays: 64, nays: 0
+    H.F. No. 3138 - yays: 62, nays: 2
+    S.F. No. 2605 - yays: 56, nays: 7
+    S.F. No. 3758 - yays: 63, nays: 1
+    S.F. No. 3360 - yays: 64, nays: 0
+    S.F. No. 2930 - yays: 64, nays: 0
+    S.F. No. 3775 - yays: 63, nays: 1
+2008_2009/sessions/txt/20080410101.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080414102.txt - ROLL: ERROR
+2008_2009/sessions/txt/20080414102.txt - ROLL: True
+    S.F. No. 2402 - yays: 61, nays: 0
+    H.F. No. 3391 - yays: 40, nays: 22
+    S.F. No. 2822 - yays: 47, nays: 15
+    H.F. No. 3477 - yays: 61, nays: 1
+    S.F. No. 3069 - yays: 59, nays: 1
+    S.F. No. 2988 - yays: 61, nays: 0
+    S.F. No. 3331 - yays: 52, nays: 10
+    S.F. No. 2967 - yays: 51, nays: 11
+    S.F. No. 2204 - yays: 63, nays: 0
+    H.F. No. 3357 - yays: 63, nays: 0
+    S.F. No. 3441 - yays: 62, nays: 0
+    S.F. No. 3780 - yays: 63, nays: 0
+2008_2009/sessions/txt/20080414102.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080416103.txt - DATE: True
+2008_2009/sessions/txt/20080416103.txt - ROLL: True
+    S.F. No. 1578 - yays: 61, nays: 0
+    S.F. No. 1918 - yays: 64, nays: 1
+    S.F. No. 2667 - yays: 61, nays: 4
+    S.F. No. 2765 - yays: 65, nays: 0
+    S.F. No. 2915 - yays: 63, nays: 2
+    S.F. No. 3082 - yays: 65, nays: 0
+    S.F. No. 3698 - yays: 64, nays: 1
+    H.F. No. 3500 - yays: 64, nays: 1
+2008_2009/sessions/txt/20080416103.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080417104.txt - DATE: True
+2008_2009/sessions/txt/20080417104.txt - ROLL: True
+    S.F. No. 2642 - yays: 59, nays: 0
+    S.F. No. 3263 - yays: 58, nays: 2
+    S.F. No. 3001 - yays: 47, nays: 17
+2008_2009/sessions/txt/20080417104.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080421105.txt - DATE: True
+2008_2009/sessions/txt/20080421105.txt - ROLL: True
+    S.F. No. 2564 - yays: 58, nays: 1
+    S.F. No. 3049 - yays: 61, nays: 1
+    S.F. No. 3336 - yays: 62, nays: 0
+    S.F. No. 2965 - yays: 41, nays: 22
+    S.F. No. 2795 - yays: 63, nays: 0
+    H.F. No. 2896 - yays: 62, nays: 1
+    S.F. No. 651 - yays: 47, nays: 16
+    S.F. No. 3683 - yays: 60, nays: 0
+    H.F. No. 2904 - yays: 61, nays: 1
+    H.F. No. 3569 - yays: 63, nays: 0
+    S.F. No. 2942 - yays: 60, nays: 1
+    S.F. No. 1298 - yays: 63, nays: 0
+    H.F. No. 3220 - yays: 56, nays: 7
+    H.F. No. 3516 - yays: 63, nays: 0
+    H.F. No. 1351 - yays: 51, nays: 11
+2008_2009/sessions/txt/20080421105.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080423106.txt - DATE: True
+2008_2009/sessions/txt/20080423106.txt - ROLL: True
+    S.F. No. 3139 - yays: 63, nays: 0
+    H.F. No. 3172 - yays: 63, nays: 1
+    S.F. No. 3370 - yays: 63, nays: 1
+    S.F. No. 3363 - yays: 42, nays: 22
+    H.F. No. 3662 - yays: 59, nays: 0
+2008_2009/sessions/txt/20080423106.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080424107.txt - DATE: True
+2008_2009/sessions/txt/20080424107.txt - ROLL: True
+2008_2009/sessions/txt/20080424107.txt - BILL VOTES: ERROR
+2008_2009/sessions/txt/20080428108.txt - ROLL: ERROR
+2008_2009/sessions/txt/20080428108.txt - ROLL: True
+    S.F. No. 2775 - yays: 62, nays: 0
+    S.F. No. 2919 - yays: 65, nays: 0
+    H.F. No. 4075 - yays: 64, nays: 0
+    H.F. No. 2837 - yays: 63, nays: 0
+    S.F. No. 2492 - yays: 63, nays: 1
+    S.F. No. 2833 - yays: 64, nays: 0
+    S.F. No. 3096 - yays: 55, nays: 7
+    S.F. No. 3189 - yays: 64, nays: 0
+    H.F. No. 3066 - yays: 60, nays: 3
+    S.F. No. 3520 - yays: 57, nays: 7
+    H.F. No. 3657 - yays: 61, nays: 2
+    S.F. No. 3715 - yays: 62, nays: 0
+    H.F. No. 3346 - yays: 63, nays: 0
+    S.F. No. 2825 - yays: 58, nays: 4
+2008_2009/sessions/txt/20080428108.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080430109.txt - ROLL: ERROR
+2008_2009/sessions/txt/20080430109.txt - ROLL: True
+    S.F. No. 3564 - yays: 46, nays: 15
+    S.F. No. 3443 - yays: 61, nays: 0
+    H.F. No. 3722 - yays: 43, nays: 21
+    S.F. No. 3168 - yays: 55, nays: 9
+    S.F. No. 2651 - yays: 64, nays: 0
+    S.F. No. 3385 - yays: 56, nays: 2
+    H.F. No. 2996 - yays: 61, nays: 3
+    H.F. No. 3800 - yays: 51, nays: 13
+    H.F. No. 3477 - yays: 62, nays: 0
+    S.F. No. 2369 - yays: 64, nays: 0
+    S.F. No. 2881 - yays: 64, nays: 0
+    S.F. No. 3674 - yays: 63, nays: 0
+    H.F. No. 3195 - yays: 43, nays: 21
+    S.F. No. 3366 - yays: 57, nays: 6
+    S.F. No. 3193 - yays: 48, nays: 16
+    S.F. No. 1128 - yays: 53, nays: 11
+2008_2009/sessions/txt/20080430109.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080501110.txt - DATE: True
+2008_2009/sessions/txt/20080501110.txt - ROLL: True
+    S.F. No. 2706 - yays: 44, nays: 12
+    S.F. No. 3132 - yays: 54, nays: 9
+    S.F. No. 3364 - yays: 66, nays: 0
+    H.F. No. 3411 - yays: 65, nays: 0
+    S.F. No. 3058 - yays: 63, nays: 2
+    H.F. No. 3486 - yays: 62, nays: 3
+    S.F. No. 2468 - yays: 65, nays: 0
+    S.F. No. 3138 - yays: 49, nays: 3
+    S.F. No. 3441 - yays: 51, nays: 0
+    S.F. No. 3492 - yays: 52, nays: 0
+2008_2009/sessions/txt/20080501110.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080505111.txt - ROLL: ERROR
+2008_2009/sessions/txt/20080505111.txt - ROLL: True
+    H.F. No. 3222 - yays: 56, nays: 10
+    S.F. No. 3140 - yays: 64, nays: 0
+    S.F. No. 3056 - yays: 66, nays: 0
+    S.F. No. 3140 - yays: 65, nays: 0
+    S.F. No. 3122 - yays: 60, nays: 5
+    S.F. No. 3594 - yays: 64, nays: 0
+    H.F. No. 3376 - yays: 49, nays: 16
+    S.F. No. 2379 - yays: 65, nays: 0
+    S.F. No. 2909 - yays: 63, nays: 0
+    S.F. No. 3303 - yays: 63, nays: 0
+    S.F. No. 3563 - yays: 64, nays: 0
+    H.F. No. 2553 - yays: 63, nays: 0
+    H.F. No. 2553 - yays: 65, nays: 0
+2008_2009/sessions/txt/20080505111.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080507112.txt - DATE: True
+2008_2009/sessions/txt/20080507112.txt - ROLL: True
+    S.F. No. 3396 - yays: 37, nays: 27
+    H.F. No. 3372 - yays: 62, nays: 2
+    H.F. No. 3493 - yays: 64, nays: 0
+    H.F. No. 2877 - yays: 63, nays: 0
+    H.F. No. 3149 - yays: 35, nays: 27
+    H.F. No. 3172 - yays: 61, nays: 0
+    S.F. No. 3337 - yays: 51, nays: 13
+    S.F. No. 3683 - yays: 64, nays: 0
+    S.F. No. 3001 - yays: 45, nays: 20
+    S.F. No. 2942 - yays: 64, nays: 0
+    S.F. No. 651 - yays: 45, nays: 20
+    H.F. No. 2996 - yays: 61, nays: 2
+    H.F. No. 3722 - yays: 57, nays: 6
+    S.F. No. 3669 - yays: 61, nays: 0
+    S.F. No. 3235 - yays: 60, nays: 0
+2008_2009/sessions/txt/20080507112.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080508113.txt - DATE: True
+2008_2009/sessions/txt/20080508113.txt - ROLL: True
+    H.F. No. 3367 - yays: 65, nays: 0
+    H.F. No. 3585 - yays: 53, nays: 10
+    H.F. No. 3574 - yays: 59, nays: 5
+    S.F. No. 3672 - yays: 42, nays: 20
+    S.F. No. 3775 - yays: 48, nays: 17
+    H.F. No. 3494 - yays: 55, nays: 4
+    S.F. No. 3166 - yays: 41, nays: 17
+    S.F. No. 875 - yays: 40, nays: 18
+2008_2009/sessions/txt/20080508113.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080512114.txt - DATE: True
+2008_2009/sessions/txt/20080512114.txt - ROLL: True
+    S.F. No. 2941 - yays: 61, nays: 1
+    H.F. No. 3955 - yays: 60, nays: 2
+    S.F. No. 3281 - yays: 62, nays: 0
+    H.F. No. 3420 - yays: 62, nays: 0
+    H.F. No. 3699 - yays: 62, nays: 0
+    S.F. No. 2876 - yays: 59, nays: 0
+    S.F. No. 2720 - yays: 46, nays: 16
+    S.F. No. 1128 - yays: 48, nays: 12
+    H.F. No. 3222 - yays: 45, nays: 6
+    S.F. No. 2833 - yays: 60, nays: 0
+    H.F. No. 3391 - yays: 53, nays: 13
+2008_2009/sessions/txt/20080512114.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080513115.txt - DATE: True
+2008_2009/sessions/txt/20080513115.txt - ROLL: True
+    S.F. No. 2965 - yays: 41, nays: 22
+    S.F. No. 3193 - yays: 53, nays: 13
+    H.F. No. 3082 - yays: 50, nays: 16
+    H.F. No. 3783 - yays: 57, nays: 7
+    S.F. No. 3787 - yays: 34, nays: 31
+    H.F. No. 3807 - yays: 50, nays: 16
+    H.F. No. 4223 - yays: 55, nays: 7
+    H.F. No. 3034 - yays: 57, nays: 5
+    S.F. No. 2390 - yays: 54, nays: 3
+    H.F. No. 6 - yays: 55, nays: 10
+    S.F. No. 2809 - yays: 46, nays: 16
+    S.F. No. 3322 - yays: 58, nays: 5
+2008_2009/sessions/txt/20080513115.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080515116.txt - DATE: True
+2008_2009/sessions/txt/20080515116.txt - ROLL: True
+    S.F. No. 2605 - yays: 54, nays: 0
+    S.F. No. 3138 - yays: 51, nays: 12
+    H.F. No. 3195 - yays: 41, nays: 22
+    H.F. No. 3420 - yays: 64, nays: 0
+    H.F. No. 1875 - yays: 41, nays: 25
+2008_2009/sessions/txt/20080515116.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080516117.txt - DATE: True
+2008_2009/sessions/txt/20080516117.txt - ROLL: True
+    S.F. No. 3594 - yays: 58, nays: 0
+    S.F. No. 3871 - yays: 59, nays: 0
+    S.F. No. 3535 - yays: 59, nays: 5
+    H.F. No. 1724 - yays: 60, nays: 3
+    H.F. No. 3082 - yays: 57, nays: 8
+    H.F. No. 3800 - yays: 62, nays: 5
+    S.F. No. 100 - yays: 40, nays: 27
+    S.F. No. 3360 - yays: 64, nays: 1
+2008_2009/sessions/txt/20080516117.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080517118.txt - DATE: True
+2008_2009/sessions/txt/20080517118.txt - ROLL: True
+    S.F. No. 2368 - yays: 43, nays: 13
+    S.F. No. 3396 - yays: 34, nays: 33
+    H.F. No. 413 - yays: 52, nays: 12
+    S.F. No. 3096 - yays: 52, nays: 11
+    H.F. No. 3090 - yays: 44, nays: 12
+    S.F. No. 3056 - yays: 63, nays: 1
+    S.F. No. 3363 - yays: 45, nays: 22
+    H.F. No. 2748 - yays: 52, nays: 7
+2008_2009/sessions/txt/20080517118.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080518119_1.txt - DATE: True
+2008_2009/sessions/txt/20080518119_1.txt - ROLL: True
+    H.F. No. 3346 - yays: 42, nays: 0
+    H.F. No. 3376 - yays: 51, nays: 5
+    H.F. No. 3346 - yays: 60, nays: 0
+    H.F. No. 4072 - yays: 50, nays: 17
+2008_2009/sessions/txt/20080518119_1.txt - BILL VOTES: True
+2008_2009/sessions/txt/20080518119_2.txt - DATE: True
+2008_2009/sessions/txt/20080518119_2.txt - ROLL: ERROR
+    H.F. No. 3149 - yays: 56, nays: 11
+    S.F. No. 2651 - yays: 67, nays: 0
+    S.F. No. 2492 - yays: 67, nays: 0
+    S.F. No. 2597 - yays: 67, nays: 0
+    H.F. No. 4166 - yays: 65, nays: 0
+2008_2009/sessions/txt/20080518119_2.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090106001.txt - ROLL: ERROR
+2009_2010/sessions/txt/20090106001.txt - ROLL: ERROR
+2009_2010/sessions/txt/20090106001.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090108002.txt - DATE: True
+2009_2010/sessions/txt/20090108002.txt - ROLL: True
+2009_2010/sessions/txt/20090108002.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090112003.txt - DATE: True
+2009_2010/sessions/txt/20090112003.txt - ROLL: True
+2009_2010/sessions/txt/20090112003.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090115004.txt - DATE: True
+2009_2010/sessions/txt/20090115004.txt - ROLL: True
+    S.F. No. 4 - yays: 65, nays: 0
+2009_2010/sessions/txt/20090115004.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090122005.txt - DATE: True
+2009_2010/sessions/txt/20090122005.txt - ROLL: True
+2009_2010/sessions/txt/20090122005.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090126006.txt - DATE: True
+2009_2010/sessions/txt/20090126006.txt - ROLL: True
+2009_2010/sessions/txt/20090126006.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090129007.txt - DATE: True
+2009_2010/sessions/txt/20090129007.txt - ROLL: True
+    S.F. No. 49 - yays: 49, nays: 7
+2009_2010/sessions/txt/20090129007.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090202008.txt - DATE: True
+2009_2010/sessions/txt/20090202008.txt - ROLL: True
+2009_2010/sessions/txt/20090202008.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090205009.txt - DATE: True
+2009_2010/sessions/txt/20090205009.txt - ROLL: True
+    S.F. No. 29 - yays: 54, nays: 0
+    S.F. No. 41 - yays: 46, nays: 9
+    S.F. No. 94 - yays: 56, nays: 1
+    S.F. No. 212 - yays: 59, nays: 0
+2009_2010/sessions/txt/20090205009.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090209010.txt - DATE: True
+2009_2010/sessions/txt/20090209010.txt - ROLL: True
+    S.F. No. 350 - yays: 64, nays: 0
+    S.F. No. 104 - yays: 56, nays: 7
+2009_2010/sessions/txt/20090209010.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090212011.txt - DATE: True
+2009_2010/sessions/txt/20090212011.txt - ROLL: True
+    S.F. No. 335 - yays: 63, nays: 0
+    S.F. No. 119 - yays: 52, nays: 9
+2009_2010/sessions/txt/20090212011.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090216012.txt - DATE: True
+2009_2010/sessions/txt/20090216012.txt - ROLL: True
+    S.F. No. 47 - yays: 47, nays: 14
+    S.F. No. 307 - yays: 59, nays: 0
+2009_2010/sessions/txt/20090216012.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090219013.txt - DATE: True
+2009_2010/sessions/txt/20090219013.txt - ROLL: True
+    S.F. No. 162 - yays: 55, nays: 7
+    S.F. No. 213 - yays: 58, nays: 4
+2009_2010/sessions/txt/20090219013.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090223014.txt - DATE: True
+2009_2010/sessions/txt/20090223014.txt - ROLL: True
+2009_2010/sessions/txt/20090223014.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090226015.txt - DATE: True
+2009_2010/sessions/txt/20090226015.txt - ROLL: True
+    S.F. No. 166 - yays: 66, nays: 1
+    H.F. No. 886 - yays: 57, nays: 8
+2009_2010/sessions/txt/20090226015.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090302016.txt - DATE: True
+2009_2010/sessions/txt/20090302016.txt - ROLL: True
+    S.F. No. 230 - yays: 55, nays: 4
+    S.F. No. 261 - yays: 65, nays: 0
+    S.F. No. 496 - yays: 65, nays: 0
+2009_2010/sessions/txt/20090302016.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090305017.txt - DATE: True
+2009_2010/sessions/txt/20090305017.txt - ROLL: True
+    S.F. No. 684 - yays: 62, nays: 3
+    S.F. No. 452 - yays: 65, nays: 0
+    S.F. No. 451 - yays: 64, nays: 1
+    S.F. No. 757 - yays: 63, nays: 2
+    S.F. No. 656 - yays: 46, nays: 19
+    S.F. No. 594 - yays: 39, nays: 26
+2009_2010/sessions/txt/20090305017.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090309018.txt - DATE: True
+2009_2010/sessions/txt/20090309018.txt - ROLL: True
+    S.F. No. 401 - yays: 62, nays: 0
+    S.F. No. 237 - yays: 62, nays: 0
+2009_2010/sessions/txt/20090309018.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090312019.txt - DATE: True
+2009_2010/sessions/txt/20090312019.txt - ROLL: True
+2009_2010/sessions/txt/20090312019.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090316020.txt - DATE: True
+2009_2010/sessions/txt/20090316020.txt - ROLL: True
+    S.F. No. 685 - yays: 58, nays: 4
+    S.F. No. 887 - yays: 63, nays: 0
+    S.F. No. 265 - yays: 63, nays: 0
+    S.F. No. 978 - yays: 63, nays: 0
+    S.F. No. 32 - yays: 63, nays: 1
+    S.F. No. 423 - yays: 63, nays: 0
+    S.F. No. 404 - yays: 64, nays: 0
+    S.F. No. 743 - yays: 63, nays: 0
+    S.F. No. 236 - yays: 64, nays: 0
+    S.F. No. 781 - yays: 56, nays: 8
+2009_2010/sessions/txt/20090316020.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090318021.txt - DATE: True
+2009_2010/sessions/txt/20090318021.txt - ROLL: True
+    H.F. No. 392 - yays: 52, nays: 9
+    H.F. No. 56 - yays: 60, nays: 0
+    S.F. No. 740 - yays: 52, nays: 6
+2009_2010/sessions/txt/20090318021.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090319022.txt - DATE: True
+2009_2010/sessions/txt/20090319022.txt - ROLL: True
+2009_2010/sessions/txt/20090319022.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090323023.txt - DATE: True
+2009_2010/sessions/txt/20090323023.txt - ROLL: True
+    S.F. No. 896 - yays: 61, nays: 0
+    S.F. No. 1477 - yays: 62, nays: 0
+    S.F. No. 1142 - yays: 63, nays: 0
+2009_2010/sessions/txt/20090323023.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090324024.txt - DATE: True
+2009_2010/sessions/txt/20090324024.txt - ROLL: True
+2009_2010/sessions/txt/20090324024.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090325025.txt - DATE: True
+2009_2010/sessions/txt/20090325025.txt - ROLL: True
+2009_2010/sessions/txt/20090325025.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090326026.txt - DATE: True
+2009_2010/sessions/txt/20090326026.txt - ROLL: True
+    S.F. No. 275 - yays: 63, nays: 0
+    S.F. No. 30 - yays: 61, nays: 2
+    S.F. No. 832 - yays: 63, nays: 0
+    S.F. No. 34 - yays: 62, nays: 0
+    S.F. No. 1028 - yays: 61, nays: 0
+    S.F. No. 208 - yays: 63, nays: 1
+    S.F. No. 99 - yays: 41, nays: 23
+    S.F. No. 95 - yays: 49, nays: 0
+2009_2010/sessions/txt/20090326026.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090330027.txt - DATE: True
+2009_2010/sessions/txt/20090330027.txt - ROLL: True
+    S.F. No. 1142 - yays: 60, nays: 0
+    H.F. No. 1797 - yays: 64, nays: 0
+    S.F. No. 1197 - yays: 63, nays: 1
+    S.F. No. 1329 - yays: 64, nays: 0
+    S.F. No. 33 - yays: 64, nays: 0
+    S.F. No. 708 - yays: 60, nays: 4
+    S.F. No. 284 - yays: 65, nays: 0
+    S.F. No. 164 - yays: 62, nays: 3
+    S.F. No. 675 - yays: 65, nays: 0
+2009_2010/sessions/txt/20090330027.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090401028.txt - DATE: True
+2009_2010/sessions/txt/20090401028.txt - ROLL: True
+    H.F. No. 392 - yays: 59, nays: 5
+    H.F. No. 865 - yays: 65, nays: 0
+    S.F. No. 764 - yays: 65, nays: 0
+    S.F. No. 811 - yays: 65, nays: 0
+2009_2010/sessions/txt/20090401028.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090402029.txt - DATE: True
+2009_2010/sessions/txt/20090402029.txt - ROLL: True
+2009_2010/sessions/txt/20090402029.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090403030.txt - DATE: True
+2009_2010/sessions/txt/20090403030.txt - ROLL: True
+2009_2010/sessions/txt/20090403030.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090406031.txt - DATE: True
+2009_2010/sessions/txt/20090406031.txt - ROLL: True
+    S.F. No. 1091 - yays: 67, nays: 0
+    S.F. No. 643 - yays: 67, nays: 0
+    S.F. No. 1012 - yays: 67, nays: 0
+    S.F. No. 1904 - yays: 67, nays: 0
+    S.F. No. 1454 - yays: 67, nays: 0
+    S.F. No. 550 - yays: 52, nays: 15
+    S.F. No. 10 - yays: 34, nays: 33
+2009_2010/sessions/txt/20090406031.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090407032.txt - DATE: True
+2009_2010/sessions/txt/20090407032.txt - ROLL: True
+    S.F. No. 1328 - yays: 37, nays: 29
+    H.F. No. 855 - yays: 57, nays: 9
+    S.F. No. 3 - yays: 56, nays: 10
+    S.F. No. 1486 - yays: 65, nays: 0
+    S.F. No. 462 - yays: 62, nays: 0
+    S.F. No. 489 - yays: 63, nays: 2
+2009_2010/sessions/txt/20090407032.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090414033.txt - DATE: True
+2009_2010/sessions/txt/20090414033.txt - ROLL: True
+    S.F. No. 335 - yays: 63, nays: 0
+2009_2010/sessions/txt/20090414033.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090416034.txt - DATE: True
+2009_2010/sessions/txt/20090416034.txt - ROLL: True
+2009_2010/sessions/txt/20090416034.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090417035.txt - DATE: True
+2009_2010/sessions/txt/20090417035.txt - ROLL: True
+    S.F. No. 1467 - yays: 61, nays: 1
+    S.F. No. 298 - yays: 56, nays: 7
+    S.F. No. 567 - yays: 62, nays: 0
+    S.F. No. 1220 - yays: 63, nays: 0
+    S.F. No. 245 - yays: 58, nays: 4
+    S.F. No. 971 - yays: 40, nays: 22
+    S.F. No. 1779 - yays: 49, nays: 13
+    S.F. No. 2083 - yays: 41, nays: 23
+2009_2010/sessions/txt/20090417035.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090420036.txt - DATE: True
+2009_2010/sessions/txt/20090420036.txt - ROLL: True
+    S.F. No. 615 - yays: 62, nays: 0
+    S.F. No. 2082 - yays: 59, nays: 6
+    S.F. No. 802 - yays: 33, nays: 32
+    S.F. No. 802 - yays: 34, nays: 31
+2009_2010/sessions/txt/20090420036.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090421037.txt - DATE: True
+2009_2010/sessions/txt/20090421037.txt - ROLL: True
+    S.F. No. 1627 - yays: 40, nays: 25
+    S.F. No. 2081 - yays: 49, nays: 15
+    S.F. No. 978 - yays: 64, nays: 0
+2009_2010/sessions/txt/20090421037.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090422038.txt - DATE: True
+2009_2010/sessions/txt/20090422038.txt - ROLL: True
+    S.F. No. 1288 - yays: 60, nays: 0
+    S.F. No. 1849 - yays: 60, nays: 1
+    H.F. No. 936 - yays: 59, nays: 2
+    S.F. No. 1711 - yays: 59, nays: 3
+    S.F. No. 694 - yays: 61, nays: 0
+    H.F. No. 819 - yays: 60, nays: 1
+    S.F. No. 1539 - yays: 62, nays: 0
+    S.F. No. 1454 - yays: 62, nays: 0
+2009_2010/sessions/txt/20090422038.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090423039.txt - DATE: True
+2009_2010/sessions/txt/20090423039.txt - ROLL: True
+    H.F. No. 1122 - yays: 54, nays: 12
+    S.F. No. 1276 - yays: 47, nays: 18
+    S.F. No. 2099 - yays: 49, nays: 15
+    H.F. No. 2123 - yays: 46, nays: 16
+2009_2010/sessions/txt/20090423039.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090424040.txt - DATE: True
+2009_2010/sessions/txt/20090424040.txt - ROLL: True
+    S.F. No. 657 - yays: 48, nays: 12
+    H.F. No. 1301 - yays: 45, nays: 19
+    H.F. No. 878 - yays: 65, nays: 0
+    S.F. No. 457 - yays: 66, nays: 0
+    S.F. No. 926 - yays: 64, nays: 0
+    H.F. No. 801 - yays: 66, nays: 0
+    S.F. No. 477 - yays: 57, nays: 9
+    H.F. No. 486 - yays: 66, nays: 0
+    S.F. No. 1172 - yays: 66, nays: 0
+    S.F. No. 1754 - yays: 66, nays: 0
+    S.F. No. 1566 - yays: 66, nays: 0
+    S.F. No. 501 - yays: 64, nays: 2
+    S.F. No. 806 - yays: 66, nays: 0
+    S.F. No. 1323 - yays: 65, nays: 1
+    S.F. No. 640 - yays: 66, nays: 0
+    S.F. No. 1147 - yays: 66, nays: 0
+    S.F. No. 1884 - yays: 63, nays: 3
+    S.F. No. 1189 - yays: 54, nays: 12
+    S.F. No. 1569 - yays: 66, nays: 0
+    S.F. No. 1464 - yays: 66, nays: 0
+    H.F. No. 334 - yays: 66, nays: 0
+    S.F. No. 1503 - yays: 66, nays: 0
+    S.F. No. 2074 - yays: 35, nays: 31
+2009_2010/sessions/txt/20090424040.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090425041.txt - DATE: True
+2009_2010/sessions/txt/20090425041.txt - ROLL: True
+2009_2010/sessions/txt/20090425041.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090427042.txt - DATE: True
+2009_2010/sessions/txt/20090427042.txt - ROLL: True
+    S.F. No. 1117 - yays: 50, nays: 15
+    S.F. No. 484 - yays: 65, nays: 0
+    S.F. No. 713 - yays: 64, nays: 0
+    H.F. No. 523 - yays: 65, nays: 0
+    S.F. No. 1431 - yays: 65, nays: 0
+    S.F. No. 666 - yays: 60, nays: 5
+    S.F. No. 537 - yays: 65, nays: 0
+    S.F. No. 412 - yays: 62, nays: 3
+    S.F. No. 1810 - yays: 63, nays: 2
+    S.F. No. 1876 - yays: 62, nays: 3
+    S.F. No. 532 - yays: 65, nays: 0
+    S.F. No. 122 - yays: 54, nays: 11
+    S.F. No. 545 - yays: 63, nays: 2
+    S.F. No. 1408 - yays: 65, nays: 0
+    S.F. No. 707 - yays: 65, nays: 0
+    S.F. No. 474 - yays: 64, nays: 1
+    S.F. No. 1096 - yays: 65, nays: 0
+    S.F. No. 1794 - yays: 65, nays: 0
+    S.F. No. 729 - yays: 64, nays: 1
+    S.F. No. 1910 - yays: 65, nays: 0
+    S.F. No. 1033 - yays: 57, nays: 8
+    H.F. No. 1309 - yays: 48, nays: 16
+    S.F. No. 695 - yays: 40, nays: 23
+2009_2010/sessions/txt/20090427042.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090428043.txt - DATE: True
+2009_2010/sessions/txt/20090428043.txt - ROLL: True
+    H.F. No. 2323 - yays: 35, nays: 30
+    H.F. No. 1362 - yays: 40, nays: 25
+2009_2010/sessions/txt/20090428043.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090429044.txt - DATE: True
+2009_2010/sessions/txt/20090429044.txt - ROLL: True
+2009_2010/sessions/txt/20090429044.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20090430045.txt - DATE: True
+2009_2010/sessions/txt/20090430045.txt - ROLL: True
+    H.F. No. 1242 - yays: 62, nays: 0
+    S.F. No. 247 - yays: 53, nays: 8
+    S.F. No. 1489 - yays: 61, nays: 0
+    S.F. No. 536 - yays: 45, nays: 17
+    S.F. No. 1462 - yays: 57, nays: 6
+    S.F. No. 1399 - yays: 60, nays: 1
+    S.F. No. 1009 - yays: 62, nays: 0
+    S.F. No. 1217 - yays: 63, nays: 0
+    S.F. No. 1425 - yays: 63, nays: 0
+    S.F. No. 556 - yays: 57, nays: 6
+2009_2010/sessions/txt/20090430045.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090504046.txt - DATE: True
+2009_2010/sessions/txt/20090504046.txt - ROLL: True
+    S.F. No. 1447 - yays: 61, nays: 1
+    S.F. No. 1302 - yays: 61, nays: 0
+    S.F. No. 492 - yays: 62, nays: 0
+    S.F. No. 431 - yays: 62, nays: 0
+    S.F. No. 1887 - yays: 63, nays: 0
+    S.F. No. 97 - yays: 35, nays: 29
+    S.F. No. 538 - yays: 49, nays: 13
+    S.F. No. 574 - yays: 64, nays: 0
+    S.F. No. 1494 - yays: 63, nays: 1
+    S.F. No. 1476 - yays: 63, nays: 1
+    S.F. No. 863 - yays: 51, nays: 12
+    S.F. No. 341 - yays: 41, nays: 24
+    S.F. No. 1611 - yays: 63, nays: 1
+    S.F. No. 910 - yays: 63, nays: 1
+    S.F. No. 1469 - yays: 60, nays: 5
+    S.F. No. 1479 - yays: 65, nays: 0
+    S.F. No. 1435 - yays: 63, nays: 2
+    S.F. No. 908 - yays: 62, nays: 3
+    H.F. No. 1309 - yays: 63, nays: 4
+    S.F. No. 2081 - yays: 38, nays: 28
+    H.F. No. 2123 - yays: 52, nays: 15
+2009_2010/sessions/txt/20090504046.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090505047.txt - DATE: True
+2009_2010/sessions/txt/20090505047.txt - ROLL: True
+    S.F. No. 245 - yays: 54, nays: 3
+    S.F. No. 412 - yays: 59, nays: 0
+    S.F. No. 640 - yays: 60, nays: 0
+    S.F. No. 729 - yays: 60, nays: 1
+    S.F. No. 166 - yays: 64, nays: 0
+2009_2010/sessions/txt/20090505047.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090506048.txt - DATE: True
+2009_2010/sessions/txt/20090506048.txt - ROLL: True
+    S.F. No. 1467 - yays: 53, nays: 0
+    H.F. No. 1301 - yays: 63, nays: 0
+    H.F. No. 936 - yays: 61, nays: 1
+    H.F. No. 819 - yays: 62, nays: 1
+2009_2010/sessions/txt/20090506048.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090507049.txt - DATE: True
+2009_2010/sessions/txt/20090507049.txt - ROLL: True
+    S.F. No. 1504 - yays: 58, nays: 2
+    S.F. No. 1867 - yays: 59, nays: 2
+    S.F. No. 1889 - yays: 62, nays: 0
+    S.F. No. 1459 - yays: 36, nays: 26
+    S.F. No. 2 - yays: 43, nays: 20
+    H.F. No. 1056 - yays: 63, nays: 0
+    S.F. No. 1036 - yays: 49, nays: 16
+    S.F. No. 1481 - yays: 46, nays: 19
+    S.F. No. 1539 - yays: 65, nays: 0
+    S.F. No. 1910 - yays: 63, nays: 0
+    S.F. No. 1876 - yays: 62, nays: 4
+    S.F. No. 1569 - yays: 65, nays: 0
+    H.F. No. 885 - yays: 43, nays: 23
+2009_2010/sessions/txt/20090507049.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090508050.txt - DATE: True
+2009_2010/sessions/txt/20090508050.txt - ROLL: True
+    S.F. No. 1408 - yays: 62, nays: 0
+    S.F. No. 1217 - yays: 61, nays: 0
+    S.F. No. 1476 - yays: 61, nays: 1
+    S.F. No. 1425 - yays: 63, nays: 0
+    H.F. No. 2088 - yays: 47, nays: 13
+    H.F. No. 885 - yays: 44, nays: 20
+2009_2010/sessions/txt/20090508050.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090511051.txt - DATE: True
+2009_2010/sessions/txt/20090511051.txt - ROLL: True
+    S.F. No. 1890 - yays: 61, nays: 0
+    S.F. No. 727 - yays: 67, nays: 0
+    S.F. No. 915 - yays: 45, nays: 22
+    S.F. No. 1331 - yays: 40, nays: 27
+    S.F. No. 80 - yays: 65, nays: 2
+    S.F. No. 1927 - yays: 67, nays: 0
+    H.F. No. 928 - yays: 57, nays: 10
+    S.F. No. 2043 - yays: 67, nays: 0
+    S.F. No. 185 - yays: 63, nays: 4
+    S.F. No. 2060 - yays: 65, nays: 2
+    S.F. No. 2078 - yays: 56, nays: 11
+    S.F. No. 722 - yays: 67, nays: 0
+    H.F. No. 111 - yays: 50, nays: 16
+    S.F. No. 848 - yays: 62, nays: 3
+    S.F. No. 1155 - yays: 66, nays: 1
+    S.F. No. 203 - yays: 48, nays: 19
+    S.F. No. 1705 - yays: 61, nays: 6
+    S.F. No. 548 - yays: 67, nays: 0
+    S.F. No. 1436 - yays: 67, nays: 0
+    H.F. No. 1677 - yays: 67, nays: 0
+    H.F. No. 1231 - yays: 67, nays: 0
+    S.F. No. 802 - yays: 36, nays: 30
+    S.F. No. 2141 - yays: 45, nays: 19
+    H.F. No. 1988 - yays: 49, nays: 13
+    H.F. No. 1362 - yays: 47, nays: 18
+2009_2010/sessions/txt/20090511051.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090512052.txt - DATE: True
+2009_2010/sessions/txt/20090512052.txt - ROLL: True
+    S.F. No. 764 - yays: 49, nays: 0
+    S.F. No. 1033 - yays: 47, nays: 5
+    S.F. No. 99 - yays: 39, nays: 13
+    H.F. No. 1298 - yays: 54, nays: 12
+2009_2010/sessions/txt/20090512052.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090513053.txt - DATE: True
+2009_2010/sessions/txt/20090513053.txt - ROLL: True
+    S.F. No. 910 - yays: 60, nays: 0
+    H.F. No. 1760 - yays: 61, nays: 1
+    S.F. No. 1679 - yays: 44, nays: 19
+    H.F. No. 988 - yays: 61, nays: 2
+    H.F. No. 412 - yays: 45, nays: 18
+    S.F. No. 107 - yays: 62, nays: 2
+    H.F. No. 420 - yays: 41, nays: 22
+    H.F. No. 239 - yays: 34, nays: 31
+    S.F. No. 82 - yays: 46, nays: 19
+    S.F. No. 1284 - yays: 63, nays: 0
+    H.F. No. 417 - yays: 49, nays: 16
+    S.F. No. 805 - yays: 65, nays: 0
+    H.F. No. 534 - yays: 65, nays: 0
+    H.F. No. 1275 - yays: 49, nays: 16
+    S.F. No. 763 - yays: 47, nays: 18
+    S.F. No. 1369 - yays: 65, nays: 0
+    S.F. No. 79 - yays: 65, nays: 0
+    H.F. No. 988 - yays: 64, nays: 1
+    S.F. No. 2083 - yays: 54, nays: 12
+    S.F. No. 2082 - yays: 58, nays: 8
+    S.F. No. 550 - yays: 50, nays: 16
+    H.F. No. 855 - yays: 59, nays: 8
+    H.F. No. 1122 - yays: 62, nays: 5
+    H.F. No. 2251 - yays: 65, nays: 1
+    H.F. No. 2 - yays: 49, nays: 16
+    S.F. No. 2141 - yays: 45, nays: 18
+2009_2010/sessions/txt/20090513053.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090514054.txt - DATE: True
+2009_2010/sessions/txt/20090514054.txt - ROLL: True
+    H.F. No. 1275 - yays: 39, nays: 17
+2009_2010/sessions/txt/20090514054.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090515055.txt - DATE: True
+2009_2010/sessions/txt/20090515055.txt - ROLL: True
+    H.F. No. 804 - yays: 66, nays: 0
+    S.F. No. 1154 - yays: 63, nays: 3
+    S.F. No. 251 - yays: 35, nays: 32
+    H.F. No. 265 - yays: 66, nays: 1
+    S.F. No. 1208 - yays: 59, nays: 7
+    S.F. No. 534 - yays: 67, nays: 0
+    S.F. No. 1016 - yays: 63, nays: 4
+    S.F. No. 2127 - yays: 67, nays: 0
+    H.F. No. 330 - yays: 44, nays: 23
+    H.F. No. 362 - yays: 38, nays: 29
+    H.F. No. 1053 - yays: 46, nays: 21
+    S.F. No. 1314 - yays: 67, nays: 0
+    H.F. No. 1476 - yays: 54, nays: 9
+    H.F. No. 1505 - yays: 67, nays: 0
+    H.F. No. 818 - yays: 67, nays: 0
+    H.F. No. 668 - yays: 65, nays: 0
+    S.F. No. 711 - yays: 66, nays: 1
+    S.F. No. 182 - yays: 41, nays: 25
+    S.F. No. 745 - yays: 67, nays: 0
+    S.F. No. 767 - yays: 63, nays: 1
+    H.F. No. 519 - yays: 58, nays: 7
+    H.F. No. 348 - yays: 66, nays: 1
+    H.F. No. 1849 - yays: 65, nays: 2
+    S.F. No. 1219 - yays: 64, nays: 2
+    S.F. No. 182 - yays: 39, nays: 28
+    S.F. No. 767 - yays: 66, nays: 1
+    S.F. No. 1091 - yays: 65, nays: 2
+    S.F. No. 657 - yays: 56, nays: 10
+    S.F. No. 489 - yays: 65, nays: 2
+    H.F. No. 523 - yays: 60, nays: 0
+    S.F. No. 191 - yays: 43, nays: 22
+    S.F. No. 477 - yays: 57, nays: 0
+    S.F. No. 1147 - yays: 47, nays: 7
+2009_2010/sessions/txt/20090515055.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090516056.txt - DATE: True
+2009_2010/sessions/txt/20090516056.txt - ROLL: True
+    S.F. No. 79 - yays: 61, nays: 0
+    S.F. No. 1284 - yays: 63, nays: 0
+    H.F. No. 1529 - yays: 65, nays: 0
+    H.F. No. 1250 - yays: 59, nays: 6
+    H.F. No. 1745 - yays: 57, nays: 8
+    H.F. No. 1853 - yays: 58, nays: 7
+    H.F. No. 1193 - yays: 65, nays: 0
+    S.F. No. 963 - yays: 65, nays: 0
+    H.F. No. 925 - yays: 45, nays: 18
+    H.F. No. 211 - yays: 40, nays: 25
+    S.F. No. 708 - yays: 61, nays: 1
+    H.F. No. 1880 - yays: 64, nays: 0
+2009_2010/sessions/txt/20090516056.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090517057.txt - DATE: True
+2009_2010/sessions/txt/20090517057.txt - ROLL: True
+    S.F. No. 1302 - yays: 55, nays: 0
+    S.F. No. 722 - yays: 58, nays: 0
+    S.F. No. 1477 - yays: 57, nays: 0
+    S.F. No. 1012 - yays: 59, nays: 1
+    S.F. No. 1447 - yays: 60, nays: 2
+    H.F. No. 1744 - yays: 61, nays: 0
+    H.F. No. 384 - yays: 59, nays: 2
+    H.F. No. 702 - yays: 58, nays: 1
+    H.F. No. 1728 - yays: 53, nays: 8
+    H.F. No. 1328 - yays: 61, nays: 0
+    S.F. No. 1797 - yays: 60, nays: 2
+    H.F. No. 705 - yays: 48, nays: 13
+    H.F. No. 1276 - yays: 62, nays: 0
+    H.F. No. 702 - yays: 62, nays: 0
+2009_2010/sessions/txt/20090517057.txt - BILL VOTES: True
+2009_2010/sessions/txt/20090518058.txt - DATE: True
+2009_2010/sessions/txt/20090518058.txt - ROLL: True
+    H.F. No. 417 - yays: 47, nays: 14
+    H.F. No. 519 - yays: 54, nays: 2
+    H.F. No. 804 - yays: 56, nays: 4
+    H.F. No. 1849 - yays: 61, nays: 1
+    S.F. No. 1219 - yays: 59, nays: 2
+    H.F. No. 1237 - yays: 65, nays: 0
+    S.F. No. 1331 - yays: 44, nays: 20
+    H.F. No. 1760 - yays: 60, nays: 4
+    S.F. No. 1503 - yays: 64, nays: 0
+    S.F. No. 971 - yays: 46, nays: 8
+    S.F. No. 1504 - yays: 62, nays: 1
+    H.F. No. 927 - yays: 58, nays: 6
+    H.F. No. 108 - yays: 47, nays: 19
+    S.F. No. 191 - yays: 54, nays: 8
+    H.F. No. 1853 - yays: 55, nays: 9
+    S.F. No. 97 - yays: 38, nays: 28
+    S.F. No. 1009 - yays: 60, nays: 2
+    H.F. No. 878 - yays: 54, nays: 5
+    H.F. No. 1231 - yays: 67, nays: 0
+    H.F. No. 1988 - yays: 64, nays: 0
+    H.F. No. 1276 - yays: 66, nays: 0
+    H.F. No. 1728 - yays: 67, nays: 0
+    H.F. No. 1237 - yays: 51, nays: 13
+    H.F. No. 2251 - yays: 59, nays: 8
+    H.F. No. 2323 - yays: 35, nays: 1
+2009_2010/sessions/txt/20090518058.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100204059.txt - DATE: True
+2009_2010/sessions/txt/20100204059.txt - ROLL: True
+2009_2010/sessions/txt/20100204059.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20100208060.txt - DATE: True
+2009_2010/sessions/txt/20100208060.txt - ROLL: True
+    S.F. No. 848 - yays: 61, nays: 0
+    S.F. No. 740 - yays: 55, nays: 6
+2009_2010/sessions/txt/20100208060.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100209061.txt - DATE: True
+2009_2010/sessions/txt/20100209061.txt - ROLL: True
+    S.F. No. 2360 - yays: 52, nays: 14
+2009_2010/sessions/txt/20100209061.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100211062.txt - DATE: True
+2009_2010/sessions/txt/20100211062.txt - ROLL: True
+    S.F. No. 2168 - yays: 45, nays: 20
+2009_2010/sessions/txt/20100211062.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100212063.txt - DATE: True
+2009_2010/sessions/txt/20100212063.txt - ROLL: ERROR
+2009_2010/sessions/txt/20100212063.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20100215064.txt - DATE: True
+2009_2010/sessions/txt/20100215064.txt - ROLL: True
+2009_2010/sessions/txt/20100215064.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20100216065.txt - DATE: True
+2009_2010/sessions/txt/20100216065.txt - ROLL: True
+    H.F. No. 2700 - yays: 53, nays: 13
+    S.F. No. 2251 - yays: 65, nays: 0
+2009_2010/sessions/txt/20100216065.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100218066.txt - DATE: True
+2009_2010/sessions/txt/20100218066.txt - ROLL: True
+    S.F. No. 2352 - yays: 56, nays: 0
+    S.F. No. 2309 - yays: 59, nays: 0
+    S.F. No. 2168 - yays: 47, nays: 16
+2009_2010/sessions/txt/20100218066.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100222067.txt - DATE: True
+2009_2010/sessions/txt/20100222067.txt - ROLL: True
+    S.F. No. 2373 - yays: 64, nays: 0
+    S.F. No. 2253 - yays: 64, nays: 0
+    S.F. No. 2475 - yays: 64, nays: 0
+    H.F. No. 2700 - yays: 47, nays: 19
+2009_2010/sessions/txt/20100222067.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100225068.txt - DATE: True
+2009_2010/sessions/txt/20100225068.txt - ROLL: True
+    S.F. No. 2259 - yays: 63, nays: 3
+2009_2010/sessions/txt/20100225068.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100301069.txt - DATE: True
+2009_2010/sessions/txt/20100301069.txt - ROLL: True
+    S.F. No. 2251 - yays: 61, nays: 0
+    S.F. No. 2572 - yays: 63, nays: 0
+2009_2010/sessions/txt/20100301069.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100304070.txt - DATE: True
+2009_2010/sessions/txt/20100304070.txt - ROLL: True
+    S.F. No. 2352 - yays: 59, nays: 0
+    S.F. No. 2596 - yays: 62, nays: 0
+    S.F. No. 2340 - yays: 62, nays: 0
+2009_2010/sessions/txt/20100304070.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100308071.txt - DATE: True
+2009_2010/sessions/txt/20100308071.txt - ROLL: True
+2009_2010/sessions/txt/20100308071.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20100309072.txt - DATE: True
+2009_2010/sessions/txt/20100309072.txt - ROLL: True
+    S.F. No. 2253 - yays: 62, nays: 0
+2009_2010/sessions/txt/20100309072.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100311073.txt - DATE: True
+2009_2010/sessions/txt/20100311073.txt - ROLL: True
+    S.F. No. 2743 - yays: 66, nays: 0
+    S.F. No. 2183 - yays: 66, nays: 0
+    S.F. No. 2602 - yays: 66, nays: 0
+    H.F. No. 2706 - yays: 65, nays: 0
+    S.F. No. 568 - yays: 65, nays: 0
+    H.F. No. 2856 - yays: 63, nays: 2
+    S.F. No. 2372 - yays: 66, nays: 0
+    S.F. No. 2439 - yays: 64, nays: 2
+    H.F. No. 2700 - yays: 49, nays: 17
+2009_2010/sessions/txt/20100311073.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100315074.txt - DATE: True
+2009_2010/sessions/txt/20100315074.txt - ROLL: True
+    S.F. No. 2946 - yays: 63, nays: 0
+2009_2010/sessions/txt/20100315074.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100317075.txt - DATE: True
+2009_2010/sessions/txt/20100317075.txt - ROLL: True
+    S.F. No. 3026 - yays: 64, nays: 0
+    S.F. No. 3167 - yays: 64, nays: 0
+2009_2010/sessions/txt/20100317075.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100318076.txt - DATE: True
+2009_2010/sessions/txt/20100318076.txt - ROLL: True
+    H.F. No. 3108 - yays: 65, nays: 0
+    H.F. No. 3111 - yays: 63, nays: 0
+2009_2010/sessions/txt/20100318076.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100322077.txt - DATE: True
+2009_2010/sessions/txt/20100322077.txt - ROLL: True
+    H.F. No. 1671 - yays: 43, nays: 23
+2009_2010/sessions/txt/20100322077.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100323078.txt - DATE: True
+2009_2010/sessions/txt/20100323078.txt - ROLL: True
+2009_2010/sessions/txt/20100323078.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20100324079.txt - DATE: True
+2009_2010/sessions/txt/20100324079.txt - ROLL: True
+    S.F. No. 2596 - yays: 56, nays: 0
+    S.F. No. 460 - yays: 50, nays: 12
+2009_2010/sessions/txt/20100324079.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100325080.txt - DATE: True
+2009_2010/sessions/txt/20100325080.txt - ROLL: True
+    H.F. No. 3108 - yays: 50, nays: 0
+2009_2010/sessions/txt/20100325080.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100326081.txt - DATE: True
+2009_2010/sessions/txt/20100326081.txt - ROLL: True
+2009_2010/sessions/txt/20100326081.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20100329082.txt - DATE: True
+2009_2010/sessions/txt/20100329082.txt - ROLL: True
+    S.F. No. 2877 - yays: 57, nays: 1
+    H.F. No. 2231 - yays: 47, nays: 16
+    H.F. No. 2786 - yays: 63, nays: 0
+    H.F. No. 2616 - yays: 60, nays: 3
+    H.F. No. 2561 - yays: 63, nays: 0
+    S.F. No. 2923 - yays: 63, nays: 1
+    S.F. No. 2709 - yays: 64, nays: 0
+    S.F. No. 2927 - yays: 64, nays: 0
+    H.F. No. 2915 - yays: 64, nays: 0
+    S.F. No. 2535 - yays: 63, nays: 1
+    S.F. No. 3027 - yays: 63, nays: 1
+    S.F. No. 2912 - yays: 63, nays: 1
+    S.F. No. 1524 - yays: 65, nays: 0
+    S.F. No. 3009 - yays: 55, nays: 11
+    H.F. No. 3350 - yays: 60, nays: 6
+    S.F. No. 838 - yays: 59, nays: 7
+    S.F. No. 2719 - yays: 62, nays: 3
+    S.F. No. 2562 - yays: 66, nays: 0
+    S.F. No. 2267 - yays: 66, nays: 0
+    H.F. No. 3318 - yays: 63, nays: 3
+    S.F. No. 2855 - yays: 65, nays: 1
+    S.F. No. 2852 - yays: 65, nays: 1
+    H.F. No. 2956 - yays: 47, nays: 20
+    S.F. No. 2933 - yays: 67, nays: 0
+    S.F. No. 2935 - yays: 67, nays: 0
+    S.F. No. 2690 - yays: 67, nays: 0
+    S.F. No. 2700 - yays: 63, nays: 4
+    S.F. No. 2908 - yays: 67, nays: 0
+    S.F. No. 2705 - yays: 67, nays: 0
+    S.F. No. 2713 - yays: 67, nays: 0
+    S.F. No. 3147 - yays: 50, nays: 16
+    H.F. No. 212 - yays: 65, nays: 2
+    S.F. No. 2990 - yays: 67, nays: 0
+    S.F. No. 2885 - yays: 56, nays: 11
+    S.F. No. 2322 - yays: 67, nays: 0
+    S.F. No. 2755 - yays: 67, nays: 0
+    H.F. No. 2709 - yays: 66, nays: 1
+    H.F. No. 2729 - yays: 67, nays: 0
+    H.F. No. 3065 - yays: 67, nays: 0
+    S.F. No. 1605 - yays: 49, nays: 18
+    H.F. No. 3096 - yays: 67, nays: 0
+    H.F. No. 3327 - yays: 59, nays: 8
+    S.F. No. 2341 - yays: 67, nays: 0
+    S.F. No. 2840 - yays: 67, nays: 0
+    S.F. No. 2844 - yays: 65, nays: 2
+    S.F. No. 2944 - yays: 58, nays: 9
+    H.F. No. 2881 - yays: 67, nays: 0
+    S.F. No. 3128 - yays: 53, nays: 14
+    H.F. No. 776 - yays: 64, nays: 3
+    H.F. No. 1217 - yays: 67, nays: 0
+    S.F. No. 2226 - yays: 57, nays: 10
+    S.F. No. 2641 - yays: 47, nays: 18
+    H.F. No. 2360 - yays: 41, nays: 26
+    H.F. No. 2918 - yays: 64, nays: 3
+    S.F. No. 2152 - yays: 56, nays: 11
+    H.F. No. 3277 - yays: 65, nays: 2
+    S.F. No. 2879 - yays: 66, nays: 1
+    S.F. No. 2957 - yays: 60, nays: 7
+    S.F. No. 2625 - yays: 67, nays: 0
+    H.F. No. 3061 - yays: 54, nays: 12
+    H.F. No. 3362 - yays: 63, nays: 4
+    S.F. No. 2720 - yays: 56, nays: 11
+    S.F. No. 3040 - yays: 56, nays: 11
+    S.F. No. 3124 - yays: 67, nays: 0
+    S.F. No. 3081 - yays: 66, nays: 1
+    S.F. No. 2826 - yays: 57, nays: 10
+    H.F. No. 3259 - yays: 65, nays: 2
+    S.F. No. 1537 - yays: 38, nays: 29
+    S.F. No. 3080 - yays: 58, nays: 9
+    S.F. No. 3126 - yays: 63, nays: 3
+    S.F. No. 2971 - yays: 63, nays: 4
+    H.F. No. 3027 - yays: 66, nays: 1
+    S.F. No. 2339 - yays: 64, nays: 1
+    S.F. No. 2891 - yays: 67, nays: 0
+    S.F. No. 2996 - yays: 65, nays: 2
+    H.F. No. 3139 - yays: 66, nays: 0
+    H.F. No. 3017 - yays: 49, nays: 18
+    S.F. No. 2989 - yays: 66, nays: 0
+    S.F. No. 2758 - yays: 67, nays: 0
+    S.F. No. 3123 - yays: 67, nays: 0
+    S.F. No. 1246 - yays: 64, nays: 3
+    S.F. No. 2519 - yays: 48, nays: 19
+    S.F. No. 2616 - yays: 65, nays: 2
+    H.F. No. 2823 - yays: 67, nays: 0
+    H.F. No. 2828 - yays: 67, nays: 0
+    H.F. No. 2949 - yays: 50, nays: 17
+    S.F. No. 3091 - yays: 67, nays: 0
+    S.F. No. 271 - yays: 56, nays: 11
+    H.F. No. 3591 - yays: 66, nays: 1
+    S.F. No. 1886 - yays: 58, nays: 8
+    S.F. No. 3052 - yays: 65, nays: 1
+    S.F. No. 2490 - yays: 52, nays: 15
+    S.F. No. 2866 - yays: 55, nays: 12
+    S.F. No. 2846 - yays: 67, nays: 0
+    H.F. No. 1780 - yays: 66, nays: 1
+    S.F. No. 1126 - yays: 66, nays: 0
+    H.F. No. 3067 - yays: 64, nays: 2
+    S.F. No. 2808 - yays: 59, nays: 5
+    S.F. No. 3127 - yays: 62, nays: 5
+    S.F. No. 2759 - yays: 64, nays: 3
+    H.F. No. 1671 - yays: 44, nays: 23
+    S.F. No. 2370 - yays: 43, nays: 24
+    S.F. No. 2717 - yays: 64, nays: 0
+    S.F. No. 2363 - yays: 66, nays: 0
+    H.F. No. 3336 - yays: 67, nays: 0
+    H.F. No. 3391 - yays: 67, nays: 0
+    S.F. No. 2945 - yays: 67, nays: 0
+    S.F. No. 2773 - yays: 61, nays: 6
+    S.F. No. 2427 - yays: 66, nays: 1
+    H.F. No. 3187 - yays: 66, nays: 0
+    S.F. No. 2517 - yays: 66, nays: 0
+    S.F. No. 3145 - yays: 66, nays: 0
+    S.F. No. 2415 - yays: 62, nays: 5
+    S.F. No. 2533 - yays: 52, nays: 15
+    S.F. No. 2437 - yays: 67, nays: 0
+    H.F. No. 3172 - yays: 65, nays: 0
+    H.F. No. 3048 - yays: 66, nays: 1
+    S.F. No. 2695 - yays: 43, nays: 24
+    S.F. No. 2469 - yays: 67, nays: 0
+    S.F. No. 2580 - yays: 65, nays: 0
+    S.F. No. 987 - yays: 64, nays: 2
+    H.F. No. 2988 - yays: 67, nays: 0
+    S.F. No. 3116 - yays: 54, nays: 8
+    S.F. No. 2425 - yays: 67, nays: 0
+    S.F. No. 2559 - yays: 65, nays: 2
+    S.F. No. 2722 - yays: 66, nays: 0
+    S.F. No. 2825 - yays: 66, nays: 0
+    S.F. No. 2364 - yays: 65, nays: 2
+    H.F. No. 2695 - yays: 58, nays: 3
+2009_2010/sessions/txt/20100329082.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100406083.txt - DATE: True
+2009_2010/sessions/txt/20100406083.txt - ROLL: True
+    H.F. No. 2668 - yays: 55, nays: 7
+    H.F. No. 3164 - yays: 63, nays: 0
+    H.F. No. 3393 - yays: 62, nays: 2
+    H.F. No. 3286 - yays: 46, nays: 18
+2009_2010/sessions/txt/20100406083.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100407084.txt - DATE: True
+2009_2010/sessions/txt/20100407084.txt - ROLL: True
+2009_2010/sessions/txt/20100407084.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20100408085.txt - DATE: True
+2009_2010/sessions/txt/20100408085.txt - ROLL: True
+2009_2010/sessions/txt/20100408085.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20100412086.txt - DATE: True
+2009_2010/sessions/txt/20100412086.txt - ROLL: True
+    S.F. No. 2616 - yays: 55, nays: 4
+    S.F. No. 2722 - yays: 44, nays: 18
+    S.F. No. 2705 - yays: 63, nays: 0
+    S.F. No. 2877 - yays: 64, nays: 0
+    S.F. No. 2511 - yays: 62, nays: 2
+    S.F. No. 2851 - yays: 64, nays: 0
+    S.F. No. 2934 - yays: 63, nays: 1
+    H.F. No. 2639 - yays: 64, nays: 0
+    H.F. No. 3174 - yays: 63, nays: 0
+    H.F. No. 2851 - yays: 63, nays: 0
+    H.F. No. 3143 - yays: 64, nays: 0
+    H.F. No. 1692 - yays: 60, nays: 3
+    S.F. No. 2663 - yays: 64, nays: 0
+    S.F. No. 525 - yays: 57, nays: 7
+    H.F. No. 3460 - yays: 62, nays: 0
+    S.F. No. 2790 - yays: 47, nays: 17
+    S.F. No. 2386 - yays: 48, nays: 16
+    H.F. No. 3128 - yays: 61, nays: 1
+    H.F. No. 2634 - yays: 38, nays: 23
+    H.F. No. 3263 - yays: 62, nays: 2
+    S.F. No. 364 - yays: 63, nays: 1
+2009_2010/sessions/txt/20100412086.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100413087.txt - DATE: True
+2009_2010/sessions/txt/20100413087.txt - ROLL: True
+    S.F. No. 2808 - yays: 56, nays: 5
+2009_2010/sessions/txt/20100413087.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100415088.txt - DATE: True
+2009_2010/sessions/txt/20100415088.txt - ROLL: True
+    S.F. No. 2944 - yays: 53, nays: 10
+    H.F. No. 3405 - yays: 64, nays: 0
+    H.F. No. 3151 - yays: 50, nays: 13
+    S.F. No. 2830 - yays: 63, nays: 1
+    H.F. No. 3157 - yays: 63, nays: 0
+    H.F. No. 2879 - yays: 64, nays: 0
+    H.F. No. 2907 - yays: 58, nays: 6
+    H.F. No. 2624 - yays: 58, nays: 6
+    S.F. No. 2752 - yays: 59, nays: 4
+2009_2010/sessions/txt/20100415088.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100419089.txt - DATE: True
+2009_2010/sessions/txt/20100419089.txt - ROLL: True
+    S.F. No. 1246 - yays: 55, nays: 3
+    S.F. No. 2653 - yays: 64, nays: 0
+    S.F. No. 633 - yays: 65, nays: 0
+    S.F. No. 2505 - yays: 53, nays: 12
+    S.F. No. 3119 - yays: 56, nays: 9
+    S.F. No. 2873 - yays: 66, nays: 0
+    H.F. No. 655 - yays: 58, nays: 7
+    H.F. No. 653 - yays: 66, nays: 0
+    S.F. No. 2737 - yays: 66, nays: 0
+    S.F. No. 2941 - yays: 66, nays: 0
+2009_2010/sessions/txt/20100419089.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100420090.txt - DATE: True
+2009_2010/sessions/txt/20100420090.txt - ROLL: True
+    S.F. No. 2825 - yays: 64, nays: 0
+2009_2010/sessions/txt/20100420090.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100421091.txt - DATE: True
+2009_2010/sessions/txt/20100421091.txt - ROLL: True
+    H.F. No. 2231 - yays: 47, nays: 15
+    H.F. No. 3048 - yays: 62, nays: 1
+    H.F. No. 3391 - yays: 63, nays: 0
+2009_2010/sessions/txt/20100421091.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100426092.txt - DATE: True
+2009_2010/sessions/txt/20100426092.txt - ROLL: True
+    S.F. No. 3046 - yays: 65, nays: 0
+    H.F. No. 1182 - yays: 59, nays: 5
+    H.F. No. 3386 - yays: 63, nays: 2
+    S.F. No. 3325 - yays: 65, nays: 0
+    S.F. No. 2629 - yays: 64, nays: 1
+    S.F. No. 2541 - yays: 50, nays: 15
+    S.F. No. 3131 - yays: 52, nays: 13
+    S.F. No. 345 - yays: 51, nays: 14
+    S.F. No. 3251 - yays: 48, nays: 17
+    S.F. No. 2510 - yays: 45, nays: 21
+    S.F. No. 184 - yays: 61, nays: 5
+    S.F. No. 1060 - yays: 55, nays: 11
+    S.F. No. 3134 - yays: 52, nays: 14
+    S.F. No. 2756 - yays: 47, nays: 19
+    S.F. No. 3105 - yays: 64, nays: 2
+    H.F. No. 1320 - yays: 66, nays: 0
+    S.F. No. 1905 - yays: 62, nays: 4
+    S.F. No. 1761 - yays: 58, nays: 8
+    S.F. No. 2471 - yays: 66, nays: 0
+    S.F. No. 2493 - yays: 66, nays: 0
+    S.F. No. 2880 - yays: 50, nays: 16
+    S.F. No. 2874 - yays: 40, nays: 25
+    S.F. No. 560 - yays: 51, nays: 15
+2009_2010/sessions/txt/20100426092.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100427093.txt - DATE: True
+2009_2010/sessions/txt/20100427093.txt - ROLL: True
+    S.F. No. 2758 - yays: 53, nays: 0
+    H.F. No. 3164 - yays: 55, nays: 0
+2009_2010/sessions/txt/20100427093.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100428094.txt - DATE: True
+2009_2010/sessions/txt/20100428094.txt - ROLL: True
+    S.F. No. 3051 - yays: 49, nays: 18
+    S.F. No. 3275 - yays: 63, nays: 4
+    H.F. No. 3589 - yays: 63, nays: 4
+    S.F. No. 2540 - yays: 63, nays: 4
+    H.F. No. 1209 - yays: 54, nays: 13
+    S.F. No. 2429 - yays: 67, nays: 0
+    H.F. No. 2855 - yays: 64, nays: 3
+    S.F. No. 3073 - yays: 66, nays: 0
+    S.F. No. 3003 - yays: 67, nays: 0
+    S.F. No. 2642 - yays: 67, nays: 0
+    H.F. No. 2899 - yays: 66, nays: 1
+    S.F. No. 2974 - yays: 54, nays: 12
+    S.F. No. 2716 - yays: 51, nays: 15
+    S.F. No. 3055 - yays: 63, nays: 4
+    S.F. No. 3075 - yays: 50, nays: 15
+    S.F. No. 1323 - yays: 65, nays: 1
+2009_2010/sessions/txt/20100428094.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100503095.txt - DATE: True
+2009_2010/sessions/txt/20100503095.txt - ROLL: True
+    S.F. No. 2855 - yays: 64, nays: 1
+    S.F. No. 2713 - yays: 52, nays: 13
+    S.F. No. 915 - yays: 42, nays: 23
+    S.F. No. 2437 - yays: 64, nays: 0
+    S.F. No. 364 - yays: 63, nays: 1
+    S.F. No. 2370 - yays: 64, nays: 0
+    S.F. No. 2912 - yays: 62, nays: 2
+    H.F. No. 3318 - yays: 60, nays: 4
+    H.F. No. 3591 - yays: 64, nays: 0
+2009_2010/sessions/txt/20100503095.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100504096.txt - DATE: True
+2009_2010/sessions/txt/20100504096.txt - ROLL: True
+2009_2010/sessions/txt/20100504096.txt - BILL VOTES: ERROR
+2009_2010/sessions/txt/20100505097.txt - DATE: True
+2009_2010/sessions/txt/20100505097.txt - ROLL: True
+    S.F. No. 2918 - yays: 44, nays: 19
+    H.F. No. 2614 - yays: 42, nays: 19
+    S.F. No. 633 - yays: 61, nays: 0
+    S.F. No. 2759 - yays: 58, nays: 2
+    S.F. No. 2880 - yays: 49, nays: 13
+    S.F. No. 3027 - yays: 60, nays: 1
+    S.F. No. 2756 - yays: 46, nays: 16
+    H.F. No. 3327 - yays: 44, nays: 18
+    H.F. No. 653 - yays: 62, nays: 0
+    H.F. No. 655 - yays: 60, nays: 2
+    H.F. No. 2668 - yays: 56, nays: 6
+    S.F. No. 2511 - yays: 60, nays: 2
+    S.F. No. 2846 - yays: 59, nays: 3
+    S.F. No. 3128 - yays: 49, nays: 13
+    S.F. No. 2702 - yays: 59, nays: 2
+    H.F. No. 3106 - yays: 59, nays: 1
+    S.F. No. 2900 - yays: 57, nays: 4
+    S.F. No. 3379 - yays: 61, nays: 0
+2009_2010/sessions/txt/20100505097.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100506098.txt - DATE: True
+2009_2010/sessions/txt/20100506098.txt - ROLL: True
+    S.F. No. 345 - yays: 42, nays: 10
+    S.F. No. 525 - yays: 57, nays: 4
+    S.F. No. 2709 - yays: 62, nays: 0
+    H.F. No. 910 - yays: 58, nays: 4
+    S.F. No. 2998 - yays: 62, nays: 0
+    S.F. No. 3079 - yays: 62, nays: 0
+    S.F. No. 3029 - yays: 62, nays: 0
+    S.F. No. 3019 - yays: 61, nays: 0
+    S.F. No. 2496 - yays: 54, nays: 7
+    S.F. No. 2634 - yays: 35, nays: 26
+    S.F. No. 80 - yays: 62, nays: 1
+    S.F. No. 2935 - yays: 58, nays: 1
+    S.F. No. 2519 - yays: 41, nays: 19
+2009_2010/sessions/txt/20100506098.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100507099.txt - DATE: True
+2009_2010/sessions/txt/20100507099.txt - ROLL: True
+    S.F. No. 2386 - yays: 48, nays: 14
+    S.F. No. 1886 - yays: 59, nays: 3
+    S.F. No. 3080 - yays: 57, nays: 5
+    S.F. No. 1761 - yays: 59, nays: 5
+    S.F. No. 2755 - yays: 65, nays: 0
+2009_2010/sessions/txt/20100507099.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100508100.txt - DATE: True
+2009_2010/sessions/txt/20100508100.txt - ROLL: True
+    S.F. No. 2700 - yays: 55, nays: 0
+    S.F. No. 1481 - yays: 46, nays: 13
+    S.F. No. 2427 - yays: 61, nays: 0
+    S.F. No. 2737 - yays: 60, nays: 0
+    S.F. No. 2790 - yays: 46, nays: 14
+    S.F. No. 2974 - yays: 46, nays: 12
+    H.F. No. 3660 - yays: 60, nays: 1
+    H.F. No. 2612 - yays: 61, nays: 0
+    S.F. No. 2682 - yays: 46, nays: 15
+    H.F. No. 3056 - yays: 51, nays: 9
+    S.F. No. 3318 - yays: 61, nays: 0
+    S.F. No. 2725 - yays: 61, nays: 0
+    S.F. No. 1659 - yays: 38, nays: 23
+    S.F. No. 2839 - yays: 61, nays: 0
+    S.F. No. 2430 - yays: 61, nays: 0
+    S.F. No. 2170 - yays: 52, nays: 9
+    S.F. No. 1659 - yays: 34, nays: 27
+2009_2010/sessions/txt/20100508100.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100510101.txt - DATE: True
+2009_2010/sessions/txt/20100510101.txt - ROLL: True
+    H.F. No. 2037 - yays: 34, nays: 33
+    H.F. No. 3729 - yays: 54, nays: 13
+    S.F. No. 2937 - yays: 67, nays: 0
+    S.F. No. 1770 - yays: 65, nays: 2
+    S.F. No. 3361 - yays: 67, nays: 0
+    S.F. No. 3043 - yays: 61, nays: 6
+    H.F. No. 3386 - yays: 64, nays: 3
+    H.F. No. 2639 - yays: 67, nays: 0
+    H.F. No. 2634 - yays: 42, nays: 25
+    S.F. No. 3147 - yays: 67, nays: 0
+    S.F. No. 2505 - yays: 57, nays: 10
+    S.F. No. 3081 - yays: 67, nays: 0
+    S.F. No. 2510 - yays: 54, nays: 13
+    S.F. No. 2695 - yays: 44, nays: 23
+    S.F. No. 271 - yays: 48, nays: 18
+2009_2010/sessions/txt/20100510101.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100511102.txt - DATE: True
+2009_2010/sessions/txt/20100511102.txt - ROLL: True
+    S.F. No. 2933 - yays: 62, nays: 0
+    S.F. No. 2540 - yays: 58, nays: 3
+    S.F. No. 1060 - yays: 51, nays: 8
+2009_2010/sessions/txt/20100511102.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100512103.txt - DATE: True
+2009_2010/sessions/txt/20100512103.txt - ROLL: True
+    S.F. No. 341 - yays: 41, nays: 24
+    S.F. No. 2918 - yays: 52, nays: 14
+    H.F. No. 3263 - yays: 61, nays: 0
+    S.F. No. 3275 - yays: 59, nays: 7
+    H.F. No. 2624 - yays: 59, nays: 7
+    H.F. No. 2614 - yays: 47, nays: 18
+2009_2010/sessions/txt/20100512103.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100513104.txt - DATE: True
+2009_2010/sessions/txt/20100513104.txt - ROLL: True
+    S.F. No. 2879 - yays: 64, nays: 0
+    S.F. No. 3063 - yays: 60, nays: 5
+    S.F. No. 2598 - yays: 65, nays: 0
+    S.F. No. 3046 - yays: 64, nays: 0
+    S.F. No. 863 - yays: 64, nays: 1
+    S.F. No. 184 - yays: 62, nays: 2
+    S.F. No. 1905 - yays: 64, nays: 1
+    S.F. No. 3361 - yays: 65, nays: 0
+    H.F. No. 3106 - yays: 60, nays: 1
+    H.F. No. 2227 - yays: 51, nays: 10
+2009_2010/sessions/txt/20100513104.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100514105.txt - DATE: True
+2009_2010/sessions/txt/20100514105.txt - ROLL: True
+    H.F. No. 3834 - yays: 61, nays: 0
+    H.F. No. 2859 - yays: 53, nays: 0
+    H.F. No. 2801 - yays: 53, nays: 1
+2009_2010/sessions/txt/20100514105.txt - BILL VOTES: True
+2009_2010/sessions/txt/20100515106.txt - DATE: True
+2009_2010/sessions/txt/20100515106.txt - ROLL: True
+    S.F. No. 2629 - yays: 61, nays: 0
+    H.F. No. 910 - yays: 58, nays: 4
+    S.F. No. 2839 - yays: 62, nays: 2
+    S.F. No. 560 - yays: 64, nays: 0
+    S.F. No. 2725 - yays: 48, nays: 14
+    S.F. No. 2642 - yays: 61, nays: 0
+    H.F. No. 3787 - yays: 61, nays: 0
+    S.F. No. 3398 - yays: 62, nays: 0
+    H.F. No. 2072 - yays: 57, nays: 0
+    S.F. No. 2634 - yays: 63, nays: 0
+    S.F. No. 2900 - yays: 61, nays: 4
+    S.F. No. 3134 - yays: 66, nays: 0
+    H.F. No. 2801 - yays: 64, nays: 2
+    H.F. No. 1680 - yays: 9982, nays: 17
+    H.F. No. 3729 - yays: 50, nays: 17
+    H.F. No. 3834 - yays: 46, nays: 21
+2009_2010/sessions/txt/20100515106.txt - BILL VOTES: True
+ *** OMG: Something went way wrong encoding to JSON
+2009_2010/sessions/txt/20100516107.txt - DATE: True
+2009_2010/sessions/txt/20100516107.txt - ROLL: True
+    H.F. No. 2859 - yays: 65, nays: 0
+    H.F. No. 3329 - yays: 62, nays: 0
+    S.F. No. 2471 - yays: 61, nays: 0
+    H.F. No. 2227 - yays: 54, nays: 7
+    H.F. No. 3492 - yays: 54, nays: 9
+    S.F. No. 2908 - yays: 61, nays: 0
+2009_2010/sessions/txt/20100516107.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110104001.txt - ROLL: ERROR
+2011_2012/sessions/txt/20110104001.txt - ROLL: ERROR
+2011_2012/sessions/txt/20110104001.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110110002.txt - DATE: True
+2011_2012/sessions/txt/20110110002.txt - ROLL: True
+2011_2012/sessions/txt/20110110002.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110113003.txt - DATE: True
+2011_2012/sessions/txt/20110113003.txt - ROLL: True
+2011_2012/sessions/txt/20110113003.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110118004.txt - DATE: True
+2011_2012/sessions/txt/20110118004.txt - ROLL: True
+2011_2012/sessions/txt/20110118004.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110120005.txt - DATE: True
+2011_2012/sessions/txt/20110120005.txt - ROLL: True
+2011_2012/sessions/txt/20110120005.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110124006.txt - DATE: True
+2011_2012/sessions/txt/20110124006.txt - ROLL: True
+2011_2012/sessions/txt/20110124006.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110126007.txt - DATE: True
+2011_2012/sessions/txt/20110126007.txt - ROLL: ERROR
+2011_2012/sessions/txt/20110126007.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110127008.txt - DATE: True
+2011_2012/sessions/txt/20110127008.txt - ROLL: True
+2011_2012/sessions/txt/20110127008.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110131009.txt - DATE: True
+2011_2012/sessions/txt/20110131009.txt - ROLL: True
+2011_2012/sessions/txt/20110131009.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110202010.txt - DATE: True
+2011_2012/sessions/txt/20110202010.txt - ROLL: True
+    S.F. No. 55 - yays: 64, nays: 0
+    S.F. No. 4 - yays: 50, nays: 14
+2011_2012/sessions/txt/20110202010.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110203011.txt - DATE: True
+2011_2012/sessions/txt/20110203011.txt - ROLL: True
+    H.F. No. 130 - yays: 37, nays: 27
+    S.F. No. 40 - yays: 40, nays: 23
+2011_2012/sessions/txt/20110203011.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110207012.txt - DATE: True
+2011_2012/sessions/txt/20110207012.txt - ROLL: True
+    S.F. No. 139 - yays: 63, nays: 0
+2011_2012/sessions/txt/20110207012.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110209013.txt - DATE: True
+2011_2012/sessions/txt/20110209013.txt - ROLL: True
+2011_2012/sessions/txt/20110209013.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110210014.txt - DATE: True
+2011_2012/sessions/txt/20110210014.txt - ROLL: True
+    H.F. No. 130 - yays: 37, nays: 28
+    S.F. No. 56 - yays: 36, nays: 29
+2011_2012/sessions/txt/20110210014.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110214015.txt - DATE: True
+2011_2012/sessions/txt/20110214015.txt - ROLL: True
+    S.F. No. 139 - yays: 66, nays: 0
+2011_2012/sessions/txt/20110214015.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110217016.txt - DATE: True
+2011_2012/sessions/txt/20110217016.txt - ROLL: True
+2011_2012/sessions/txt/20110217016.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110221017.txt - DATE: True
+2011_2012/sessions/txt/20110221017.txt - ROLL: True
+2011_2012/sessions/txt/20110221017.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110224018.txt - DATE: True
+2011_2012/sessions/txt/20110224018.txt - ROLL: True
+    H.F. No. 1 - yays: 49, nays: 16
+    H.F. No. 55 - yays: 66, nays: 0
+2011_2012/sessions/txt/20110224018.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110228019.txt - DATE: True
+2011_2012/sessions/txt/20110228019.txt - ROLL: True
+2011_2012/sessions/txt/20110228019.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110303020.txt - DATE: True
+2011_2012/sessions/txt/20110303020.txt - ROLL: True
+    S.F. No. 40 - yays: 46, nays: 19
+2011_2012/sessions/txt/20110303020.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110307021.txt - DATE: True
+2011_2012/sessions/txt/20110307021.txt - ROLL: True
+    H.F. No. 103 - yays: 62, nays: 0
+    S.F. No. 69 - yays: 63, nays: 0
+    S.F. No. 125 - yays: 63, nays: 0
+    S.F. No. 194 - yays: 63, nays: 0
+2011_2012/sessions/txt/20110307021.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110309022.txt - DATE: True
+2011_2012/sessions/txt/20110309022.txt - ROLL: True
+2011_2012/sessions/txt/20110309022.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110310023.txt - DATE: True
+2011_2012/sessions/txt/20110310023.txt - ROLL: True
+    H.F. No. 141 - yays: 64, nays: 0
+2011_2012/sessions/txt/20110310023.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110314024.txt - DATE: True
+2011_2012/sessions/txt/20110314024.txt - ROLL: True
+2011_2012/sessions/txt/20110314024.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110316025.txt - DATE: True
+2011_2012/sessions/txt/20110316025.txt - ROLL: True
+2011_2012/sessions/txt/20110316025.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110317026.txt - DATE: True
+2011_2012/sessions/txt/20110317026.txt - ROLL: True
+    S.F. No. 119 - yays: 62, nays: 0
+    S.F. No. 170 - yays: 63, nays: 0
+    H.F. No. 79 - yays: 64, nays: 0
+2011_2012/sessions/txt/20110317026.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110321027.txt - DATE: True
+2011_2012/sessions/txt/20110321027.txt - ROLL: True
+    S.F. No. 488 - yays: 63, nays: 0
+    H.F. No. 362 - yays: 62, nays: 1
+    S.F. No. 188 - yays: 63, nays: 0
+2011_2012/sessions/txt/20110321027.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110322028.txt - DATE: True
+2011_2012/sessions/txt/20110322028.txt - ROLL: ERROR
+2011_2012/sessions/txt/20110322028.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110323029.txt - DATE: True
+2011_2012/sessions/txt/20110323029.txt - ROLL: True
+2011_2012/sessions/txt/20110323029.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110324030.txt - DATE: True
+2011_2012/sessions/txt/20110324030.txt - ROLL: True
+    S.F. No. 137 - yays: 62, nays: 0
+    S.F. No. 191 - yays: 62, nays: 0
+    S.F. No. 478 - yays: 62, nays: 0
+    S.F. No. 551 - yays: 53, nays: 8
+2011_2012/sessions/txt/20110324030.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110325031.txt - DATE: True
+2011_2012/sessions/txt/20110325031.txt - ROLL: True
+2011_2012/sessions/txt/20110325031.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110328032.txt - DATE: True
+2011_2012/sessions/txt/20110328032.txt - ROLL: True
+    S.F. No. 1016 - yays: 39, nays: 25
+    S.F. No. 887 - yays: 36, nays: 28
+2011_2012/sessions/txt/20110328032.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110329033.txt - DATE: True
+2011_2012/sessions/txt/20110329033.txt - ROLL: True
+    S.F. No. 958 - yays: 36, nays: 28
+    S.F. No. 1029 - yays: 37, nays: 28
+    S.F. No. 924 - yays: 37, nays: 27
+    H.F. No. 12 - yays: 53, nays: 8
+2011_2012/sessions/txt/20110329033.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110330034.txt - DATE: True
+2011_2012/sessions/txt/20110330034.txt - ROLL: True
+    S.F. No. 1047 - yays: 36, nays: 29
+    S.F. No. 760 - yays: 37, nays: 26
+2011_2012/sessions/txt/20110330034.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110331035.txt - DATE: True
+2011_2012/sessions/txt/20110331035.txt - ROLL: True
+    H.F. No. 1010 - yays: 36, nays: 28
+    S.F. No. 1030 - yays: 36, nays: 25
+2011_2012/sessions/txt/20110331035.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110404036.txt - DATE: True
+2011_2012/sessions/txt/20110404036.txt - ROLL: True
+    H.F. No. 1140 - yays: 38, nays: 25
+    H.F. No. 1101 - yays: 36, nays: 27
+    H.F. No. 934 - yays: 36, nays: 27
+2011_2012/sessions/txt/20110404036.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110405037.txt - DATE: True
+2011_2012/sessions/txt/20110405037.txt - ROLL: True
+    H.F. No. 42 - yays: 37, nays: 26
+2011_2012/sessions/txt/20110405037.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110406038.txt - DATE: True
+2011_2012/sessions/txt/20110406038.txt - ROLL: ERROR
+2011_2012/sessions/txt/20110406038.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110407039.txt - DATE: True
+2011_2012/sessions/txt/20110407039.txt - ROLL: True
+    H.F. No. 613 - yays: 63, nays: 0
+    S.F. No. 39 - yays: 35, nays: 28
+    S.F. No. 626 - yays: 64, nays: 0
+    S.F. No. 156 - yays: 64, nays: 0
+2011_2012/sessions/txt/20110407039.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110411040.txt - DATE: True
+2011_2012/sessions/txt/20110411040.txt - ROLL: True
+2011_2012/sessions/txt/20110411040.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110414041.txt - DATE: True
+2011_2012/sessions/txt/20110414041.txt - ROLL: True
+    H.F. No. 12 - yays: 45, nays: 15
+    S.F. No. 1016 - yays: 52, nays: 9
+    S.F. No. 86 - yays: 42, nays: 18
+    H.F. No. 323 - yays: 55, nays: 1
+    S.F. No. 548 - yays: 57, nays: 0
+    S.F. No. 67 - yays: 57, nays: 0
+    S.F. No. 882 - yays: 54, nays: 0
+2011_2012/sessions/txt/20110414041.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110418042.txt - DATE: True
+2011_2012/sessions/txt/20110418042.txt - ROLL: True
+2011_2012/sessions/txt/20110418042.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110426043.txt - DATE: True
+2011_2012/sessions/txt/20110426043.txt - ROLL: True
+    H.F. No. 52 - yays: 64, nays: 0
+2011_2012/sessions/txt/20110426043.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110427044.txt - DATE: True
+2011_2012/sessions/txt/20110427044.txt - ROLL: True
+2011_2012/sessions/txt/20110427044.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110428045.txt - DATE: True
+2011_2012/sessions/txt/20110428045.txt - ROLL: True
+    H.F. No. 978 - yays: 60, nays: 0
+    S.F. No. 509 - yays: 37, nays: 26
+2011_2012/sessions/txt/20110428045.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110502046.txt - DATE: True
+2011_2012/sessions/txt/20110502046.txt - ROLL: True
+2011_2012/sessions/txt/20110502046.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110503047.txt - DATE: True
+2011_2012/sessions/txt/20110503047.txt - ROLL: True
+2011_2012/sessions/txt/20110503047.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110504048.txt - DATE: True
+2011_2012/sessions/txt/20110504048.txt - ROLL: True
+    S.F. No. 1135 - yays: 59, nays: 1
+    S.F. No. 1134 - yays: 59, nays: 1
+    S.F. No. 346 - yays: 51, nays: 9
+2011_2012/sessions/txt/20110504048.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110505049.txt - DATE: True
+2011_2012/sessions/txt/20110505049.txt - ROLL: True
+2011_2012/sessions/txt/20110505049.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110506050.txt - DATE: True
+2011_2012/sessions/txt/20110506050.txt - ROLL: ERROR
+2011_2012/sessions/txt/20110506050.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110509051.txt - DATE: True
+2011_2012/sessions/txt/20110509051.txt - ROLL: True
+2011_2012/sessions/txt/20110509051.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20110510052.txt - DATE: True
+2011_2012/sessions/txt/20110510052.txt - ROLL: True
+    S.F. No. 626 - yays: 51, nays: 13
+    H.F. No. 8 - yays: 37, nays: 28
+    S.F. No. 930 - yays: 60, nays: 4
+    S.F. No. 1115 - yays: 64, nays: 0
+    H.F. No. 786 - yays: 62, nays: 0
+    S.F. No. 779 - yays: 65, nays: 0
+    H.F. No. 186 - yays: 65, nays: 0
+    S.F. No. 573 - yays: 65, nays: 0
+    S.F. No. 1130 - yays: 65, nays: 0
+    H.F. No. 529 - yays: 63, nays: 0
+    H.F. No. 569 - yays: 65, nays: 0
+    S.F. No. 712 - yays: 65, nays: 0
+    S.F. No. 855 - yays: 64, nays: 1
+    S.F. No. 348 - yays: 65, nays: 0
+2011_2012/sessions/txt/20110510052.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110511053.txt - DATE: True
+2011_2012/sessions/txt/20110511053.txt - ROLL: True
+    S.F. No. 1308 - yays: 38, nays: 27
+    S.F. No. 731 - yays: 47, nays: 0
+    S.F. No. 1244 - yays: 48, nays: 13
+2011_2012/sessions/txt/20110511053.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110512054.txt - DATE: True
+2011_2012/sessions/txt/20110512054.txt - ROLL: True
+    H.F. No. 235 - yays: 66, nays: 0
+    S.F. No. 1363 - yays: 52, nays: 14
+    H.F. No. 57 - yays: 65, nays: 0
+    S.F. No. 225 - yays: 64, nays: 0
+    H.F. No. 299 - yays: 65, nays: 0
+    S.F. No. 249 - yays: 65, nays: 0
+    S.F. No. 1162 - yays: 63, nays: 2
+    S.F. No. 994 - yays: 65, nays: 0
+    S.F. No. 1044 - yays: 66, nays: 0
+    S.F. No. 1243 - yays: 66, nays: 0
+    S.F. No. 1078 - yays: 58, nays: 8
+2011_2012/sessions/txt/20110512054.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110513055.txt - DATE: True
+2011_2012/sessions/txt/20110513055.txt - ROLL: True
+    H.F. No. 1326 - yays: 60, nays: 0
+    S.F. No. 1197 - yays: 51, nays: 14
+    S.F. No. 742 - yays: 51, nays: 13
+    S.F. No. 955 - yays: 60, nays: 5
+    H.F. No. 664 - yays: 65, nays: 0
+2011_2012/sessions/txt/20110513055.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110514056.txt - DATE: True
+2011_2012/sessions/txt/20110514056.txt - ROLL: True
+    S.F. No. 768 - yays: 36, nays: 25
+    S.F. No. 799 - yays: 60, nays: 0
+    S.F. No. 1208 - yays: 60, nays: 1
+    S.F. No. 946 - yays: 36, nays: 25
+    H.F. No. 1092 - yays: 61, nays: 0
+    S.F. No. 1280 - yays: 61, nays: 0
+    H.F. No. 447 - yays: 61, nays: 0
+    S.F. No. 508 - yays: 61, nays: 0
+    S.F. No. 1045 - yays: 58, nays: 3
+    S.F. No. 247 - yays: 34, nays: 28
+    S.F. No. 943 - yays: 62, nays: 0
+2011_2012/sessions/txt/20110514056.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110516057.txt - DATE: True
+2011_2012/sessions/txt/20110516057.txt - ROLL: True
+    H.F. No. 201 - yays: 40, nays: 26
+    H.F. No. 936 - yays: 42, nays: 24
+    S.F. No. 1143 - yays: 57, nays: 0
+    H.F. No. 1341 - yays: 64, nays: 0
+    S.F. No. 1265 - yays: 64, nays: 0
+    H.F. No. 721 - yays: 64, nays: 0
+    H.F. No. 493 - yays: 64, nays: 0
+    H.F. No. 387 - yays: 64, nays: 0
+    S.F. No. 301 - yays: 64, nays: 0
+    H.F. No. 695 - yays: 64, nays: 0
+    S.F. No. 680 - yays: 64, nays: 0
+    S.F. No. 1213 - yays: 63, nays: 0
+    S.F. No. 288 - yays: 62, nays: 2
+    S.F. No. 134 - yays: 34, nays: 30
+    S.F. No. 1285 - yays: 65, nays: 0
+    S.F. No. 373 - yays: 45, nays: 20
+    S.F. No. 149 - yays: 36, nays: 29
+    S.F. No. 506 - yays: 65, nays: 0
+    S.F. No. 1009 - yays: 65, nays: 0
+    H.F. No. 1139 - yays: 65, nays: 0
+    H.F. No. 460 - yays: 50, nays: 15
+    S.F. No. 1083 - yays: 63, nays: 2
+    H.F. No. 361 - yays: 65, nays: 0
+2011_2012/sessions/txt/20110516057.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110517058.txt - DATE: True
+2011_2012/sessions/txt/20110517058.txt - ROLL: True
+    H.F. No. 821 - yays: 53, nays: 12
+    S.F. No. 361 - yays: 66, nays: 0
+    S.F. No. 54 - yays: 66, nays: 0
+    S.F. No. 1183 - yays: 66, nays: 0
+    S.F. No. 530 - yays: 64, nays: 1
+    S.F. No. 885 - yays: 65, nays: 0
+    H.F. No. 724 - yays: 57, nays: 0
+    S.F. No. 1270 - yays: 52, nays: 1
+    S.F. No. 1266 - yays: 52, nays: 0
+    S.F. No. 1234 - yays: 52, nays: 0
+    S.F. No. 1205 - yays: 52, nays: 0
+    S.F. No. 302 - yays: 53, nays: 0
+    S.F. No. 170 - yays: 52, nays: 0
+    H.F. No. 1425 - yays: 36, nays: 29
+    H.F. No. 1426 - yays: 36, nays: 28
+    S.F. No. 887 - yays: 37, nays: 27
+    S.F. No. 958 - yays: 36, nays: 28
+2011_2012/sessions/txt/20110517058.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110518059.txt - DATE: True
+2011_2012/sessions/txt/20110518059.txt - ROLL: True
+    S.F. No. 1047 - yays: 37, nays: 29
+    H.F. No. 42 - yays: 37, nays: 28
+    H.F. No. 934 - yays: 37, nays: 26
+    S.F. No. 509 - yays: 37, nays: 25
+2011_2012/sessions/txt/20110518059.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110519060.txt - DATE: True
+2011_2012/sessions/txt/20110519060.txt - ROLL: True
+    H.F. No. 1010 - yays: 35, nays: 28
+    H.F. No. 1140 - yays: 36, nays: 26
+    H.F. No. 1101 - yays: 35, nays: 31
+    H.F. No. 247 - yays: 51, nays: 9
+    H.F. No. 1234 - yays: 60, nays: 0
+    H.F. No. 1011 - yays: 43, nays: 18
+    H.F. No. 874 - yays: 61, nays: 1
+    H.F. No. 895 - yays: 62, nays: 0
+    S.F. No. 172 - yays: 62, nays: 0
+    H.F. No. 1105 - yays: 60, nays: 1
+2011_2012/sessions/txt/20110519060.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110520061.txt - DATE: True
+2011_2012/sessions/txt/20110520061.txt - ROLL: True
+    H.F. No. 57 - yays: 62, nays: 0
+    H.F. No. 186 - yays: 63, nays: 0
+    H.F. No. 1326 - yays: 64, nays: 0
+    H.F. No. 201 - yays: 40, nays: 26
+    S.F. No. 429 - yays: 44, nays: 21
+    H.F. No. 844 - yays: 65, nays: 0
+    S.F. No. 1268 - yays: 36, nays: 29
+    S.F. No. 477 - yays: 58, nays: 5
+    H.F. No. 1343 - yays: 61, nays: 1
+    H.F. No. 229 - yays: 63, nays: 0
+    H.F. No. 562 - yays: 39, nays: 26
+    S.F. No. 1173 - yays: 64, nays: 0
+    S.F. No. 1287 - yays: 61, nays: 0
+    S.F. No. 1159 - yays: 59, nays: 0
+    S.F. No. 1340 - yays: 62, nays: 1
+    H.F. No. 936 - yays: 41, nays: 20
+    S.F. No. 1115 - yays: 60, nays: 3
+    S.F. No. 881 - yays: 64, nays: 1
+    S.F. No. 1286 - yays: 65, nays: 0
+    S.F. No. 1284 - yays: 64, nays: 0
+    S.F. No. 612 - yays: 54, nays: 10
+    H.F. No. 1405 - yays: 58, nays: 5
+    S.F. No. 1101 - yays: 63, nays: 0
+2011_2012/sessions/txt/20110520061.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110521062.txt - DATE: True
+2011_2012/sessions/txt/20110521062.txt - ROLL: True
+    S.F. No. 137 - yays: 61, nays: 0
+    S.F. No. 1044 - yays: 61, nays: 0
+    S.F. No. 1270 - yays: 61, nays: 1
+    S.F. No. 86 - yays: 44, nays: 22
+    H.F. No. 258 - yays: 62, nays: 0
+    H.F. No. 988 - yays: 60, nays: 1
+    H.F. No. 650 - yays: 64, nays: 0
+    H.F. No. 1144 - yays: 54, nays: 9
+    H.F. No. 954 - yays: 34, nays: 31
+    H.F. No. 1406 - yays: 35, nays: 28
+    S.F. No. 1420 - yays: 62, nays: 0
+    H.F. No. 763 - yays: 60, nays: 0
+    H.F. No. 1023 - yays: 61, nays: 0
+    H.F. No. 1381 - yays: 38, nays: 24
+    S.F. No. 1130 - yays: 62, nays: 0
+    S.F. No. 301 - yays: 62, nays: 0
+    S.F. No. 1285 - yays: 62, nays: 0
+    H.F. No. 387 - yays: 62, nays: 0
+2011_2012/sessions/txt/20110521062.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110522063.txt - DATE: True
+2011_2012/sessions/txt/20110522063.txt - ROLL: True
+    S.F. No. 1197 - yays: 49, nays: 16
+    S.F. No. 712 - yays: 65, nays: 0
+    H.F. No. 954 - yays: 36, nays: 28
+    H.F. No. 1144 - yays: 51, nays: 14
+    S.F. No. 1197 - yays: 52, nays: 13
+    H.F. No. 264 - yays: 34, nays: 31
+    H.F. No. 232 - yays: 65, nays: 0
+2011_2012/sessions/txt/20110522063.txt - BILL VOTES: True
+2011_2012/sessions/txt/20110523064.txt - DATE: True
+2011_2012/sessions/txt/20110523064.txt - ROLL: True
+    H.F. No. 1219 - yays: 49, nays: 16
+    H.F. No. 753 - yays: 59, nays: 0
+    H.F. No. 1179 - yays: 64, nays: 0
+    S.F. No. 1280 - yays: 64, nays: 0
+    S.F. No. 1045 - yays: 65, nays: 0
+    S.F. No. 1363 - yays: 54, nays: 11
+    S.F. No. 1234 - yays: 66, nays: 0
+    S.F. No. 943 - yays: 53, nays: 13
+    H.F. No. 1105 - yays: 66, nays: 0
+    S.F. No. 1286 - yays: 66, nays: 0
+    S.F. No. 54 - yays: 58, nays: 6
+    H.F. No. 1381 - yays: 38, nays: 27
+    H.F. No. 753 - yays: 64, nays: 0
+    H.F. No. 1023 - yays: 63, nays: 0
+    H.F. No. 232 - yays: 63, nays: 1
+2011_2012/sessions/txt/20110523064.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120124065.txt - DATE: True
+2011_2012/sessions/txt/20120124065.txt - ROLL: True
+2011_2012/sessions/txt/20120124065.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120126066.txt - DATE: True
+2011_2012/sessions/txt/20120126066.txt - ROLL: True
+2011_2012/sessions/txt/20120126066.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120130067.txt - DATE: True
+2011_2012/sessions/txt/20120130067.txt - ROLL: True
+2011_2012/sessions/txt/20120130067.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120201068.txt - DATE: True
+2011_2012/sessions/txt/20120201068.txt - ROLL: ERROR
+2011_2012/sessions/txt/20120201068.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120202069.txt - DATE: True
+2011_2012/sessions/txt/20120202069.txt - ROLL: True
+2011_2012/sessions/txt/20120202069.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120208070.txt - DATE: True
+2011_2012/sessions/txt/20120208070.txt - ROLL: True
+    S.F. No. 149 - yays: 36, nays: 30
+    S. F. No. 373 - yays: 46, nays: 20
+    S.F. No. 429 - yays: 42, nays: 24
+    S.F. No. 530 - yays: 44, nays: 21
+2011_2012/sessions/txt/20120208070.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120209071.txt - DATE: True
+2011_2012/sessions/txt/20120209071.txt - ROLL: True
+2011_2012/sessions/txt/20120209071.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120213072.txt - DATE: True
+2011_2012/sessions/txt/20120213072.txt - ROLL: True
+2011_2012/sessions/txt/20120213072.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120215073.txt - DATE: True
+2011_2012/sessions/txt/20120215073.txt - ROLL: True
+2011_2012/sessions/txt/20120215073.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120216074.txt - DATE: True
+2011_2012/sessions/txt/20120216074.txt - ROLL: True
+    S.F. No. 576 - yays: 62, nays: 0
+    H.F. No. 392 - yays: 64, nays: 0
+2011_2012/sessions/txt/20120216074.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120220075.txt - DATE: True
+2011_2012/sessions/txt/20120220075.txt - ROLL: True
+    H.F. No. 1770 - yays: 60, nays: 1
+    S.F. No. 1240 - yays: 61, nays: 0
+    H.F. No. 382 - yays: 61, nays: 0
+    S.F. No. 1236 - yays: 34, nays: 27
+    S.F. No. 1492 - yays: 61, nays: 0
+    S.F. No. 1073 - yays: 48, nays: 12
+    S.F. No. 1371 - yays: 52, nays: 9
+    S.F. No. 1123 - yays: 59, nays: 2
+2011_2012/sessions/txt/20120220075.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120222076.txt - DATE: True
+2011_2012/sessions/txt/20120222076.txt - ROLL: ERROR
+2011_2012/sessions/txt/20120222076.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120223077.txt - DATE: True
+2011_2012/sessions/txt/20120223077.txt - ROLL: True
+    H.F. No. 2394 - yays: 61, nays: 0
+    H.F. No. 1467 - yays: 40, nays: 23
+2011_2012/sessions/txt/20120223077.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120227078.txt - DATE: True
+2011_2012/sessions/txt/20120227078.txt - ROLL: True
+    H.F. No. 1926 - yays: 60, nays: 1
+    H.F. No. 1585 - yays: 61, nays: 0
+    H.F. No. 1870 - yays: 36, nays: 26
+2011_2012/sessions/txt/20120227078.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120229079.txt - DATE: True
+2011_2012/sessions/txt/20120229079.txt - ROLL: ERROR
+2011_2012/sessions/txt/20120229079.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120301080.txt - DATE: True
+2011_2012/sessions/txt/20120301080.txt - ROLL: True
+    S.F. No. 1599 - yays: 65, nays: 0
+    S.F. No. 1656 - yays: 39, nays: 26
+    S.F. No. 1240 - yays: 65, nays: 0
+2011_2012/sessions/txt/20120301080.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120305081.txt - DATE: True
+2011_2012/sessions/txt/20120305081.txt - ROLL: True
+    S.F. No. 1213 - yays: 64, nays: 0
+2011_2012/sessions/txt/20120305081.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120307082.txt - DATE: True
+2011_2012/sessions/txt/20120307082.txt - ROLL: ERROR
+2011_2012/sessions/txt/20120307082.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120308083.txt - ROLL: ERROR
+2011_2012/sessions/txt/20120308083.txt - ROLL: True
+    S.F. No. 1567 - yays: 47, nays: 16
+2011_2012/sessions/txt/20120308083.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120312084.txt - DATE: True
+2011_2012/sessions/txt/20120312084.txt - ROLL: True
+    S.F. No. 1780 - yays: 44, nays: 20
+    S.F. No. 1551 - yays: 37, nays: 28
+    S.F. No. 1844 - yays: 38, nays: 27
+2011_2012/sessions/txt/20120312084.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120313085.txt - DATE: True
+2011_2012/sessions/txt/20120313085.txt - ROLL: True
+2011_2012/sessions/txt/20120313085.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120314086.txt - DATE: True
+2011_2012/sessions/txt/20120314086.txt - ROLL: True
+2011_2012/sessions/txt/20120314086.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120315087.txt - DATE: True
+2011_2012/sessions/txt/20120315087.txt - ROLL: True
+    S.F. No. 1788 - yays: 65, nays: 0
+    S.F. No. 1917 - yays: 65, nays: 0
+    H.F. No. 1515 - yays: 65, nays: 0
+    S.F. No. 2166 - yays: 65, nays: 0
+    H.F. No. 1560 - yays: 36, nays: 28
+    S.F. No. 1620 - yays: 65, nays: 0
+    S.F. No. 1212 - yays: 65, nays: 0
+    S.F. No. 1542 - yays: 64, nays: 0
+    H.F. No. 2152 - yays: 64, nays: 0
+    H.F. No. 300 - yays: 64, nays: 0
+    S.F. No. 1528 - yays: 53, nays: 11
+2011_2012/sessions/txt/20120315087.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120319088.txt - DATE: True
+2011_2012/sessions/txt/20120319088.txt - ROLL: True
+    H.F. No. 545 - yays: 52, nays: 12
+    H.F. No. 1738 - yays: 64, nays: 0
+    S.F. No. 1735 - yays: 65, nays: 0
+    S.F. No. 1586 - yays: 64, nays: 0
+    S.F. No. 1934 - yays: 45, nays: 21
+    S.F. No. 2131 - yays: 59, nays: 2
+    S.F. No. 2296 - yays: 60, nays: 1
+2011_2012/sessions/txt/20120319088.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120320089.txt - DATE: True
+2011_2012/sessions/txt/20120320089.txt - ROLL: True
+2011_2012/sessions/txt/20120320089.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120321090.txt - DATE: True
+2011_2012/sessions/txt/20120321090.txt - ROLL: True
+2011_2012/sessions/txt/20120321090.txt - BILL VOTES: ERROR
+2011_2012/sessions/txt/20120322091.txt - DATE: True
+2011_2012/sessions/txt/20120322091.txt - ROLL: True
+    S.F. No. 1975 - yays: 35, nays: 30
+    S.F. No. 1843 - yays: 37, nays: 28
+    S.F. No. 1675 - yays: 64, nays: 0
+    S.F. No. 1750 - yays: 53, nays: 11
+    S.F. No. 2493 - yays: 63, nays: 0
+2011_2012/sessions/txt/20120322091.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120323092.txt - DATE: True
+2011_2012/sessions/txt/20120323092.txt - ROLL: True
+    H.F. No. 392 - yays: 60, nays: 0
+    H.F. No. 2738 - yays: 36, nays: 30
+2011_2012/sessions/txt/20120323092.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120326093.txt - DATE: True
+2011_2012/sessions/txt/20120326093.txt - ROLL: True
+    S.F. No. 2213 - yays: 55, nays: 6
+    H.F. No. 2376 - yays: 61, nays: 0
+    S.F. No. 2088 - yays: 47, nays: 15
+    S.F. No. 2535 - yays: 62, nays: 0
+    H.F. No. 2078 - yays: 56, nays: 6
+    H.F. No. 2083 - yays: 35, nays: 29
+    S.F. No. 2183 - yays: 37, nays: 27
+    H.F. No. 1524 - yays: 60, nays: 3
+2011_2012/sessions/txt/20120326093.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120327094.txt - DATE: True
+2011_2012/sessions/txt/20120327094.txt - ROLL: True
+    S.F. No. 2342 - yays: 63, nays: 0
+    H.F. No. 2455 - yays: 63, nays: 0
+    S.F. No. 1993 - yays: 65, nays: 0
+    S.F. No. 2184 - yays: 65, nays: 0
+    S.F. No. 1860 - yays: 65, nays: 0
+    S.F. No. 1815 - yays: 65, nays: 0
+    S.F. No. 2334 - yays: 64, nays: 0
+    S.F. No. 1911 - yays: 41, nays: 24
+    S.F. No. 1140 - yays: 55, nays: 9
+    S.F. No. 1543 - yays: 65, nays: 0
+    S.F. No. 1948 - yays: 38, nays: 26
+    S.F. No. 1621 - yays: 63, nays: 0
+    S.F. No. 1835 - yays: 35, nays: 28
+    S.F. No. 2173 - yays: 65, nays: 0
+    S.F. No. 2014 - yays: 42, nays: 24
+2011_2012/sessions/txt/20120327094.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120328095.txt - DATE: True
+2011_2012/sessions/txt/20120328095.txt - ROLL: True
+    H.F. No. 382 - yays: 61, nays: 0
+    S.F. No. 2392 - yays: 58, nays: 4
+    S.F. No. 1875 - yays: 63, nays: 0
+    S.F. No. 2137 - yays: 63, nays: 0
+    S.F. No. 2069 - yays: 64, nays: 0
+    S.F. No. 248 - yays: 52, nays: 8
+    S.F. No. 1626 - yays: 62, nays: 0
+    S.F. No. 1717 - yays: 48, nays: 13
+    S.F. No. 1964 - yays: 61, nays: 0
+    S.F. No. 2084 - yays: 65, nays: 0
+    S.F. No. 2273 - yays: 62, nays: 0
+    S.F. No. 2297 - yays: 64, nays: 0
+    S.F. No. 1809 - yays: 64, nays: 0
+    S.F. No. 201 - yays: 59, nays: 5
+    S.F. No. 2394 - yays: 64, nays: 0
+    S.F. No. 2313 - yays: 37, nays: 27
+    H.F. No. 2291 - yays: 64, nays: 0
+    S.F. No. 1673 - yays: 64, nays: 0
+    S.F. No. 2000 - yays: 62, nays: 0
+2011_2012/sessions/txt/20120328095.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120329096.txt - DATE: True
+2011_2012/sessions/txt/20120329096.txt - ROLL: True
+    S.F. No. 1917 - yays: 61, nays: 0
+    S.F. No. 1567 - yays: 50, nays: 16
+    S.F. No. 1981 - yays: 59, nays: 5
+    S.F. No. 1793 - yays: 62, nays: 0
+    S.F. No. 1524 - yays: 63, nays: 1
+    H.F. No. 1923 - yays: 55, nays: 9
+    S.F. No. 2181 - yays: 65, nays: 0
+    H.F. No. 1384 - yays: 63, nays: 0
+    H.F. No. 2793 - yays: 64, nays: 0
+    H.F. No. 2253 - yays: 65, nays: 0
+    H.F. No. 1903 - yays: 63, nays: 0
+    S.F. No. 1856 - yays: 63, nays: 1
+    S.F. No. 1689 - yays: 65, nays: 0
+    S.F. No. 2354 - yays: 63, nays: 0
+    S.F. No. 2271 - yays: 64, nays: 0
+    S.F. No. 1754 - yays: 65, nays: 0
+    S.F. No. 2316 - yays: 65, nays: 0
+    S.F. No. 1856 - yays: 63, nays: 0
+2011_2012/sessions/txt/20120329096.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120330097.txt - DATE: True
+2011_2012/sessions/txt/20120330097.txt - ROLL: True
+    H.F. No. 2244 - yays: 54, nays: 8
+    S.F. No. 1957 - yays: 45, nays: 17
+    H.F. No. 2676 - yays: 53, nays: 9
+2011_2012/sessions/txt/20120330097.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120402098.txt - DATE: True
+2011_2012/sessions/txt/20120402098.txt - ROLL: True
+    H.F. No. 203 - yays: 35, nays: 25
+    S.F. No. 1678 - yays: 61, nays: 0
+    S.F. No. 753 - yays: 59, nays: 4
+    S.F. No. 1880 - yays: 36, nays: 26
+    S.F. No. 2060 - yays: 57, nays: 1
+    H.F. No. 2333 - yays: 58, nays: 0
+    S.F. No. 2224 - yays: 58, nays: 0
+    S.F. No. 2114 - yays: 56, nays: 0
+    H.F. No. 2239 - yays: 57, nays: 0
+    H.F. No. 2508 - yays: 60, nays: 0
+    H.F. No. 1816 - yays: 63, nays: 0
+    H.F. No. 2083 - yays: 35, nays: 28
+2011_2012/sessions/txt/20120402098.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120403099.txt - DATE: True
+2011_2012/sessions/txt/20120403099.txt - ROLL: True
+    S.F. No. 1934 - yays: 44, nays: 15
+    S.F. No. 2273 - yays: 59, nays: 0
+    S.F. No. 1553 - yays: 60, nays: 0
+    S.F. No. 396 - yays: 55, nays: 7
+    H.F. No. 2187 - yays: 61, nays: 0
+    S.F. No. 2360 - yays: 63, nays: 0
+    H.F. No. 2128 - yays: 64, nays: 0
+    S.F. No. 2464 - yays: 63, nays: 0
+    S.F. No. 1749 - yays: 54, nays: 10
+    H.F. No. 2173 - yays: 64, nays: 0
+    H.F. No. 389 - yays: 33, nays: 31
+    H.F. No. 1992 - yays: 63, nays: 0
+2011_2012/sessions/txt/20120403099.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120404100.txt - DATE: True
+2011_2012/sessions/txt/20120404100.txt - ROLL: True
+    S.F. No. 2173 - yays: 59, nays: 0
+    H.F. No. 2738 - yays: 35, nays: 29
+    H.F. No. 2398 - yays: 59, nays: 3
+2011_2012/sessions/txt/20120404100.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120405101.txt - DATE: True
+2011_2012/sessions/txt/20120405101.txt - ROLL: True
+    S.F. No. 1586 - yays: 58, nays: 0
+    H.F. No. 1829 - yays: 53, nays: 10
+    S.F. No. 2121 - yays: 62, nays: 0
+    S.F. No. 1416 - yays: 61, nays: 0
+    H.F. No. 2216 - yays: 61, nays: 0
+    H.F. No. 2132 - yays: 60, nays: 1
+    S.F. No. 2324 - yays: 53, nays: 8
+    H.F. No. 2949 - yays: 49, nays: 13
+    H.F. No. 2506 - yays: 56, nays: 6
+    S.F. No. 1804 - yays: 59, nays: 0
+    S.F. No. 2188 - yays: 60, nays: 0
+    S.F. No. 2357 - yays: 62, nays: 0
+    S.F. No. 1679 - yays: 49, nays: 13
+    H.F. No. 2294 - yays: 45, nays: 16
+2011_2012/sessions/txt/20120405101.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120416102.txt - DATE: True
+2011_2012/sessions/txt/20120416102.txt - ROLL: True
+    S.F. No. 1553 - yays: 61, nays: 0
+    S.F. No. 1626 - yays: 63, nays: 0
+    H.F. No. 1766 - yays: 37, nays: 25
+    S.F. No. 1808 - yays: 45, nays: 18
+    S.F. No. 2571 - yays: 58, nays: 3
+    S.F. No. 2112 - yays: 61, nays: 0
+    H.F. No. 1974 - yays: 37, nays: 25
+    S.F. No. 1534 - yays: 62, nays: 0
+    S.F. No. 2379 - yays: 62, nays: 0
+    S.F. No. 2058 - yays: 62, nays: 0
+    S.F. No. 2295 - yays: 62, nays: 0
+    H.F. No. 795 - yays: 63, nays: 0
+    S.F. No. 2421 - yays: 63, nays: 0
+    H.F. No. 1850 - yays: 63, nays: 0
+    H.F. No. 2128 - yays: 63, nays: 0
+    H.F. No. 1816 - yays: 58, nays: 5
+    H.F. No. 2239 - yays: 63, nays: 0
+2011_2012/sessions/txt/20120416102.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120417103.txt - DATE: True
+2011_2012/sessions/txt/20120417103.txt - ROLL: True
+    S.F. No. 1573 - yays: 65, nays: 0
+    S.F. No. 1597 - yays: 64, nays: 0
+    H.F. No. 1813 - yays: 45, nays: 19
+    H.F. No. 1976 - yays: 39, nays: 27
+    S.F. No. 1694 - yays: 41, nays: 22
+2011_2012/sessions/txt/20120417103.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120418104.txt - DATE: True
+2011_2012/sessions/txt/20120418104.txt - ROLL: True
+    S.F. No. 1073 - yays: 51, nays: 13
+    S.F. No. 247 - yays: 35, nays: 30
+    S.F. No. 1921 - yays: 43, nays: 23
+    H.F. No. 2174 - yays: 64, nays: 0
+    H.F. No. 1175 - yays: 64, nays: 0
+    S.F. No. 1199 - yays: 37, nays: 29
+    H.F. No. 2373 - yays: 60, nays: 0
+    H.F. No. 2246 - yays: 53, nays: 0
+    H.F. No. 2160 - yays: 56, nays: 0
+    H.F. No. 738 - yays: 59, nays: 0
+    S.F. No. 1653 - yays: 48, nays: 16
+    H.F. No. 1812 - yays: 34, nays: 27
+    S.F. No. 1933 - yays: 34, nays: 27
+    S.F. No. 1755 - yays: 34, nays: 27
+2011_2012/sessions/txt/20120418104.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120419105.txt - DATE: True
+2011_2012/sessions/txt/20120419105.txt - ROLL: True
+    S.F. No. 1675 - yays: 63, nays: 0
+    S.F. No. 248 - yays: 51, nays: 13
+    H.F. No. 469 - yays: 64, nays: 0
+    S.F. No. 1922 - yays: 50, nays: 12
+    H.F. No. 2731 - yays: 63, nays: 0
+    S.F. No. 230 - yays: 38, nays: 29
+    H.F. No. 2614 - yays: 63, nays: 0
+    S.F. No. 2326 - yays: 51, nays: 14
+    H.F. No. 2335 - yays: 65, nays: 0
+    H.F. No. 2861 - yays: 64, nays: 0
+    H.F. No. 2149 - yays: 65, nays: 0
+    H.F. No. 2276 - yays: 65, nays: 0
+2011_2012/sessions/txt/20120419105.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120420106.txt - DATE: True
+2011_2012/sessions/txt/20120420106.txt - ROLL: True
+    S.F. No. 2392 - yays: 55, nays: 3
+    S.F. No. 1750 - yays: 52, nays: 11
+    S.F. No. 2090 - yays: 28, nays: 35
+    S.F. No. 2098 - yays: 65, nays: 0
+2011_2012/sessions/txt/20120420106.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120423107.txt - DATE: True
+2011_2012/sessions/txt/20120423107.txt - ROLL: True
+    H.F. No. 2171 - yays: 36, nays: 30
+    H.F. No. 2949 - yays: 64, nays: 0
+    H.F. No. 2508 - yays: 64, nays: 0
+    H.F. No. 1607 - yays: 61, nays: 3
+    H.F. No. 2341 - yays: 39, nays: 25
+    H.F. No. 2958 - yays: 37, nays: 27
+    H.F. No. 2164 - yays: 35, nays: 26
+    H.F. No. 2447 - yays: 60, nays: 0
+2011_2012/sessions/txt/20120423107.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120424108.txt - DATE: True
+2011_2012/sessions/txt/20120424108.txt - ROLL: True
+    S.F. No. 1694 - yays: 48, nays: 17
+    H.F. No. 2398 - yays: 66, nays: 0
+    H.F. No. 1974 - yays: 37, nays: 30
+    H.F. No. 2532 - yays: 67, nays: 0
+    H.F. No. 1134 - yays: 59, nays: 6
+    S.F. No. 2403 - yays: 37, nays: 30
+    H.F. No. 2627 - yays: 66, nays: 0
+    H.F. No. 2294 - yays: 64, nays: 0
+2011_2012/sessions/txt/20120424108.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120425109.txt - DATE: True
+2011_2012/sessions/txt/20120425109.txt - ROLL: True
+    H.F. No. 2136 - yays: 62, nays: 0
+    S.F. No. 1761 - yays: 63, nays: 0
+    H.F. No. 2046 - yays: 64, nays: 0
+    S.F. No. 2296 - yays: 48, nays: 14
+    S.F. No. 2334 - yays: 61, nays: 0
+    H.F. No. 2244 - yays: 42, nays: 20
+2011_2012/sessions/txt/20120425109.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120426110.txt - DATE: True
+2011_2012/sessions/txt/20120426110.txt - ROLL: True
+    S.F. No. 1597 - yays: 63, nays: 0
+    S.F. No. 2342 - yays: 64, nays: 0
+    S.F. No. 1933 - yays: 37, nays: 28
+    S.F. No. 2535 - yays: 65, nays: 0
+    H.F. No. 1607 - yays: 63, nays: 2
+    H.F. No. 2269 - yays: 61, nays: 0
+    H.F. No. 418 - yays: 47, nays: 15
+    H.F. No. 2638 - yays: 63, nays: 0
+    H.F. No. 2705 - yays: 62, nays: 1
+    S.F. No. 1895 - yays: 62, nays: 0
+    H.F. No. 2555 - yays: 55, nays: 9
+    S.F. No. 2324 - yays: 63, nays: 1
+    S.F. No. 946 - yays: 66, nays: 0
+    S.F. No. 288 - yays: 57, nays: 8
+    S.F. No. 2493 - yays: 61, nays: 4
+2011_2012/sessions/txt/20120426110.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120427111.txt - DATE: True
+2011_2012/sessions/txt/20120427111.txt - ROLL: True
+    H.F. No. 2821 - yays: 35, nays: 29
+    S.F. No. 1983 - yays: 59, nays: 3
+    S.F. No. 1573 - yays: 50, nays: 13
+2011_2012/sessions/txt/20120427111.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120428112.txt - DATE: True
+2011_2012/sessions/txt/20120428112.txt - ROLL: True
+    S.F. No. 1528 - yays: 51, nays: 11
+    H.F. No. 2164 - yays: 43, nays: 19
+    H.F. No. 1870 - yays: 35, nays: 28
+    H.F. No. 203 - yays: 43, nays: 20
+    H.F. No. 8 - yays: 34, nays: 28
+    H.F. No. 2795 - yays: 44, nays: 18
+    H.F. No. 2647 - yays: 62, nays: 0
+    H.F. No. 2171 - yays: 34, nays: 28
+2011_2012/sessions/txt/20120428112.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120430113.txt - DATE: True
+2011_2012/sessions/txt/20120430113.txt - ROLL: True
+    H.F. No. 2555 - yays: 47, nays: 19
+    H.F. No. 1721 - yays: 64, nays: 0
+2011_2012/sessions/txt/20120430113.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120501114.txt - DATE: True
+2011_2012/sessions/txt/20120501114.txt - ROLL: True
+    H.F. No. 2269 - yays: 57, nays: 0
+    H.F. No. 2685 - yays: 60, nays: 3
+2011_2012/sessions/txt/20120501114.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120503115.txt - DATE: True
+2011_2012/sessions/txt/20120503115.txt - ROLL: True
+    S.F. No. 1717 - yays: 48, nays: 17
+    S.F. No. 506 - yays: 66, nays: 0
+    H.F. No. 2337 - yays: 41, nays: 25
+2011_2012/sessions/txt/20120503115.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120507116.txt - DATE: True
+2011_2012/sessions/txt/20120507116.txt - ROLL: True
+    H.F. No. 2685 - yays: 61, nays: 5
+    S.F. No. 1143 - yays: 64, nays: 1
+    S.F. No. 1755 - yays: 36, nays: 29
+    H.F. No. 2967 - yays: 63, nays: 0
+    H.F. No. 1721 - yays: 65, nays: 0
+    S.F. No. 1983 - yays: 64, nays: 0
+    H.F. No. 1752 - yays: 45, nays: 22
+2011_2012/sessions/txt/20120507116.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120508117.txt - DATE: True
+2011_2012/sessions/txt/20120508117.txt - ROLL: True
+    S.F. No. 2391 - yays: 38, nays: 28
+    H.F. No. 2690 - yays: 64, nays: 0
+2011_2012/sessions/txt/20120508117.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120509118.txt - DATE: True
+2011_2012/sessions/txt/20120509118.txt - ROLL: True
+    S.F. No. 1653 - yays: 37, nays: 15
+    H.F. No. 322 - yays: 46, nays: 19
+    H.F. No. 247 - yays: 41, nays: 24
+2011_2012/sessions/txt/20120509118.txt - BILL VOTES: True
+2011_2012/sessions/txt/20120510119.txt - DATE: True
+2011_2012/sessions/txt/20120510119.txt - ROLL: True
+    S.F. No. 1420 - yays: 62, nays: 1
+    H.F. No. 2958 - yays: 36, nays: 30
+2011_2012/sessions/txt/20120510119.txt - BILL VOTES: True

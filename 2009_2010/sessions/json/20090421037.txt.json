@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "37th day", 
-        "date_utc": "2009-04-21T00:00:00", 
+        "date_iso": "2009-04-21T00:00:00", 
         "date_string": "TUESDAY, APRIL 21, 2009"
     }, 
     "role_call": [
@@ -73,7 +73,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "S.F. No. 1627", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 40, 
+            "nays": 25, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -142,11 +147,15 @@
                 "Senjem", 
                 "Sparks", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 1627"
+            ]
         }, 
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "S.F. No. 2081", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 49, 
+            "nays": 15, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -214,11 +223,15 @@
                 "Ortman", 
                 "Rest", 
                 "Robling"
-            ], 
-            "title": "S.F. No. 2081"
+            ]
         }, 
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 978", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 64, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -285,8 +298,7 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 978"
+            "negatives": []
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090421037.txt"

@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "101st day", 
-        "date_utc": "2010-05-10T00:00:00", 
+        "date_iso": "2010-05-10T00:00:00", 
         "date_string": "MONDAY, MAY 10, 2010"
     }, 
     "role_call": [
@@ -75,7 +75,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "H.F. No. 2037", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 34, 
+            "nays": 33, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -146,11 +151,15 @@
                 "Senjem", 
                 "Skogen", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 2037"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "H.F. No. 3729", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 54, 
+            "nays": 13, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -221,11 +230,15 @@
                 "Parry", 
                 "Robling", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 3729"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 2937", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 67, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -295,11 +308,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 2937"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 1770", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 2, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -370,11 +387,15 @@
             "negatives": [
                 "Koch", 
                 "Lynch"
-            ], 
-            "title": "S.F. No. 1770"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 3361", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 67, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -444,11 +465,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 3361"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 3043", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 61, 
+            "nays": 6, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -519,11 +544,15 @@
                 "Koering", 
                 "Metzen", 
                 "Parry"
-            ], 
-            "title": "S.F. No. 3043"
+            ]
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "H.F. No. 3386", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 64, 
+            "nays": 3, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -594,11 +623,15 @@
                 "Koering", 
                 "Parry", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 3386"
+            ]
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "H.F. No. 2639", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 67, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -668,11 +701,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "H.F. No. 2639"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "H.F. No. 2634", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 42, 
+            "nays": 25, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -743,11 +780,15 @@
                 "Stumpf", 
                 "Vandeveer", 
                 "Vickerman"
-            ], 
-            "title": "H.F. No. 2634"
+            ]
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 3147", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 67, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -817,11 +858,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 3147"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 2505", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 57, 
+            "nays": 10, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -892,11 +937,15 @@
                 "Ortman", 
                 "Parry", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 2505"
+            ]
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 3081", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 67, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -966,11 +1015,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 3081"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 2510", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 54, 
+            "nays": 13, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -1041,11 +1094,15 @@
                 "Rosen", 
                 "Senjem", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 2510"
+            ]
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 2695", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 44, 
+            "nays": 23, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -1116,11 +1173,15 @@
                 "Stumpf", 
                 "Vandeveer", 
                 "Vickerman"
-            ], 
-            "title": "S.F. No. 2695"
+            ]
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 271", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 48, 
+            "nays": 18, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -1190,8 +1251,7 @@
                 "Rosen", 
                 "Senjem", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 271"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100510101.txt"

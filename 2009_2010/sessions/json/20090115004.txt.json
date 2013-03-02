@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "4th day", 
-        "date_utc": "2009-01-15T00:00:00", 
+        "date_iso": "2009-01-15T00:00:00", 
         "date_string": "THURSDAY, JANUARY 15, 2009"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 4", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -142,8 +147,7 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 4"
+            "negatives": []
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090115004.txt"

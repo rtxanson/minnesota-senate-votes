@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "42nd day", 
-        "date_utc": "2009-04-27T00:00:00", 
+        "date_iso": "2009-04-27T00:00:00", 
         "date_string": "MONDAY, APRIL 27, 2009"
     }, 
     "role_call": [
@@ -73,7 +73,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 1117", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 50, 
+            "nays": 15, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -142,11 +147,15 @@
                 "Rosen", 
                 "Senjem", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 1117"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 484", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -214,11 +223,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 484"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 713", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 64, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -285,83 +298,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 713"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
-            "affirmatives": [
-                "Anderson", 
-                "Bakk", 
-                "Berglin", 
-                "Betzold", 
-                "Carlson", 
-                "Chaudhary", 
-                "Clark", 
-                "Cohen", 
-                "Dahle", 
-                "Day", 
-                "Dibble", 
-                "Dille", 
-                "Doll", 
-                "Erickson Ropes", 
-                "Fischbach", 
-                "Fobbe", 
-                "Foley", 
-                "Frederickson", 
-                "Gerlach", 
-                "Gimse", 
-                "Hann", 
-                "Higgins", 
-                "Ingebrigtsen", 
-                "Johnson", 
-                "Jungbauer", 
-                "Kelash", 
-                "Koch", 
-                "Koering", 
-                "Kubly", 
-                "Langseth", 
-                "Latz", 
-                "Limmer", 
-                "Lourey", 
-                "Lynch", 
-                "Marty", 
-                "Metzen", 
-                "Michel", 
-                "Moua", 
-                "Murphy", 
-                "Olseen", 
-                "Olson, G.", 
-                "Olson, M.", 
-                "Ortman", 
-                "Pappas", 
-                "Pariseau", 
-                "Pogemiller", 
-                "Prettner Solon", 
-                "Rest", 
-                "Robling", 
-                "Rosen", 
-                "Rummel", 
-                "Saltzman", 
-                "Saxhaug", 
-                "Scheid", 
-                "Senjem", 
-                "Sheran", 
-                "Sieben", 
-                "Skoe", 
-                "Skogen", 
-                "Stumpf", 
-                "Tomassoni", 
-                "Torres Ray", 
-                "Vandeveer", 
-                "Vickerman", 
-                "Wiger"
-            ], 
-            "negatives": false, 
-            "title": "H.F. No. 523"
-        }, 
-        {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "H.F. No. 523", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -429,11 +374,91 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 1431"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 1431", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
+            "affirmatives": [
+                "Anderson", 
+                "Bakk", 
+                "Berglin", 
+                "Betzold", 
+                "Carlson", 
+                "Chaudhary", 
+                "Clark", 
+                "Cohen", 
+                "Dahle", 
+                "Day", 
+                "Dibble", 
+                "Dille", 
+                "Doll", 
+                "Erickson Ropes", 
+                "Fischbach", 
+                "Fobbe", 
+                "Foley", 
+                "Frederickson", 
+                "Gerlach", 
+                "Gimse", 
+                "Hann", 
+                "Higgins", 
+                "Ingebrigtsen", 
+                "Johnson", 
+                "Jungbauer", 
+                "Kelash", 
+                "Koch", 
+                "Koering", 
+                "Kubly", 
+                "Langseth", 
+                "Latz", 
+                "Limmer", 
+                "Lourey", 
+                "Lynch", 
+                "Marty", 
+                "Metzen", 
+                "Michel", 
+                "Moua", 
+                "Murphy", 
+                "Olseen", 
+                "Olson, G.", 
+                "Olson, M.", 
+                "Ortman", 
+                "Pappas", 
+                "Pariseau", 
+                "Pogemiller", 
+                "Prettner Solon", 
+                "Rest", 
+                "Robling", 
+                "Rosen", 
+                "Rummel", 
+                "Saltzman", 
+                "Saxhaug", 
+                "Scheid", 
+                "Senjem", 
+                "Sheran", 
+                "Sieben", 
+                "Skoe", 
+                "Skogen", 
+                "Stumpf", 
+                "Tomassoni", 
+                "Torres Ray", 
+                "Vandeveer", 
+                "Vickerman", 
+                "Wiger"
+            ], 
+            "negatives": []
+        }, 
+        {
+            "title": "S.F. No. 666", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 60, 
+            "nays": 5, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -502,11 +527,15 @@
                 "Ingebrigtsen", 
                 "Limmer", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 666"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 537", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -574,11 +603,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 537"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 412", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 62, 
+            "nays": 3, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -647,11 +680,15 @@
                 "Limmer", 
                 "Pariseau", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 412"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 1810", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 63, 
+            "nays": 2, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -720,11 +757,15 @@
             "negatives": [
                 "Limmer", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 1810"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 1876", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 62, 
+            "nays": 3, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -793,11 +834,15 @@
                 "Koering", 
                 "Limmer", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 1876"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 532", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -865,11 +910,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 532"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 122", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 54, 
+            "nays": 11, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -938,11 +987,15 @@
                 "Stumpf", 
                 "Tomassoni", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 122"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 545", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 63, 
+            "nays": 2, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -1011,11 +1064,15 @@
             "negatives": [
                 "Limmer", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 545"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 1408", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -1083,11 +1140,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 1408"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 707", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -1155,11 +1216,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 707"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 474", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 64, 
+            "nays": 1, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -1228,11 +1293,15 @@
             ], 
             "negatives": [
                 "Jungbauer"
-            ], 
-            "title": "S.F. No. 474"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 1096", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -1300,11 +1369,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 1096"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 1794", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -1372,11 +1445,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 1794"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 729", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 64, 
+            "nays": 1, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -1445,11 +1522,15 @@
             ], 
             "negatives": [
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 729"
+            ]
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 1910", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 65, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -1517,11 +1598,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 1910"
+            "negatives": []
         }, 
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 1033", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 57, 
+            "nays": 8, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -1590,11 +1675,15 @@
                 "Olson, G.", 
                 "Ortman", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 1033"
+            ]
         }, 
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "H.F. No. 1309", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 48, 
+            "nays": 16, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -1662,11 +1751,15 @@
                 "Senjem", 
                 "Tomassoni", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 1309"
+            ]
         }, 
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "S.F. No. 695", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 40, 
+            "nays": 23, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -1733,8 +1826,7 @@
                 "Senjem", 
                 "Skogen", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 695"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090427042.txt"

@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "102nd day", 
-        "date_utc": "2010-05-11T00:00:00", 
+        "date_iso": "2010-05-11T00:00:00", 
         "date_string": "TUESDAY, MAY 11, 2010"
     }, 
     "role_call": [
@@ -75,7 +75,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 2933", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 62, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -140,11 +145,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 2933"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 2540", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 58, 
+            "nays": 3, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -209,11 +218,15 @@
                 "Gerlach", 
                 "Parry", 
                 "Tomassoni"
-            ], 
-            "title": "S.F. No. 2540"
+            ]
         }, 
         {
-            "status": "So the bill, as amended by the Conference Committee, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 1060", 
+            "pass": true, 
+            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 51, 
+            "nays": 8, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -276,8 +289,7 @@
                 "Olson, G.", 
                 "Ortman", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 1060"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100511102.txt"

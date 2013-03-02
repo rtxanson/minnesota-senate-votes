@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "44th day", 
-        "date_utc": "2009-04-29T00:00:00", 
+        "date_iso": "2009-04-29T00:00:00", 
         "date_string": "WEDNESDAY, APRIL 29, 2009"
     }, 
     "role_call": [

@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "90th day", 
-        "date_utc": "2010-04-20T00:00:00", 
+        "date_iso": "2010-04-20T00:00:00", 
         "date_string": "TUESDAY, APRIL 20, 2010"
     }, 
     "role_call": [
@@ -73,7 +73,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 2825", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 64, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -140,8 +145,7 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 2825"
+            "negatives": []
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100420090.txt"

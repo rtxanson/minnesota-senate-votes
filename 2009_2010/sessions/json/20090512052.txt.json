@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "52nd day", 
-        "date_utc": "2009-05-12T00:00:00", 
+        "date_iso": "2009-05-12T00:00:00", 
         "date_string": "TUESDAY, MAY 12, 2009"
     }, 
     "role_call": [
@@ -74,7 +74,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 764", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 49, 
+            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Betzold", 
@@ -126,11 +131,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": false, 
-            "title": "S.F. No. 764"
+            "negatives": []
         }, 
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 1033", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 47, 
+            "nays": 5, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -186,11 +195,15 @@
                 "Jungbauer", 
                 "Limmer", 
                 "Ortman"
-            ], 
-            "title": "S.F. No. 1033"
+            ]
         }, 
         {
-            "status": "So the bill, as amended, was repassed and its title was agreed to.", 
+            "title": "S.F. No. 99", 
+            "pass": true, 
+            "status_string": " amended, was repassed and its title was agreed to", 
+            "amended": false, 
+            "yays": 39, 
+            "nays": 13, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -246,11 +259,15 @@
                 "Robling", 
                 "Senjem", 
                 "Sparks"
-            ], 
-            "title": "S.F. No. 99"
+            ]
         }, 
         {
-            "status": "So the bill, as amended, was passed and its title was agreed to.", 
+            "title": "H.F. No. 1298", 
+            "pass": true, 
+            "status_string": " amended, was passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 54, 
+            "nays": 12, 
             "affirmatives": [
                 "Bakk", 
                 "Berglin", 
@@ -320,8 +337,7 @@
                 "Pappas", 
                 "Robling", 
                 "Vandeveer"
-            ], 
-            "title": "H.F. No. 1298"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090512052.txt"

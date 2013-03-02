@@ -1,7 +1,7 @@
 {
     "date": {
         "session_day": "7th day", 
-        "date_utc": "2009-01-29T00:00:00", 
+        "date_iso": "2009-01-29T00:00:00", 
         "date_string": "THURSDAY, JANUARY 29, 2009"
     }, 
     "role_call": [
@@ -71,7 +71,12 @@
     ], 
     "bill_votes": [
         {
-            "status": "So the bill passed and its title was agreed to.", 
+            "title": "S.F. No. 49", 
+            "pass": true, 
+            "status_string": "passed and its title was agreed to", 
+            "amended": false, 
+            "yays": 49, 
+            "nays": 7, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -131,8 +136,7 @@
                 "Koch", 
                 "Marty", 
                 "Vandeveer"
-            ], 
-            "title": "S.F. No. 49"
+            ]
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090129007.txt"
