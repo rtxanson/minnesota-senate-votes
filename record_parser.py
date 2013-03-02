@@ -90,10 +90,6 @@ def process_vote_chunk(chunk):
              , "So the bill "
              ]
 
-    failed = "failed"
-    passed = "passed"
-    amended = "as amended"
-
     for a in remove:
         pass_status = pass_status.replace(a, '').replace('.', '').strip()
 
@@ -156,7 +152,7 @@ def process_vote_chunk(chunk):
                  , ('negatives', negative_names)
                  ])
 
-def find_votes(lines):
+def find_bill_votes(lines):
     """ Find bill votes in the whole text, and return a list of vote
     info.
     """
@@ -269,28 +265,38 @@ def process_amendment_vote_chunk(chunk):
         except:
             pass
 
-    # print '\n'.join(chunk)
-    # print '--'
-    # print
+    pass_status = [a for a in chunk if a.startswith('The motion')][0]
+
+    failed = "did not prevail"
+    passed = "prevailed"
+
+    if failed in pass_status:
+        _pass = False
+    elif passed in pass_status:
+        _pass = True
+    else:
+        _pass = "UNKNOWN STATUS"
 
     _vote_aff = 'Those who voted in the affirmative'
     _vote_neg = 'Those who voted in the negative'
 
-    includes_negative = getblock(chunk, _vote_aff, _vote_neg)
-    if includes_negative:
-        affirmatives = includes_negative
-        negatives    = getblock(chunk, _vote_neg, 'So the amendment')
+    affirmative_names, negative_names = [], []
 
-        # Pop off the inclusive end block match line
-        neg = negatives[1:len(negatives) - 1]
-        negative_names = parse_vote_name_block(neg)
+    negatives_and_affirmatives = getblock(chunk, _vote_aff, _vote_neg)
+    if negatives_and_affirmatives:
+        affirmatives = negatives_and_affirmatives
+        negatives    = getblock(chunk, _vote_neg, 'So the amendment')
     else:
         affirmatives = getblock(chunk, _vote_aff, 'So the amendment')
-        negatives_names = []
+        negatives    = getblock(chunk, _vote_neg, 'So the amendment')
 
-    # Pop off the inclusive end block match line
-    affs = affirmatives[1:len(affirmatives) - 1]
-    affirmative_names = parse_vote_name_block(affs)
+    if affirmatives:
+        # Pop off the inclusive end block match line
+        affs = affirmatives[1:len(affirmatives) - 1]
+        affirmative_names = parse_vote_name_block(affs)
+    if negatives:
+        neg = negatives[1:len(negatives) - 1]
+        negative_names = parse_vote_name_block(neg)
 
     log_args = ( str(bill_title)
                , len(affirmative_names)
@@ -299,18 +305,19 @@ def process_amendment_vote_chunk(chunk):
 
     logger.info("    %s (amendment) - yays: %d, nays: %d" % log_args)
 
-    # TODO: ('pass', _pass)
-    # TODO: ('status_string', pass_status)
-    # TODO: ('amended', amended)
-    # TODO: ('yays', len(affirmative_names))
-    # TODO: ('nays', len(negative_names))
     return dict([ ('title', bill_title)
                 , ('affirmatives', affirmative_names)
                 , ('negatives', negative_names)
+                , ('pass', _pass)
+                , ('status_string', pass_status)
+                , ('yays', len(affirmative_names))
+                , ('nays', len(negative_names))
                 ])
 
 
 def find_amendment_votes(lines):
+    # TODO: there may be another way of introducing multiple amendments
+    # for a vote, need to look through for S.F. Nos and H.F. Nos
 
     def begin_test(lines, line, index):
         if index > 10:
@@ -345,11 +352,13 @@ def find_amendment_votes(lines):
 
     def end_test(inner, line, index):
         # Trick here is that sometimes there's other things coming after
-        # this that need to be included
+        # this that need to be included, for instance if this line
+        # mentions motion status, but the next line mentions another
+        # amendment, it's likely to the same bill.
         prevail = "The motion prevailed" in line
         nope    = "The motion did not prevail" in line
         following_ammendment = 'moved to amend' in inner[index+1]
-        # test preceding S.F. No. / H.F. No. value?
+        # Need more accuracy? test preceding S.F. No. / H.F. No. value?
         return (prevail or nope) and not following_ammendment
 
     vote_chunks = getblocksByTests(lines, begin_test, end_test)
@@ -377,8 +386,7 @@ def parse_date(lines):
         return False
 
     _x = splitter(date_line)
-    day = _x[0]
-    date = _x[1]
+    day, date = _x[0], _x[1]
 
     if day:
         day = day.replace(']', '').replace('\n', '').lower()
@@ -419,7 +427,7 @@ def main(filename, arguments):
     else:
         logger.warning( "%s - ROLL: ERROR" % filename)
 
-    votes = find_votes(data)
+    votes = find_bill_votes(data)
 
     if votes:
         logger.info("%s - BILL VOTES: %s" % (filename, str(bool(votes))))
