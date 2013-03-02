@@ -1,0 +1,83 @@
+amendment_votes:
+- affirmatives: [Berglin, Dille, Erickson Ropes, Fischbach, Fobbe, Gerlach, Gimse,
+    Hann, Ingebrigtsen, Johnson, Jungbauer, Koch, Koering, Limmer, Ortman, Pariseau,
+    Robling, Rosen, Senjem, Vandeveer, Vickerman]
+  negatives: [Anderson, Bakk, Betzold, Carlson, Clark, Dahle, Dibble, Doll, Foley,
+    Frederickson, Higgins, Kelash, Kubly, Langseth, Latz, Lourey, Lynch, Marty, Metzen,
+    Michel, Moua, Murphy, Olseen, 'Olson, M.', Pappas, Pogemiller, Prettner Solon,
+    Rest, Rummel, Saltzman, Saxhaug, Scheid, Sheran, Sieben, Skogen, Sparks, Tomassoni,
+    Torres Ray, Wiger]
+  title: S.F. No. 1761
+- affirmatives: [Carlson, Dille, Doll, Erickson Ropes, Fischbach, Fobbe, Frederickson,
+    Gerlach, Gimse, Hann, Ingebrigtsen, Johnson, Jungbauer, Koch, Latz, Limmer, Lourey,
+    Lynch, Michel, Olseen, Ortman, Pariseau, Robling, Rosen, Saltzman, Senjem, Sheran,
+    Sieben, Vandeveer, Vickerman]
+  negatives: [Anderson, Bakk, Berglin, Betzold, Chaudhary, Clark, Dahle, Dibble, Foley,
+    Higgins, Kelash, Kubly, Langseth, Metzen, Moua, Murphy, 'Olson, M.', Pappas, Pogemiller,
+    Prettner Solon, Rest, Rummel, Saxhaug, Scheid, Skoe, Skogen, Tomassoni, Wiger]
+  title: S.F. No. 1761
+- affirmatives: [Dille, Erickson Ropes, Fischbach, Frederickson, Gerlach, Gimse, Hann,
+    Ingebrigtsen, Johnson, Jungbauer, Koch, Koering, Limmer, Lynch, Michel, Ortman,
+    Pariseau, Robling, Rosen, Saltzman, Senjem, Tomassoni, Vandeveer]
+  negatives: [Anderson, Bakk, Berglin, Betzold, Carlson, Chaudhary, Clark, Dahle,
+    Dibble, Doll, Fobbe, Foley, Higgins, Kelash, Kubly, Langseth, Latz, Lourey, Metzen,
+    Moua, Murphy, Olseen, 'Olson, M.', Pappas, Pogemiller, Prettner Solon, Rest, Rummel,
+    Saxhaug, Scheid, Sheran, Sieben, Skoe, Skogen, Vickerman, Wiger]
+  title: S.F. No. 2874
+bill_votes:
+- affirmatives: [Anderson, Bakk, Berglin, Betzold, Carlson, Chaudhary, Clark, Cohen,
+    Dahle, Dibble, Dille, Doll, Erickson Ropes, Fobbe, Foley, Frederickson, Higgins,
+    Ingebrigtsen, Kelash, Kubly, Langseth, Latz, Lourey, Lynch, Marty, Metzen, Moua,
+    Murphy, Olseen, 'Olson, M.', Pappas, Pariseau, Pogemiller, Prettner Solon, Rest,
+    Rummel, Saltzman, Saxhaug, Scheid, Sheran, Skoe, Skogen, Sparks, Tomassoni, Torres
+      Ray, Vickerman, Wiger]
+  amended: false
+  nays: 15
+  negatives: [Fischbach, Gerlach, Gimse, Hann, Johnson, Jungbauer, Koch, Koering,
+    Limmer, Michel, Ortman, Robling, Rosen, Senjem, Vandeveer]
+  pass: true
+  status_string: amended by the Conference Committee, was repassed and its title was
+    agreed to
+  title: H.F. No. 2231
+  yays: 47
+- affirmatives: [Anderson, Bakk, Berglin, Betzold, Carlson, Chaudhary, Clark, Cohen,
+    Dahle, Dibble, Dille, Doll, Erickson Ropes, Fischbach, Fobbe, Foley, Frederickson,
+    Gerlach, Gimse, Hann, Higgins, Ingebrigtsen, Johnson, Jungbauer, Kelash, Koch,
+    Koering, Kubly, Langseth, Latz, Limmer, Lourey, Lynch, Marty, Metzen, Michel,
+    Moua, Murphy, Olseen, 'Olson, M.', Ortman, Pappas, Pariseau, Pogemiller, Prettner
+      Solon, Rest, Robling, Rosen, Rummel, Saltzman, Saxhaug, Scheid, Senjem, Sheran,
+    Sieben, Skoe, Skogen, Sparks, Tomassoni, Torres Ray, Vickerman, Wiger]
+  amended: false
+  nays: 1
+  negatives: [Vandeveer]
+  pass: true
+  status_string: amended by the Conference Committee, was repassed and its title was
+    agreed to
+  title: H.F. No. 3048
+  yays: 62
+- affirmatives: [Anderson, Bakk, Berglin, Betzold, Carlson, Chaudhary, Clark, Cohen,
+    Dahle, Dibble, Dille, Doll, Erickson Ropes, Fischbach, Fobbe, Foley, Frederickson,
+    Gerlach, Gimse, Hann, Higgins, Ingebrigtsen, Johnson, Jungbauer, Kelash, Koch,
+    Koering, Kubly, Langseth, Latz, Limmer, Lourey, Lynch, Marty, Metzen, Michel,
+    Moua, Murphy, Olseen, 'Olson, M.', Ortman, Pappas, Pariseau, Pogemiller, Prettner
+      Solon, Rest, Robling, Rosen, Rummel, Saltzman, Saxhaug, Scheid, Senjem, Sheran,
+    Sieben, Skoe, Skogen, Sparks, Tomassoni, Torres Ray, Vandeveer, Vickerman, Wiger]
+  amended: false
+  nays: 0
+  negatives: []
+  pass: true
+  status_string: amended by the Conference Committee, was repassed and its title was
+    agreed to
+  title: H.F. No. 3391
+  yays: 63
+date: {date_iso: '2010-04-21T00:00:00', date_string: 'WEDNESDAY, APRIL 21, 2010',
+  session_day: 91st day}
+filename: 2009_2010/sessions/txt/20100421091.txt
+role_call: [Anderson, Bakk, Berglin, Betzold, Carlson, Chaudhary, Clark, Cohen, Dahle,
+  Dibble, Dille, Doll, Erickson Ropes, Fischbach, Fobbe, Foley, Frederickson, Gerlach,
+  Gimse, Hann, Higgins, Ingebrigtsen, Johnson, Jungbauer, Kelash, Koch, Koering, Kubly,
+  Langseth, Latz, Limmer, Lourey, Lynch, Marty, Metzen, Michel, Moua, Murphy, Olseen,
+  'Olson, M.', Ortman, Pappas, Pariseau, Pogemiller, Prettner Solon, Rest, Robling,
+  Rosen, Rummel, Saltzman, Saxhaug, Scheid, Senjem, Sheran, Sieben, Skoe, Skogen,
+  Sparks, Tomassoni, Torres Ray, Vandeveer, Vickerman, Wiger]
+
