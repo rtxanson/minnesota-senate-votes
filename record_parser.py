@@ -23,7 +23,12 @@ Options:
 # TODO: votes on adoptions of amendments
 # TODO: things that committees reccommend
 # TODO: adoption of motions
-#
+
+
+# TODO: output format that includes line numbers that the original data
+#       occurred in, anyone actually does spot-checking, this will make it
+#       easy to write a quick app to point out where the data came from.
+
 # TODO: keyword mentions
 #  - all bill titles mentioned (note several formats, individual and list
 #    format, No. vs. Nos.)
