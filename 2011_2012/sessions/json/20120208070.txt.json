@@ -74,12 +74,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 149", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 36, 
-            "nays": 30, 
+            "amended": false, 
+            "title": "S.F. No. 149", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -149,15 +147,15 @@
                 "Tomassoni", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 30
         }, 
         {
-            "title": "S. F. No. 373", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 46, 
-            "nays": 20, 
+            "amended": false, 
+            "title": "S. F. No. 373", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Bonoff", 
@@ -227,15 +225,15 @@
                 "Skoe", 
                 "Tomassoni", 
                 "Torres Ray"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 20
         }, 
         {
-            "title": "S.F. No. 429", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 42, 
-            "nays": 24, 
+            "amended": false, 
+            "title": "S.F. No. 429", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Bonoff", 
@@ -305,15 +303,15 @@
                 "Stumpf", 
                 "Tomassoni", 
                 "Torres Ray"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 24
         }, 
         {
-            "title": "S.F. No. 530", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 44, 
-            "nays": 21, 
+            "amended": false, 
+            "title": "S.F. No. 530", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Bonoff", 
@@ -382,8 +380,11 @@
                 "Skoe", 
                 "Tomassoni", 
                 "Torres Ray"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 21
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20120208070.txt"
 }

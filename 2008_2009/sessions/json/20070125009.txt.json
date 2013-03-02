@@ -73,12 +73,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "H.F. No. 8", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 65, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "H.F. No. 8", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -146,8 +144,11 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2008_2009/sessions/txt/20070125009.txt"
 }

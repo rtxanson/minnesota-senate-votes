@@ -73,12 +73,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 335", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 63, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 335", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -144,15 +142,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 119", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 52, 
-            "nays": 9, 
+            "amended": false, 
+            "title": "S.F. No. 119", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -217,8 +215,11 @@
                 "Murphy", 
                 "Rest", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 9
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2009_2010/sessions/txt/20090212011.txt"
 }

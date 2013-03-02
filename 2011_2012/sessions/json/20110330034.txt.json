@@ -73,12 +73,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 1047", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 36, 
-            "nays": 29, 
+            "amended": false, 
+            "title": "S.F. No. 1047", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -147,15 +145,15 @@
                 "Tomassoni", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 29
         }, 
         {
-            "title": "S.F. No. 760", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 37, 
-            "nays": 26, 
+            "amended": false, 
+            "title": "S.F. No. 760", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -222,8 +220,11 @@
                 "Tomassoni", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 26
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20110330034.txt"
 }

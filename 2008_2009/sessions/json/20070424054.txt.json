@@ -69,5 +69,25 @@
         "Wiger"
     ], 
     "bill_votes": false, 
+    "amendment_votes": [
+        {
+            "yays": 0, 
+            "title": "S.F. No. 1075", 
+            "status_string": "The motion did not prevail. So the amendment was not adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": false, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "S.F. No. 2041", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }
+    ], 
     "filename": "2008_2009/sessions/txt/20070424054.txt"
 }

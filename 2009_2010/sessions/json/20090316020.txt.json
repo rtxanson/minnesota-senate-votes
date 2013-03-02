@@ -73,12 +73,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 685", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 58, 
-            "nays": 4, 
+            "amended": false, 
+            "title": "S.F. No. 685", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -144,15 +142,15 @@
                 "Johnson", 
                 "Limmer", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 4
         }, 
         {
+            "yays": 63, 
+            "amended": false, 
             "title": "S.F. No. 887", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 63, 
-            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -218,15 +216,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 63, 
+            "amended": false, 
             "title": "S.F. No. 265", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 63, 
-            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -292,15 +290,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 978", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 63, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 978", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Berglin", 
                 "Betzold", 
@@ -366,15 +364,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 32", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 63, 
-            "nays": 1, 
+            "amended": false, 
+            "title": "S.F. No. 32", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -442,15 +440,15 @@
             ], 
             "negatives": [
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 1
         }, 
         {
+            "yays": 63, 
+            "amended": false, 
             "title": "S.F. No. 423", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 63, 
-            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -516,15 +514,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 64, 
+            "amended": false, 
             "title": "S.F. No. 404", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 64, 
-            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -591,15 +589,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 743", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 63, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 743", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -665,15 +663,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 236", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 64, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 236", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -740,15 +738,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 781", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 56, 
-            "nays": 8, 
+            "amended": false, 
+            "title": "S.F. No. 781", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -816,8 +814,11 @@
                 "Limmer", 
                 "Michel", 
                 "Robling"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 8
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2009_2010/sessions/txt/20090316020.txt"
 }

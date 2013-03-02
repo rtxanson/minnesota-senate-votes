@@ -74,12 +74,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 1780", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 44, 
-            "nays": 20, 
+            "amended": false, 
+            "title": "S.F. No. 1780", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Bonoff", 
@@ -147,15 +145,15 @@
                 "Stumpf", 
                 "Tomassoni", 
                 "Torres Ray"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 20
         }, 
         {
-            "title": "S.F. No. 1551", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 37, 
-            "nays": 28, 
+            "amended": false, 
+            "title": "S.F. No. 1551", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -224,15 +222,15 @@
                 "Tomassoni", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 28
         }, 
         {
-            "title": "S.F. No. 1844", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 38, 
-            "nays": 27, 
+            "amended": false, 
+            "title": "S.F. No. 1844", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -301,8 +299,11 @@
                 "Stumpf", 
                 "Tomassoni", 
                 "Torres Ray"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 27
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20120312084.txt"
 }

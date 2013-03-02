@@ -75,12 +75,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 2941", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 61, 
-            "nays": 1, 
+            "amended": false, 
+            "title": "S.F. No. 2941", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -146,15 +144,15 @@
             ], 
             "negatives": [
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 1
         }, 
         {
+            "yays": 60, 
+            "amended": false, 
             "title": "H.F. No. 3955", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 60, 
-            "nays": 2, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -220,15 +218,15 @@
             "negatives": [
                 "Jungbauer", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 2
         }, 
         {
+            "yays": 62, 
+            "amended": false, 
             "title": "S.F. No. 3281", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 62, 
-            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -293,15 +291,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 62, 
+            "amended": false, 
             "title": "H.F. No. 3420", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 62, 
-            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -366,15 +364,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 62, 
+            "amended": false, 
             "title": "H.F. No. 3699", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 62, 
-            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -439,15 +437,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 2876", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 59, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 2876", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -509,15 +507,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 2720", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 46, 
-            "nays": 16, 
+            "amended": false, 
+            "title": "S.F. No. 2720", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -583,15 +581,15 @@
                 "Sheran", 
                 "Tomassoni", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 16
         }, 
         {
-            "title": "S.F. No. 1128", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 48, 
-            "nays": 12, 
+            "amended": false, 
+            "title": "S.F. No. 1128", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -655,15 +653,15 @@
                 "Senjem", 
                 "Vandeveer", 
                 "Wergin"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 12
         }, 
         {
-            "title": "H.F. No. 3222", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 45, 
-            "nays": 6, 
+            "amended": false, 
+            "title": "H.F. No. 3222", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -718,15 +716,15 @@
                 "Limmer", 
                 "Michel", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 6
         }, 
         {
-            "title": "S.F. No. 2833", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 60, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 2833", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -789,15 +787,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "H.F. No. 3391", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 53, 
-            "nays": 13, 
+            "amended": false, 
+            "title": "H.F. No. 3391", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -867,7 +865,20 @@
                 "Senjem", 
                 "Vandeveer", 
                 "Wergin"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 13
+        }
+    ], 
+    "amendment_votes": [
+        {
+            "yays": 0, 
+            "title": "S.F. No. 3787", 
+            "status_string": "The motion prevailed. So S.F. No. 3787 was recommended to pass.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }
     ], 
     "filename": "2008_2009/sessions/txt/20080512114.txt"

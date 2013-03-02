@@ -74,12 +74,10 @@
     ], 
     "bill_votes": [
         {
+            "yays": 65, 
+            "amended": false, 
             "title": "S.F. No. 1788", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 65, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -147,15 +145,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 65, 
+            "amended": false, 
             "title": "S.F. No. 1917", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 65, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -223,15 +221,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 65, 
+            "amended": false, 
             "title": "H.F. No. 1515", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 65, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -299,15 +297,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 65, 
+            "amended": false, 
             "title": "S.F. No. 2166", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 65, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -375,15 +373,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "H.F. No. 1560", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 36, 
-            "nays": 28, 
+            "amended": false, 
+            "title": "H.F. No. 1560", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -451,15 +449,15 @@
                 "Tomassoni", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 28
         }, 
         {
+            "yays": 65, 
+            "amended": false, 
             "title": "S.F. No. 1620", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 65, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -527,15 +525,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 65, 
+            "amended": false, 
             "title": "S.F. No. 1212", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 65, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -603,15 +601,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 64, 
+            "amended": false, 
             "title": "S.F. No. 1542", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 64, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -678,15 +676,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 64, 
+            "amended": false, 
             "title": "H.F. No. 2152", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 64, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -753,15 +751,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 64, 
+            "amended": false, 
             "title": "H.F. No. 300", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 64, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -828,15 +826,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 1528", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 53, 
-            "nays": 11, 
+            "amended": false, 
+            "title": "S.F. No. 1528", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -904,8 +902,11 @@
                 "Thompson", 
                 "Tomassoni", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 11
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20120315087.txt"
 }

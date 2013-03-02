@@ -71,12 +71,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 49", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 49, 
-            "nays": 7, 
+            "amended": false, 
+            "title": "S.F. No. 49", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -136,8 +134,11 @@
                 "Koch", 
                 "Marty", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 7
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2009_2010/sessions/txt/20090129007.txt"
 }

@@ -67,5 +67,43 @@
         "Wiger"
     ], 
     "bill_votes": false, 
+    "amendment_votes": [
+        {
+            "yays": 0, 
+            "title": "H.F. No. 523", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "S.F. No. 556", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "S.F. No. 1096", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "S.F. No. 1794", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }
+    ], 
     "filename": "2009_2010/sessions/txt/20090425041.txt"
 }

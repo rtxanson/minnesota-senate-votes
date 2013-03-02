@@ -74,12 +74,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 255", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 66, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 255", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -148,15 +146,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 4", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 63, 
-            "nays": 3, 
+            "amended": false, 
+            "title": "S.F. No. 4", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -226,8 +224,11 @@
                 "Hann", 
                 "Ingebrigtsen", 
                 "Skoe"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 3
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2008_2009/sessions/txt/20070208014.txt"
 }

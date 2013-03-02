@@ -6,5 +6,6 @@
     }, 
     "role_call": false, 
     "bill_votes": false, 
+    "amendment_votes": false, 
     "filename": "2009_2010/sessions/txt/20100212063.txt"
 }

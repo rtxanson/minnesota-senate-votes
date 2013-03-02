@@ -66,5 +66,25 @@
         "Wiger"
     ], 
     "bill_votes": false, 
+    "amendment_votes": [
+        {
+            "yays": 0, 
+            "title": "S.F. No. 493", 
+            "status_string": "The motion prevailed. So the amendment to the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "S.F. No. 1236", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }
+    ], 
     "filename": "2008_2009/sessions/txt/20070410044.txt"
 }

@@ -73,12 +73,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "H.F. No. 42", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 37, 
-            "nays": 26, 
+            "amended": false, 
+            "title": "H.F. No. 42", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -145,8 +143,11 @@
                 "Sparks", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 26
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20110405037.txt"
 }

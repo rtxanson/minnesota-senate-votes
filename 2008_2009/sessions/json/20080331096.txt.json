@@ -70,12 +70,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 2915", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 57, 
-            "nays": 4, 
+            "amended": false, 
+            "title": "S.F. No. 2915", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -140,15 +138,15 @@
                 "Koch", 
                 "Limmer", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 4
         }, 
         {
-            "title": "S.F. No. 2706", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 47, 
-            "nays": 13, 
+            "amended": false, 
+            "title": "S.F. No. 2706", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -212,15 +210,15 @@
                 "Pariseau", 
                 "Vandeveer", 
                 "Wergin"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 13
         }, 
         {
-            "title": "S.F. No. 3099", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 39, 
-            "nays": 23, 
+            "amended": false, 
+            "title": "S.F. No. 3099", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -286,7 +284,20 @@
                 "Vandeveer", 
                 "Vickerman", 
                 "Wergin"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 23
+        }
+    ], 
+    "amendment_votes": [
+        {
+            "yays": 0, 
+            "title": "S.F. No. 3337", 
+            "status_string": "The motion prevailed. So the amendment to the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }
     ], 
     "filename": "2008_2009/sessions/txt/20080331096.txt"

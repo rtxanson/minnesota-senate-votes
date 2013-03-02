@@ -74,12 +74,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 108", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 66, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 108", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -148,15 +146,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 112", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 40, 
-            "nays": 25, 
+            "amended": false, 
+            "title": "S.F. No. 112", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -225,15 +223,15 @@
                 "Stumpf", 
                 "Tomassoni", 
                 "Vickerman"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 25
         }, 
         {
-            "title": "S.F. No. 563", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 64, 
-            "nays": 1, 
+            "amended": false, 
+            "title": "S.F. No. 563", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -302,8 +300,11 @@
             ], 
             "negatives": [
                 "Ingebrigtsen"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 1
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2008_2009/sessions/txt/20070312027.txt"
 }

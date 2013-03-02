@@ -74,12 +74,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 122", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 49, 
-            "nays": 17, 
+            "amended": false, 
+            "title": "S.F. No. 122", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Betzold", 
@@ -149,15 +147,15 @@
                 "Tomassoni", 
                 "Vandeveer", 
                 "Wergin"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 17
         }, 
         {
-            "title": "S.F. No. 463", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 58, 
-            "nays": 7, 
+            "amended": false, 
+            "title": "S.F. No. 463", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -226,8 +224,11 @@
                 "Olson, M.", 
                 "Senjem", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 7
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2008_2009/sessions/txt/20070221019.txt"
 }

@@ -73,12 +73,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "H.F. No. 130", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 37, 
-            "nays": 27, 
+            "amended": false, 
+            "title": "H.F. No. 130", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -146,15 +144,15 @@
                 "Stumpf", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 27
         }, 
         {
-            "title": "S.F. No. 40", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 40, 
-            "nays": 23, 
+            "amended": false, 
+            "title": "S.F. No. 40", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Bonoff", 
@@ -221,8 +219,11 @@
                 "Sparks", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 23
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20110203011.txt"
 }

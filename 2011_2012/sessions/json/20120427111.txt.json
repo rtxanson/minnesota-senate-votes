@@ -75,12 +75,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "H.F. No. 2821", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 35, 
-            "nays": 29, 
+            "amended": false, 
+            "title": "H.F. No. 2821", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -148,15 +146,15 @@
                 "Tomassoni", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 29
         }, 
         {
-            "title": "S.F. No. 1983", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 59, 
-            "nays": 3, 
+            "amended": false, 
+            "title": "S.F. No. 1983", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Bonoff", 
@@ -222,15 +220,15 @@
                 "Limmer", 
                 "Thompson", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 3
         }, 
         {
-            "title": "S.F. No. 1573", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 50, 
-            "nays": 13, 
+            "amended": false, 
+            "title": "S.F. No. 1573", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -297,8 +295,11 @@
                 "Pappas", 
                 "Sheran", 
                 "Torres Ray"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 13
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20120427111.txt"
 }

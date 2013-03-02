@@ -68,12 +68,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 1567", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 47, 
-            "nays": 16, 
+            "amended": false, 
+            "title": "S.F. No. 1567", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -140,8 +138,11 @@
                 "Sieben", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 16
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20120308083.txt"
 }

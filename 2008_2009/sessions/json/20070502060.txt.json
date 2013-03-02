@@ -70,12 +70,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 358", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 57, 
-            "nays": 1, 
+            "amended": false, 
+            "title": "S.F. No. 358", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Berglin", 
@@ -137,15 +135,15 @@
             ], 
             "negatives": [
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 1
         }, 
         {
-            "title": "S.F. No. 555", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 62, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 555", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -210,15 +208,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 1398", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 43, 
-            "nays": 22, 
+            "amended": false, 
+            "title": "S.F. No. 1398", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -287,8 +285,11 @@
                 "Vandeveer", 
                 "Vickerman", 
                 "Wergin"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 22
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2008_2009/sessions/txt/20070502060.txt"
 }

@@ -74,12 +74,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 2168", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 45, 
-            "nays": 20, 
+            "amended": false, 
+            "title": "S.F. No. 2168", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -148,8 +146,11 @@
                 "Rosen", 
                 "Senjem", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 20
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2009_2010/sessions/txt/20100211062.txt"
 }

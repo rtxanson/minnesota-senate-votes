@@ -71,12 +71,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 2912", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 51, 
-            "nays": 1, 
+            "amended": false, 
+            "title": "S.F. No. 2912", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Berglin", 
                 "Betzold", 
@@ -132,15 +130,15 @@
             ], 
             "negatives": [
                 "Limmer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 1
         }, 
         {
-            "title": "S.F. No. 2910", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 49, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 2910", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Betzold", 
@@ -192,15 +190,15 @@
                 "Torres Ray", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 2918", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 56, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 2918", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -259,8 +257,11 @@
                 "Vandeveer", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2008_2009/sessions/txt/20080305086.txt"
 }

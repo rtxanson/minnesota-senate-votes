@@ -73,12 +73,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 1627", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 40, 
-            "nays": 25, 
+            "amended": false, 
+            "title": "S.F. No. 1627", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -147,15 +145,15 @@
                 "Senjem", 
                 "Sparks", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 25
         }, 
         {
-            "title": "S.F. No. 2081", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 49, 
-            "nays": 15, 
+            "amended": false, 
+            "title": "S.F. No. 2081", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -223,15 +221,15 @@
                 "Ortman", 
                 "Rest", 
                 "Robling"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 15
         }, 
         {
-            "title": "S.F. No. 978", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 64, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 978", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -298,8 +296,11 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2009_2010/sessions/txt/20090421037.txt"
 }

@@ -74,12 +74,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 2392", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 55, 
-            "nays": 3, 
+            "amended": false, 
+            "title": "S.F. No. 2392", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -141,15 +139,15 @@
                 "Nelson", 
                 "Rest", 
                 "Senjem"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 3
         }, 
         {
-            "title": "S.F. No. 1750", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 52, 
-            "nays": 11, 
+            "amended": false, 
+            "title": "S.F. No. 1750", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -216,15 +214,15 @@
                 "Sieben", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 11
         }, 
         {
-            "title": "S.F. No. 2090", 
-            "pass": false, 
-            "status_string": "failed to pass", 
-            "amended": false, 
             "yays": 28, 
-            "nays": 35, 
+            "amended": false, 
+            "title": "S.F. No. 2090", 
+            "status_string": "failed to pass", 
             "affirmatives": [
                 "Benson", 
                 "Carlson", 
@@ -291,15 +289,15 @@
                 "Tomassoni", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": false, 
+            "nays": 35
         }, 
         {
-            "title": "S.F. No. 2098", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 65, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 2098", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -367,8 +365,11 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20120420106.txt"
 }

@@ -71,12 +71,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 1528", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 51, 
-            "nays": 11, 
+            "amended": false, 
+            "title": "S.F. No. 1528", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -142,15 +140,15 @@
                 "Ortman", 
                 "Thompson", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 11
         }, 
         {
+            "yays": 43, 
+            "amended": false, 
             "title": "H.F. No. 2164", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
-            "yays": 43, 
-            "nays": 19, 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -216,15 +214,15 @@
                 "Sieben", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 19
         }, 
         {
-            "title": "H.F. No. 1870", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 35, 
-            "nays": 28, 
+            "amended": false, 
+            "title": "H.F. No. 1870", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Bonoff", 
@@ -291,15 +289,15 @@
                 "Tomassoni", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 28
         }, 
         {
-            "title": "H.F. No. 203", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 43, 
-            "nays": 20, 
+            "amended": false, 
+            "title": "H.F. No. 203", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Bonoff", 
@@ -366,15 +364,15 @@
                 "Sieben", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 20
         }, 
         {
-            "title": "H.F. No. 8", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 34, 
-            "nays": 28, 
+            "amended": false, 
+            "title": "H.F. No. 8", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -440,15 +438,15 @@
                 "Tomassoni", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 28
         }, 
         {
-            "title": "H.F. No. 2795", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 44, 
-            "nays": 18, 
+            "amended": false, 
+            "title": "H.F. No. 2795", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -514,15 +512,15 @@
                 "Rest", 
                 "Saxhaug", 
                 "Torres Ray"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 18
         }, 
         {
-            "title": "H.F. No. 2647", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 62, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "H.F. No. 2647", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -587,15 +585,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "H.F. No. 2171", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 34, 
-            "nays": 28, 
+            "amended": false, 
+            "title": "H.F. No. 2171", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Carlson", 
@@ -661,8 +659,11 @@
                 "Tomassoni", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 28
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20120428112.txt"
 }

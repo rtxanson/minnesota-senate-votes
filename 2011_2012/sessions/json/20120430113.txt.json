@@ -74,12 +74,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "H.F. No. 2555", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 47, 
-            "nays": 19, 
+            "amended": false, 
+            "title": "H.F. No. 2555", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Bonoff", 
@@ -149,15 +147,15 @@
                 "Parry", 
                 "Thompson", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 19
         }, 
         {
-            "title": "H.F. No. 1721", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 64, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "H.F. No. 1721", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Bonoff", 
@@ -224,8 +222,11 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20120430113.txt"
 }

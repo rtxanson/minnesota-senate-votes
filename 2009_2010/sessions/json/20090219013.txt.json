@@ -70,12 +70,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 162", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 55, 
-            "nays": 7, 
+            "amended": false, 
+            "title": "S.F. No. 162", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -141,15 +139,15 @@
                 "Pariseau", 
                 "Scheid", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 7
         }, 
         {
-            "title": "S.F. No. 213", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 58, 
-            "nays": 4, 
+            "amended": false, 
+            "title": "S.F. No. 213", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -215,8 +213,11 @@
                 "Hann", 
                 "Limmer", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 4
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2009_2010/sessions/txt/20090219013.txt"
 }

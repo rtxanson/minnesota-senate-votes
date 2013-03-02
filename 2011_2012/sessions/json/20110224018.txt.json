@@ -74,12 +74,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "H.F. No. 1", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 49, 
-            "nays": 16, 
+            "amended": false, 
+            "title": "H.F. No. 1", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -148,15 +146,15 @@
                 "Rest", 
                 "Sieben", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 16
         }, 
         {
-            "title": "H.F. No. 55", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 66, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "H.F. No. 55", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -225,8 +223,11 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20110224018.txt"
 }

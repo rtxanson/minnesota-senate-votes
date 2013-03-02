@@ -70,12 +70,10 @@
     ], 
     "bill_votes": [
         {
+            "yays": 36, 
+            "amended": false, 
             "title": "S.F. No. 768", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 36, 
-            "nays": 25, 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -140,15 +138,15 @@
                 "Stumpf", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 25
         }, 
         {
+            "yays": 60, 
+            "amended": false, 
             "title": "S.F. No. 799", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 60, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -211,15 +209,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 60, 
+            "amended": false, 
             "title": "S.F. No. 1208", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 60, 
-            "nays": 1, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -284,15 +282,15 @@
             ], 
             "negatives": [
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 1
         }, 
         {
-            "title": "S.F. No. 946", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 36, 
-            "nays": 25, 
+            "amended": false, 
+            "title": "S.F. No. 946", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Bonoff", 
@@ -357,15 +355,15 @@
                 "Stumpf", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 25
         }, 
         {
+            "yays": 61, 
+            "amended": false, 
             "title": "H.F. No. 1092", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 61, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -429,15 +427,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 61, 
+            "amended": false, 
             "title": "S.F. No. 1280", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 61, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -501,15 +499,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 61, 
+            "amended": false, 
             "title": "H.F. No. 447", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 61, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -573,15 +571,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 61, 
+            "amended": false, 
             "title": "S.F. No. 508", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 61, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -645,15 +643,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 1045", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 58, 
-            "nays": 3, 
+            "amended": false, 
+            "title": "S.F. No. 1045", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -718,15 +716,15 @@
                 "Limmer", 
                 "Rest", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 3
         }, 
         {
-            "title": "S.F. No. 247", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 34, 
-            "nays": 28, 
+            "amended": false, 
+            "title": "S.F. No. 247", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -792,15 +790,15 @@
                 "Stumpf", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 28
         }, 
         {
-            "title": "S.F. No. 943", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 62, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 943", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -865,7 +863,99 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }
+    ], 
+    "amendment_votes": [
+        {
+            "yays": 42, 
+            "title": "S.F. No. 373", 
+            "status_string": "The motion prevailed. So S.F. No. 373 was recommended to pass.", 
+            "affirmatives": [
+                "Benson", 
+                "Bonoff", 
+                "Brown", 
+                "Carlson", 
+                "Chamberlain", 
+                "Dahms", 
+                "Daley", 
+                "DeKruif", 
+                "Fischbach", 
+                "Gazelka", 
+                "Gerlach", 
+                "Gimse", 
+                "Hall", 
+                "Hoffman", 
+                "Howe", 
+                "Ingebrigtsen", 
+                "Jungbauer", 
+                "Koch", 
+                "Kruse", 
+                "Langseth", 
+                "Lillie", 
+                "Limmer", 
+                "Magnus", 
+                "Metzen", 
+                "Michel", 
+                "Miller", 
+                "Nelson", 
+                "Newman", 
+                "Nienow", 
+                "Olson", 
+                "Ortman", 
+                "Parry", 
+                "Pederson", 
+                "Rest", 
+                "Robling", 
+                "Rosen", 
+                "Scheid", 
+                "Sparks", 
+                "Thompson", 
+                "Vandeveer", 
+                "Wiger", 
+                "Wolf"
+            ], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "S.F. No. 506", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "S.F. No. 1009", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "H.F. No. 1139", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "H.F. No. 460", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }
     ], 
     "filename": "2011_2012/sessions/txt/20110514056.txt"

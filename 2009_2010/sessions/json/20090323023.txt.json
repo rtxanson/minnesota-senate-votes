@@ -73,12 +73,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 896", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 61, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 896", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -142,15 +140,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 1477", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 62, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 1477", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -215,15 +213,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 1142", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 63, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 1142", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -289,7 +287,71 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }
+    ], 
+    "amendment_votes": [
+        {
+            "yays": 0, 
+            "title": "S.F. No. 275", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 41, 
+            "title": "S.F. No. 99", 
+            "status_string": "The motion did not prevail. So the amendment was not adopted.", 
+            "affirmatives": [
+                "Anderson", 
+                "Berglin", 
+                "Betzold", 
+                "Bonoff", 
+                "Carlson", 
+                "Clark", 
+                "Cohen", 
+                "Dahle", 
+                "Dibble", 
+                "Dille", 
+                "Doll", 
+                "Erickson Ropes", 
+                "Foley", 
+                "Frederickson", 
+                "Gimse", 
+                "Higgins", 
+                "Jungbauer", 
+                "Kelash", 
+                "Kubly", 
+                "Langseth", 
+                "Lourey", 
+                "Lynch", 
+                "Marty", 
+                "Michel", 
+                "Moua", 
+                "Murphy", 
+                "Olseen", 
+                "Olson, M.", 
+                "Pappas", 
+                "Pogemiller", 
+                "Prettner Solon", 
+                "Rest", 
+                "Rummel", 
+                "Saltzman", 
+                "Saxhaug", 
+                "Sheran", 
+                "Sieben", 
+                "Skogen", 
+                "Stumpf", 
+                "Torres Ray", 
+                "Wiger"
+            ], 
+            "negatives": [], 
+            "pass": false, 
+            "nays": 0
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090323023.txt"

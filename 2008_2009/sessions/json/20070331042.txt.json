@@ -69,12 +69,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 1887", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 54, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 1887", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -131,15 +129,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 1611", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 35, 
-            "nays": 29, 
+            "amended": false, 
+            "title": "S.F. No. 1611", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -207,15 +205,15 @@
                 "Skogen", 
                 "Vandeveer", 
                 "Wergin"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 29
         }, 
         {
-            "title": "S.F. No. 2190", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 46, 
-            "nays": 17, 
+            "amended": false, 
+            "title": "S.F. No. 2190", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -282,8 +280,11 @@
                 "Rosen", 
                 "Vandeveer", 
                 "Wergin"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 17
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2008_2009/sessions/txt/20070331042.txt"
 }

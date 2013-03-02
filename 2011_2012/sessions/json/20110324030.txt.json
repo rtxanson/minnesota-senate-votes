@@ -71,12 +71,10 @@
     ], 
     "bill_votes": [
         {
+            "yays": 62, 
+            "amended": false, 
             "title": "S.F. No. 137", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 62, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -141,15 +139,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 62, 
+            "amended": false, 
             "title": "S.F. No. 191", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 62, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -214,15 +212,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 62, 
+            "amended": false, 
             "title": "S.F. No. 478", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 62, 
-            "nays": 0, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -287,15 +285,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 551", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 53, 
-            "nays": 8, 
+            "amended": false, 
+            "title": "S.F. No. 551", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -360,7 +358,65 @@
                 "Limmer", 
                 "Nienow", 
                 "Rest"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 8
+        }
+    ], 
+    "amendment_votes": [
+        {
+            "yays": 35, 
+            "title": "S.F. No. 156", 
+            "status_string": "The motion prevailed. So S.F. No. 39 was recommended to pass.", 
+            "affirmatives": [
+                "Benson", 
+                "Brown", 
+                "Carlson", 
+                "Chamberlain", 
+                "Dahms", 
+                "Daley", 
+                "DeKruif", 
+                "Fischbach", 
+                "Gazelka", 
+                "Gerlach", 
+                "Gimse", 
+                "Hall", 
+                "Hann", 
+                "Hoffman", 
+                "Howe", 
+                "Ingebrigtsen", 
+                "Koch", 
+                "Kruse", 
+                "Lillie", 
+                "Limmer", 
+                "Magnus", 
+                "Michel", 
+                "Miller", 
+                "Nelson", 
+                "Newman", 
+                "Nienow", 
+                "Olson", 
+                "Parry", 
+                "Pederson", 
+                "Robling", 
+                "Rosen", 
+                "Scheid", 
+                "Senjem", 
+                "Vandeveer", 
+                "Wolf"
+            ], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "S.F. No. 39", 
+            "status_string": "The motion prevailed. So S.F. No. 39 was recommended to pass.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }
     ], 
     "filename": "2011_2012/sessions/txt/20110324030.txt"

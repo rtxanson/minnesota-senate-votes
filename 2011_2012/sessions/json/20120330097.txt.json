@@ -71,12 +71,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "H.F. No. 2244", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 54, 
-            "nays": 8, 
+            "amended": false, 
+            "title": "H.F. No. 2244", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -142,15 +140,15 @@
                 "Marty", 
                 "McGuire", 
                 "Torres Ray"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 8
         }, 
         {
-            "title": "S.F. No. 1957", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 45, 
-            "nays": 17, 
+            "amended": false, 
+            "title": "S.F. No. 1957", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Bonoff", 
@@ -216,15 +214,15 @@
                 "Rest", 
                 "Tomassoni", 
                 "Torres Ray"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 17
         }, 
         {
-            "title": "H.F. No. 2676", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 53, 
-            "nays": 9, 
+            "amended": false, 
+            "title": "H.F. No. 2676", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -290,8 +288,11 @@
                 "Marty", 
                 "McGuire", 
                 "Torres Ray"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 9
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20120330097.txt"
 }

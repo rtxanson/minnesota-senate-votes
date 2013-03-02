@@ -72,12 +72,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 55", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 64, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 55", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -144,15 +142,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 4", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 50, 
-            "nays": 14, 
+            "amended": false, 
+            "title": "S.F. No. 4", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -220,8 +218,11 @@
                 "Reinert", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 14
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20110202010.txt"
 }

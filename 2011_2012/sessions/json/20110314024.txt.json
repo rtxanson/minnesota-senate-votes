@@ -73,5 +73,16 @@
         "Wolf"
     ], 
     "bill_votes": false, 
+    "amendment_votes": [
+        {
+            "yays": 0, 
+            "title": "S.F. No. 170", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }
+    ], 
     "filename": "2011_2012/sessions/txt/20110314024.txt"
 }

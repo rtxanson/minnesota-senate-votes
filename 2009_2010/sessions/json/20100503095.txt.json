@@ -73,12 +73,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 2855", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 64, 
-            "nays": 1, 
+            "amended": false, 
+            "title": "S.F. No. 2855", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -147,15 +145,15 @@
             ], 
             "negatives": [
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 1
         }, 
         {
-            "title": "S.F. No. 2713", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 52, 
-            "nays": 13, 
+            "amended": false, 
+            "title": "S.F. No. 2713", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -224,15 +222,15 @@
                 "Robling", 
                 "Senjem", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 13
         }, 
         {
-            "title": "S.F. No. 915", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 42, 
-            "nays": 23, 
+            "amended": false, 
+            "title": "S.F. No. 915", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -301,15 +299,15 @@
                 "Skoe", 
                 "Vandeveer", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 23
         }, 
         {
+            "yays": 64, 
+            "amended": false, 
             "title": "S.F. No. 2437", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
-            "yays": 64, 
-            "nays": 0, 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -376,15 +374,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 364", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 63, 
-            "nays": 1, 
+            "amended": false, 
+            "title": "S.F. No. 364", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -452,15 +450,15 @@
             ], 
             "negatives": [
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 1
         }, 
         {
+            "yays": 64, 
+            "amended": false, 
             "title": "S.F. No. 2370", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
-            "yays": 64, 
-            "nays": 0, 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -527,15 +525,15 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 2912", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 62, 
-            "nays": 2, 
+            "amended": false, 
+            "title": "S.F. No. 2912", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -603,15 +601,15 @@
             "negatives": [
                 "Koering", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 2
         }, 
         {
-            "title": "H.F. No. 3318", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 60, 
-            "nays": 4, 
+            "amended": false, 
+            "title": "H.F. No. 3318", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -679,15 +677,15 @@
                 "Koch", 
                 "Limmer", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 4
         }, 
         {
-            "title": "H.F. No. 3591", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 64, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "H.F. No. 3591", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -754,7 +752,185 @@
                 "Vickerman", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }
+    ], 
+    "amendment_votes": [
+        {
+            "yays": 30, 
+            "title": "S.F. No. 2702", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [
+                "Dille", 
+                "Fischbach", 
+                "Fobbe", 
+                "Frederickson", 
+                "Gerlach", 
+                "Gimse", 
+                "Hann", 
+                "Ingebrigtsen", 
+                "Jungbauer", 
+                "Koch", 
+                "Koering", 
+                "Kubly", 
+                "Langseth", 
+                "Limmer", 
+                "Lynch", 
+                "Michel", 
+                "Olson, G.", 
+                "Olson, M.", 
+                "Ortman", 
+                "Pariseau", 
+                "Parry", 
+                "Robling", 
+                "Rosen", 
+                "Saltzman", 
+                "Senjem", 
+                "Skogen", 
+                "Sparks", 
+                "Stumpf", 
+                "Vandeveer", 
+                "Vickerman"
+            ], 
+            "negatives": [
+                "Anderson", 
+                "Bakk", 
+                "Berglin", 
+                "Betzold", 
+                "Bonoff", 
+                "Carlson", 
+                "Chaudhary", 
+                "Clark", 
+                "Cohen", 
+                "Dibble", 
+                "Erickson Ropes", 
+                "Foley", 
+                "Higgins", 
+                "Kelash", 
+                "Latz", 
+                "Lourey", 
+                "Marty", 
+                "Metzen", 
+                "Moua", 
+                "Murphy", 
+                "Olseen", 
+                "Pappas", 
+                "Pogemiller", 
+                "Prettner Solon", 
+                "Rest", 
+                "Saxhaug", 
+                "Scheid", 
+                "Sheran", 
+                "Sieben", 
+                "Skoe", 
+                "Tomassoni", 
+                "Torres Ray", 
+                "Wiger"
+            ], 
+            "pass": true, 
+            "nays": 33
+        }, 
+        {
+            "yays": 0, 
+            "title": "S.F. No. 2702", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "H.F. No. 3106", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "S.F. No. 3019", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 38, 
+            "title": "S.F. No. 2900", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [
+                "Betzold", 
+                "Bonoff", 
+                "Carlson", 
+                "Chaudhary", 
+                "Clark", 
+                "Dahle", 
+                "Dille", 
+                "Erickson Ropes", 
+                "Fischbach", 
+                "Fobbe", 
+                "Gerlach", 
+                "Gimse", 
+                "Hann", 
+                "Ingebrigtsen", 
+                "Koch", 
+                "Koering", 
+                "Latz", 
+                "Limmer", 
+                "Michel", 
+                "Moua", 
+                "Murphy", 
+                "Olseen", 
+                "Olson, M.", 
+                "Ortman", 
+                "Pappas", 
+                "Parry", 
+                "Pogemiller", 
+                "Rest", 
+                "Saltzman", 
+                "Saxhaug", 
+                "Scheid", 
+                "Sheran", 
+                "Skogen", 
+                "Stumpf", 
+                "Torres Ray", 
+                "Vandeveer", 
+                "Vickerman", 
+                "Wiger"
+            ], 
+            "negatives": [
+                "Anderson", 
+                "Bakk", 
+                "Berglin", 
+                "Cohen", 
+                "Dibble", 
+                "Foley", 
+                "Frederickson", 
+                "Higgins", 
+                "Jungbauer", 
+                "Kelash", 
+                "Kubly", 
+                "Langseth", 
+                "Marty", 
+                "Olson, G.", 
+                "Pariseau", 
+                "Prettner Solon", 
+                "Robling", 
+                "Rosen", 
+                "Rummel", 
+                "Senjem", 
+                "Sieben", 
+                "Skoe", 
+                "Sparks", 
+                "Tomassoni"
+            ], 
+            "pass": true, 
+            "nays": 24
         }
     ], 
     "filename": "2009_2010/sessions/txt/20100503095.txt"

@@ -70,12 +70,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 106", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 50, 
-            "nays": 10, 
+            "amended": false, 
+            "title": "S.F. No. 106", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -139,15 +137,15 @@
                 "Robling", 
                 "Vandeveer", 
                 "Wergin"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 10
         }, 
         {
-            "title": "S.F. No. 555", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 62, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 555", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -212,7 +210,67 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }
+    ], 
+    "amendment_votes": [
+        {
+            "yays": 46, 
+            "title": "S.F. No. 458", 
+            "status_string": "The motion prevailed. So the first portion of the amendment was adopted.", 
+            "affirmatives": [
+                "Anderson", 
+                "Bakk", 
+                "Berglin", 
+                "Bonoff", 
+                "Carlson", 
+                "Chaudhary", 
+                "Day", 
+                "Doll", 
+                "Erickson Ropes", 
+                "Fischbach", 
+                "Frederickson", 
+                "Gerlach", 
+                "Gimse", 
+                "Hann", 
+                "Ingebrigtsen", 
+                "Johnson", 
+                "Koch", 
+                "Koering", 
+                "Kubly", 
+                "Limmer", 
+                "Lourey", 
+                "Lynch", 
+                "Marty", 
+                "Michel", 
+                "Neuville", 
+                "Olseen", 
+                "Olson, G.", 
+                "Olson, M.", 
+                "Ortman", 
+                "Pariseau", 
+                "Prettner Solon", 
+                "Rest", 
+                "Robling", 
+                "Rosen", 
+                "Saltzman", 
+                "Saxhaug", 
+                "Senjem", 
+                "Sieben", 
+                "Skoe", 
+                "Skogen", 
+                "Sparks", 
+                "Stumpf", 
+                "Tomassoni", 
+                "Torres Ray", 
+                "Vandeveer", 
+                "Wergin"
+            ], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }
     ], 
     "filename": "2008_2009/sessions/txt/20070226021.txt"

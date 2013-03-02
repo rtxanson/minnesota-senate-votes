@@ -75,12 +75,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 2653", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 60, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 2653", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -143,15 +141,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 2908", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 65, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 2908", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -219,15 +217,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 2918", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 66, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 2918", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -296,15 +294,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "H.F. No. 380", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 57, 
-            "nays": 10, 
+            "amended": false, 
+            "title": "H.F. No. 380", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -375,7 +373,85 @@
                 "Ortman", 
                 "Vandeveer", 
                 "Wergin"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 10
+        }
+    ], 
+    "amendment_votes": [
+        {
+            "yays": 41, 
+            "title": "S.F. No. 2869", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [
+                "Anderson", 
+                "Berglin", 
+                "Betzold", 
+                "Bonoff", 
+                "Chaudhary", 
+                "Day", 
+                "Dibble", 
+                "Dille", 
+                "Doll", 
+                "Erickson Ropes", 
+                "Foley", 
+                "Frederickson", 
+                "Gerlach", 
+                "Gimse", 
+                "Hann", 
+                "Ingebrigtsen", 
+                "Koch", 
+                "Koering", 
+                "Kubly", 
+                "Latz", 
+                "Limmer", 
+                "Lourey", 
+                "Marty", 
+                "Olseen", 
+                "Olson, G.", 
+                "Olson, M.", 
+                "Ortman", 
+                "Pappas", 
+                "Pariseau", 
+                "Rest", 
+                "Robling", 
+                "Rummel", 
+                "Saltzman", 
+                "Scheid", 
+                "Sheran", 
+                "Stumpf", 
+                "Torres Ray", 
+                "Vandeveer", 
+                "Vickerman", 
+                "Wergin", 
+                "Wiger"
+            ], 
+            "negatives": [
+                "Bakk", 
+                "Carlson", 
+                "Clark", 
+                "Cohen", 
+                "Dahle", 
+                "Higgins", 
+                "Johnson", 
+                "Jungbauer", 
+                "Langseth", 
+                "Larson", 
+                "Metzen", 
+                "Michel", 
+                "Moua", 
+                "Pogemiller", 
+                "Rosen", 
+                "Saxhaug", 
+                "Senjem", 
+                "Sieben", 
+                "Skoe", 
+                "Skogen", 
+                "Sparks", 
+                "Tomassoni"
+            ], 
+            "pass": true, 
+            "nays": 22
         }
     ], 
     "filename": "2008_2009/sessions/txt/20080402098.txt"

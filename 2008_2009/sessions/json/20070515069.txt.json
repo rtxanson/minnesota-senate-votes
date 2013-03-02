@@ -70,12 +70,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 1070", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 56, 
-            "nays": 4, 
+            "amended": false, 
+            "title": "S.F. No. 1070", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -139,15 +137,15 @@
                 "Doll", 
                 "Hann", 
                 "Rest"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 4
         }, 
         {
-            "title": "S.F. No. 118", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 61, 
-            "nays": 1, 
+            "amended": false, 
+            "title": "S.F. No. 118", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -213,15 +211,15 @@
             ], 
             "negatives": [
                 "Betzold"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 1
         }, 
         {
-            "title": "H.F. No. 1351", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 53, 
-            "nays": 9, 
+            "amended": false, 
+            "title": "H.F. No. 1351", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -287,7 +285,20 @@
                 "Tomassoni", 
                 "Vandeveer", 
                 "Vickerman"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 9
+        }
+    ], 
+    "amendment_votes": [
+        {
+            "yays": 0, 
+            "title": "H.F. No. 1758", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }
     ], 
     "filename": "2008_2009/sessions/txt/20070515069.txt"

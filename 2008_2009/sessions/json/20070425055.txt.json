@@ -68,12 +68,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 1949", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 60, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 1949", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -136,15 +134,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 1144", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 61, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 1144", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -208,15 +206,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 63, 
+            "amended": false, 
             "title": "S.F. No. 1857", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 63, 
-            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -282,15 +280,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
+            "yays": 63, 
+            "amended": false, 
             "title": "S.F. No. 1557", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 63, 
-            "nays": 0, 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -356,15 +354,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "S.F. No. 475", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 56, 
-            "nays": 7, 
+            "amended": false, 
+            "title": "S.F. No. 475", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -431,15 +429,15 @@
                 "Rest", 
                 "Scheid", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 7
         }, 
         {
-            "title": "S.F. No. 846", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 62, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 846", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -504,7 +502,131 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }
+    ], 
+    "amendment_votes": [
+        {
+            "yays": 28, 
+            "title": "S.F. No. 140", 
+            "status_string": "The motion did not prevail. So the third portion of the amendment was not adopted.", 
+            "affirmatives": [
+                "Bonoff", 
+                "Clark", 
+                "Day", 
+                "Dille", 
+                "Fischbach", 
+                "Frederickson", 
+                "Gerlach", 
+                "Hann", 
+                "Ingebrigtsen", 
+                "Jungbauer", 
+                "Koch", 
+                "Koering", 
+                "Langseth", 
+                "Limmer", 
+                "Michel", 
+                "Neuville", 
+                "Olson, G.", 
+                "Ortman", 
+                "Pariseau", 
+                "Rest", 
+                "Robling", 
+                "Rosen", 
+                "Saltzman", 
+                "Senjem", 
+                "Sheran", 
+                "Vandeveer", 
+                "Vickerman", 
+                "Wergin"
+            ], 
+            "negatives": [], 
+            "pass": false, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "S.F. No. 1070", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 25, 
+            "title": "S.F. No. 100", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [
+                "Day", 
+                "Dille", 
+                "Fischbach", 
+                "Frederickson", 
+                "Gerlach", 
+                "Hann", 
+                "Ingebrigtsen", 
+                "Johnson", 
+                "Jungbauer", 
+                "Koch", 
+                "Koering", 
+                "Kubly", 
+                "Limmer", 
+                "Neuville", 
+                "Olson, G.", 
+                "Ortman", 
+                "Pariseau", 
+                "Robling", 
+                "Rosen", 
+                "Senjem", 
+                "Skogen", 
+                "Sparks", 
+                "Vandeveer", 
+                "Vickerman", 
+                "Wergin"
+            ], 
+            "negatives": [
+                "Anderson", 
+                "Bakk", 
+                "Berglin", 
+                "Betzold", 
+                "Bonoff", 
+                "Carlson", 
+                "Chaudhary", 
+                "Clark", 
+                "Cohen", 
+                "Dibble", 
+                "Doll", 
+                "Erickson Ropes", 
+                "Foley", 
+                "Higgins", 
+                "Langseth", 
+                "Larson", 
+                "Latz", 
+                "Lourey", 
+                "Lynch", 
+                "Marty", 
+                "Metzen", 
+                "Michel", 
+                "Moua", 
+                "Olseen", 
+                "Olson, M.", 
+                "Pappas", 
+                "Pogemiller", 
+                "Prettner Solon", 
+                "Rest", 
+                "Rummel", 
+                "Saltzman", 
+                "Saxhaug", 
+                "Scheid", 
+                "Sheran", 
+                "Sieben", 
+                "Torres Ray", 
+                "Wiger"
+            ], 
+            "pass": true, 
+            "nays": 37
         }
     ], 
     "filename": "2008_2009/sessions/txt/20070425055.txt"

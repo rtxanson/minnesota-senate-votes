@@ -70,12 +70,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 1989", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 44, 
-            "nays": 21, 
+            "amended": false, 
+            "title": "S.F. No. 1989", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -144,15 +142,15 @@
                 "Torres Ray", 
                 "Vandeveer", 
                 "Wergin"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 21
         }, 
         {
-            "title": "S.F. No. 1193", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 60, 
-            "nays": 4, 
+            "amended": false, 
+            "title": "S.F. No. 1193", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -220,8 +218,11 @@
                 "Murphy", 
                 "Skoe", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 4
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2008_2009/sessions/txt/20070508064.txt"
 }

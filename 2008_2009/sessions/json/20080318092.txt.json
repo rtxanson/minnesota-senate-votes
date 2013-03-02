@@ -74,5 +74,16 @@
         "Wiger"
     ], 
     "bill_votes": false, 
+    "amendment_votes": [
+        {
+            "yays": 0, 
+            "title": "S.F. No. 2822", 
+            "status_string": "The motion must allege the applicable legal basis under this section for recovery of these remedies", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": "UNKNOWN STATUS", 
+            "nays": 0
+        }
+    ], 
     "filename": "2008_2009/sessions/txt/20080318092.txt"
 }

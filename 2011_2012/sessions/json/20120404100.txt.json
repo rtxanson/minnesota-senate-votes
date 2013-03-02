@@ -72,12 +72,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 2173", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 59, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "S.F. No. 2173", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -139,15 +137,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "H.F. No. 2738", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 35, 
-            "nays": 29, 
+            "amended": false, 
+            "title": "H.F. No. 2738", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -215,15 +213,15 @@
                 "Tomassoni", 
                 "Torres Ray", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 29
         }, 
         {
-            "title": "H.F. No. 2398", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 59, 
-            "nays": 3, 
+            "amended": false, 
+            "title": "H.F. No. 2398", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -289,8 +287,11 @@
                 "Jungbauer", 
                 "Rest", 
                 "Thompson"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 3
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20120404100.txt"
 }

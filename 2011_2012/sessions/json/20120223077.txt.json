@@ -73,12 +73,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "H.F. No. 2394", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 61, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "H.F. No. 2394", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -142,15 +140,15 @@
                 "Wiger", 
                 "Wolf"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "H.F. No. 1467", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 40, 
-            "nays": 23, 
+            "amended": false, 
+            "title": "H.F. No. 1467", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Brown", 
@@ -217,8 +215,11 @@
                 "Sheran", 
                 "Sieben", 
                 "Wiger"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 23
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20120223077.txt"
 }

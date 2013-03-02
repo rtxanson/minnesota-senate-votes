@@ -2,5 +2,6 @@
     "date": false, 
     "role_call": false, 
     "bill_votes": false, 
+    "amendment_votes": false, 
     "filename": "2008_2009/sessions/txt/20070402043.txt"
 }

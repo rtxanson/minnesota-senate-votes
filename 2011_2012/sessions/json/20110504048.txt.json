@@ -68,12 +68,10 @@
     ], 
     "bill_votes": [
         {
+            "yays": 59, 
+            "amended": false, 
             "title": "S.F. No. 1135", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 59, 
-            "nays": 1, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -137,15 +135,15 @@
             ], 
             "negatives": [
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 1
         }, 
         {
+            "yays": 59, 
+            "amended": false, 
             "title": "S.F. No. 1134", 
-            "pass": true, 
             "status_string": "passed and its title was agreed to", 
-            "amended": false, 
-            "yays": 59, 
-            "nays": 1, 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -209,15 +207,15 @@
             ], 
             "negatives": [
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 1
         }, 
         {
-            "title": "S.F. No. 346", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 51, 
-            "nays": 9, 
+            "amended": false, 
+            "title": "S.F. No. 346", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Benson", 
@@ -281,8 +279,11 @@
                 "Sheran", 
                 "Thompson", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 9
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20110504048.txt"
 }

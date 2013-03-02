@@ -74,12 +74,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 1420", 
-            "pass": true, 
-            "status_string": " amended, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 62, 
-            "nays": 1, 
+            "amended": false, 
+            "title": "S.F. No. 1420", 
+            "status_string": "amended, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Benson", 
                 "Bonoff", 
@@ -146,15 +144,15 @@
             ], 
             "negatives": [
                 "Gerlach"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 1
         }, 
         {
-            "title": "H.F. No. 2958", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 36, 
-            "nays": 30, 
+            "amended": false, 
+            "title": "H.F. No. 2958", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Bonoff", 
@@ -224,8 +222,11 @@
                 "Torres Ray", 
                 "Vandeveer", 
                 "Wolf"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 30
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2011_2012/sessions/txt/20120510119.txt"
 }

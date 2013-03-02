@@ -63,12 +63,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "H.F. No. 6", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 48, 
-            "nays": 8, 
+            "amended": false, 
+            "title": "H.F. No. 6", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -128,8 +126,11 @@
                 "Senjem", 
                 "Vandeveer", 
                 "Wergin"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 8
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2008_2009/sessions/txt/20070419051.txt"
 }

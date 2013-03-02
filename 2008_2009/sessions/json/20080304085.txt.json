@@ -67,12 +67,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "S.F. No. 3295", 
-            "pass": true, 
-            "status_string": " amended, was passed and its title was agreed to", 
-            "amended": false, 
             "yays": 51, 
-            "nays": 7, 
+            "amended": false, 
+            "title": "S.F. No. 3295", 
+            "status_string": "amended, was passed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Berglin", 
@@ -134,7 +132,29 @@
                 "Michel", 
                 "Olson, G.", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 7
+        }
+    ], 
+    "amendment_votes": [
+        {
+            "yays": 0, 
+            "title": "S.F. No. 3154", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "S.F. No. 2881", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }
     ], 
     "filename": "2008_2009/sessions/txt/20080304085.txt"

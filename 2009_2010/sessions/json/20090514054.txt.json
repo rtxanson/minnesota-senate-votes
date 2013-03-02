@@ -74,12 +74,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "H.F. No. 1275", 
-            "pass": true, 
-            "status_string": "passed and its title was agreed to", 
-            "amended": false, 
             "yays": 39, 
-            "nays": 17, 
+            "amended": false, 
+            "title": "H.F. No. 1275", 
+            "status_string": "passed and its title was agreed to", 
             "affirmatives": [
                 "Bakk", 
                 "Berglin", 
@@ -139,7 +137,67 @@
                 "Rosen", 
                 "Senjem", 
                 "Vandeveer"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 17
+        }
+    ], 
+    "amendment_votes": [
+        {
+            "yays": 19, 
+            "title": "S.F. No. 182", 
+            "status_string": "The motion did not prevail.", 
+            "affirmatives": [
+                "Day", 
+                "Dille", 
+                "Doll", 
+                "Gerlach", 
+                "Gimse", 
+                "Hann", 
+                "Johnson", 
+                "Jungbauer", 
+                "Kelash", 
+                "Koering", 
+                "Limmer", 
+                "Lynch", 
+                "Murphy", 
+                "Olseen", 
+                "Olson, G.", 
+                "Ortman", 
+                "Pariseau", 
+                "Skogen", 
+                "Vandeveer"
+            ], 
+            "negatives": [], 
+            "pass": false, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "H.F. No. 519", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "S.F. No. 1509", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
+        }, 
+        {
+            "yays": 0, 
+            "title": "H.F. No. 348", 
+            "status_string": "The motion prevailed. So the amendment was adopted.", 
+            "affirmatives": [], 
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }
     ], 
     "filename": "2009_2010/sessions/txt/20090514054.txt"

@@ -69,12 +69,10 @@
     ], 
     "bill_votes": [
         {
-            "title": "H.F. No. 2227", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 64, 
-            "nays": 0, 
+            "amended": false, 
+            "title": "H.F. No. 2227", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -141,15 +139,15 @@
                 "Wergin", 
                 "Wiger"
             ], 
-            "negatives": []
+            "negatives": [], 
+            "pass": true, 
+            "nays": 0
         }, 
         {
-            "title": "H.F. No. 966", 
-            "pass": true, 
-            "status_string": " amended by the Conference Committee, was repassed and its title was agreed to", 
-            "amended": false, 
             "yays": 50, 
-            "nays": 10, 
+            "amended": false, 
+            "title": "H.F. No. 966", 
+            "status_string": "amended by the Conference Committee, was repassed and its title was agreed to", 
             "affirmatives": [
                 "Anderson", 
                 "Bakk", 
@@ -213,8 +211,11 @@
                 "Neuville", 
                 "Ortman", 
                 "Robling"
-            ]
+            ], 
+            "pass": true, 
+            "nays": 10
         }
     ], 
+    "amendment_votes": false, 
     "filename": "2008_2009/sessions/txt/20070501059.txt"
 }
