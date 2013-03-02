@@ -33,7 +33,7 @@ def getblock(lines, start_str, end_str):
     return False
 
 # [str], func, func -> [[str]]
-def getblocksByTests(lines, begin_test, end_test):
+def getblocksByTests(lines, begin_test, end_test, include_line_numbers=False):
     """ Provide two functions to test, if these return true, then a
     chunk is matched.
 
@@ -74,7 +74,10 @@ def getblocksByTests(lines, begin_test, end_test):
 
         i += 1
 
-    chunks = [lines[a:b] for a, b in match_indexes]
+    if include_line_numbers:
+        chunks = ([lines[a:b] for a, b in match_indexes], match_indexes)
+    else:
+        chunks = [lines[a:b] for a, b in match_indexes]
     return chunks
 
 # [str], ( str | regex) -> [[str]]
