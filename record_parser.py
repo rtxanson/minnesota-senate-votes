@@ -34,6 +34,7 @@ import sys
 import logging
 import json
 import re
+from collections import OrderedDict
 
 logger = logging.getLogger("senate")
 logger.setLevel("INFO")
@@ -174,6 +175,30 @@ def process_vote_chunk(chunk):
 
     pass_status = [a for a in chunk if 'So the bill' in a][0]
 
+    remove = [ "So the bill, as"
+             , "So the bill, "
+             , "So the bill "
+             ]
+
+    failed = "failed"
+    passed = "passed"
+    amended = "as amended"
+
+    for a in remove:
+        pass_status = pass_status.replace(a, '').replace('.', '')
+
+    if "failed" in pass_status:
+        _pass = False
+    elif "passed" in pass_status:
+        _pass = True
+    else:
+        _pass = "UNKNOWN STATUS"
+
+    if "as amended" in pass_status:
+        amended = True
+    else:
+        amended = False
+
     # Look for title line
     for _l in chunk:
         if 'F. No.' in _l:
@@ -212,11 +237,15 @@ def process_vote_chunk(chunk):
                )
     logger.info("    %s - yays: %d, nays: %d" % log_args)
 
-    return  { 'affirmatives': affirmative_names
-            , 'negatives': negative_names
-            , 'title': bill_title
-            , 'status': pass_status
-            }
+    return  OrderedDict([ ('title', bill_title)
+                        , ('pass', _pass)
+                        , ('status_string', pass_status)
+                        , ('amended', amended)
+                        , ('yays', len(affirmative_names))
+                        , ('nays', len(negative_names))
+                        , ('affirmatives', affirmative_names)
+                        , ('negatives', negative_names)
+                        ])
 
 def find_votes(lines):
     """ Find bill votes in the whole text, and return a list of vote
