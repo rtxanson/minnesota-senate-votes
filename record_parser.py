@@ -20,8 +20,8 @@ Options:
 #     "The following bill(s) was/were read for the first time."
 #
 # TODO: votes on resolutions
-# TODO: votes on adoptions of amendments
 # TODO: things that committees reccommend
+#       good example: 20120510119.txt l. ~= 5809
 # TODO: adoption of motions
 
 
@@ -79,6 +79,12 @@ def call_of_the_senate(lines):
 
 find_bill_title = re.compile(r'([HS]\.( )?F\. No\. \d+)')
 def process_vote_chunk(chunk):
+    if len(chunk) > 2000:
+        logger.error(" * OMG, vote chunk much larger than it should be. ")
+        logger.error(" * Parse error in finding vote chunk bounds.")
+        logger.error(" * Chunk begins... ")
+        logger.error('    > ' + '\n    > '.join(chunk[0:5]))
+
     bill_title        = False
     affirmative_names = []
     negative_names    = []
@@ -184,6 +190,9 @@ def find_bill_votes(lines):
                 c = 'Those who voted in'
                 _a, _b, _c = False, False, False
                 for _l in next_ten:
+                    if 'passage of the resolution' in _l:
+                        first_possibility = False
+                        break
                     if a in _l:
                         _a = True
                     if b in _l:
@@ -265,7 +274,11 @@ def process_amendment_vote_chunk(chunk):
         except:
             pass
 
-    pass_status = [a for a in chunk if a.startswith('The motion')][0]
+    try:
+        pass_status = [a for a in chunk if a.startswith('The motion')][0]
+    except:
+        print len(chunk)
+        print chunk
 
     failed = "did not prevail"
     passed = "prevailed"
@@ -340,6 +353,8 @@ def find_amendment_votes(lines):
             _a, _b, _c = False, False, False
 
             for _l in lines[index+2::]:
+                if 'the amendment was stricken' in _l:
+                    return False
                 if a in _l:
                     _a = True
                 if b in _l and _a:
@@ -357,9 +372,12 @@ def find_amendment_votes(lines):
         # amendment, it's likely to the same bill.
         prevail = "The motion prevailed" in line
         nope    = "The motion did not prevail" in line
-        following_ammendment = 'moved to amend' in inner[index+1]
+        following_amendment = 'moved to amend' in inner[index+1]
+        question_taken = 'question was taken' in line 
         # Need more accuracy? test preceding S.F. No. / H.F. No. value?
-        return (prevail or nope) and not following_ammendment
+        return (prevail or nope) \
+               and not following_amendment \
+               and not question_taken
 
     vote_chunks = getblocksByTests(lines, begin_test, end_test)
 
@@ -464,8 +482,9 @@ def main(filename, arguments):
     if arguments["--format"] == "JSON":
         try:
             output = json.dumps(journal, indent=4)
-        except:
+        except Exception, e:
             logger.error(" *** OMG: Something went way wrong encoding to JSON")
+            print e
             sys.exit()
 
     if arguments["--format"] == "YAML":
