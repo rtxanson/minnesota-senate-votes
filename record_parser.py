@@ -157,6 +157,8 @@ def process_vote_chunk(chunk):
                  , ('nays', len(negative_names))
                  , ('affirmatives', affirmative_names)
                  , ('negatives', negative_names)
+                 # TODO: these will need to be adjusted to re-include the 
+                 # removed ^L lines.
                  , ('source_document_range', line_numbers)
                  ])
 
@@ -332,6 +334,8 @@ def process_amendment_vote_chunk(chunk):
                 , ('status_string', pass_status)
                 , ('yays', len(affirmative_names))
                 , ('nays', len(negative_names))
+                 # TODO: these will need to be adjusted to re-include the 
+                 # removed ^L lines.
                 , ('source_document_range', line_numbers)
                 ])
 
