@@ -38,6 +38,7 @@ from docopt import docopt
 import sys
 import logging
 import json
+import yaml
 import re
 
 from collections import OrderedDict
@@ -94,7 +95,7 @@ def process_vote_chunk(chunk):
     amended = "as amended"
 
     for a in remove:
-        pass_status = pass_status.replace(a, '').replace('.', '')
+        pass_status = pass_status.replace(a, '').replace('.', '').strip()
 
     if "failed" in pass_status:
         _pass = False
@@ -120,7 +121,6 @@ def process_vote_chunk(chunk):
         except:
             pass
 
-    # TODO: umm, also what about just negatives?
     _vote_aff = 'Those who voted in the affirmative'
     _vote_neg = 'Those who voted in the negative'
 
@@ -146,15 +146,15 @@ def process_vote_chunk(chunk):
                )
     logger.info("    %s - yays: %d, nays: %d" % log_args)
 
-    return  OrderedDict([ ('title', bill_title)
-                        , ('pass', _pass)
-                        , ('status_string', pass_status)
-                        , ('amended', amended)
-                        , ('yays', len(affirmative_names))
-                        , ('nays', len(negative_names))
-                        , ('affirmatives', affirmative_names)
-                        , ('negatives', negative_names)
-                        ])
+    return  dict([ ('title', bill_title)
+                 , ('pass', _pass)
+                 , ('status_string', pass_status)
+                 , ('amended', amended)
+                 , ('yays', len(affirmative_names))
+                 , ('nays', len(negative_names))
+                 , ('affirmatives', affirmative_names)
+                 , ('negatives', negative_names)
+                 ])
 
 def find_votes(lines):
     """ Find bill votes in the whole text, and return a list of vote
@@ -255,11 +255,60 @@ def find_votes(lines):
 ### end:
 ### "The motion prevailed" || "The motion did not prevail"
 
+find_bill_title = re.compile(r'([HS]\.( )?F\. No\. \d+)')
 def process_amendment_vote_chunk(chunk):
-    print '\n'.join(chunk[0:5])
-    print '--'
-    print
-    return chunk
+    # Look for title line
+    for _l in chunk:
+        if 'F. No.' in _l:
+            bill_title_line = _l
+            break
+
+    if bill_title_line:
+        try:
+            bill_title = find_bill_title.search(bill_title_line).groups()[0]
+        except:
+            pass
+
+    # print '\n'.join(chunk)
+    # print '--'
+    # print
+
+    _vote_aff = 'Those who voted in the affirmative'
+    _vote_neg = 'Those who voted in the negative'
+
+    includes_negative = getblock(chunk, _vote_aff, _vote_neg)
+    if includes_negative:
+        affirmatives = includes_negative
+        negatives    = getblock(chunk, _vote_neg, 'So the amendment')
+
+        # Pop off the inclusive end block match line
+        neg = negatives[1:len(negatives) - 1]
+        negative_names = parse_vote_name_block(neg)
+    else:
+        affirmatives = getblock(chunk, _vote_aff, 'So the amendment')
+        negatives_names = []
+
+    # Pop off the inclusive end block match line
+    affs = affirmatives[1:len(affirmatives) - 1]
+    affirmative_names = parse_vote_name_block(affs)
+
+    log_args = ( str(bill_title)
+               , len(affirmative_names)
+               , len(negative_names)
+               )
+
+    logger.info("    %s (amendment) - yays: %d, nays: %d" % log_args)
+
+    # TODO: ('pass', _pass)
+    # TODO: ('status_string', pass_status)
+    # TODO: ('amended', amended)
+    # TODO: ('yays', len(affirmative_names))
+    # TODO: ('nays', len(negative_names))
+    return dict([ ('title', bill_title)
+                , ('affirmatives', affirmative_names)
+                , ('negatives', negative_names)
+                ])
+
 
 def find_amendment_votes(lines):
 
@@ -304,7 +353,6 @@ def find_amendment_votes(lines):
         return (prevail or nope) and not following_ammendment
 
     vote_chunks = getblocksByTests(lines, begin_test, end_test)
-    print len(vote_chunks)
 
     if len(vote_chunks) == 0:
         return False
@@ -333,7 +381,7 @@ def parse_date(lines):
     date = _x[1]
 
     if day:
-        day = day.replace(']', '').lower()
+        day = day.replace(']', '').replace('\n', '').lower()
 
     try:
         formatted = strp(date, '%A, %B %d, %Y').isoformat()
@@ -412,13 +460,16 @@ def main(filename, arguments):
             logger.error(" *** OMG: Something went way wrong encoding to JSON")
             sys.exit()
 
-    if arguments["<output_file>"] is None:
-        output = sys.stdout
-    else:
-        output = open(arguments["<output_file>"], 'w')
+    if arguments["--format"] == "YAML":
+        output = yaml.safe_dump(journal, encoding=None)
 
-    with output as F:
-        print >> F, json.dumps(journal, indent=4)
+    if arguments["<output_file>"] is None:
+        target = sys.stdout
+    else:
+        target = open(arguments["<output_file>"], 'w')
+
+    with target as F:
+        print >> F, output
 
     return
 
