@@ -36,6 +36,11 @@ files, and compare this to what is available in PDF records, or the plaintext
 versions. There are likely to be some parsing errors somewhere, that are very
 worth squashing.
 
+Data can be outputted with line numbers included in .json or .yaml files, so
+that referring to the source document is possible. Would be fairly simple to
+make an app to line these up, in order to aid checking, and also allow
+submitting issues to github.
+
 ### Developing
 
 The general process to converting a record is: 
