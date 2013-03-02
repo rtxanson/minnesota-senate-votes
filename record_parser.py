@@ -461,6 +461,7 @@ def main(filename, arguments):
             sys.exit()
 
     if arguments["--format"] == "YAML":
+        # TODO: control order and format a bit more
         output = yaml.safe_dump(journal, encoding=None)
 
     if arguments["<output_file>"] is None:
