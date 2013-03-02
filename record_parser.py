@@ -79,6 +79,7 @@ def call_of_the_senate(lines):
 
 find_bill_title = re.compile(r'([HS]\.( )?F\. No\. \d+)')
 def process_vote_chunk(chunk):
+    chunk, line_numbers = chunk
     if len(chunk) > 2000:
         logger.error(" * OMG, vote chunk much larger than it should be. ")
         logger.error(" * Parse error in finding vote chunk bounds.")
@@ -156,6 +157,7 @@ def process_vote_chunk(chunk):
                  , ('nays', len(negative_names))
                  , ('affirmatives', affirmative_names)
                  , ('negatives', negative_names)
+                 , ('source_document_range', line_numbers)
                  ])
 
 def find_bill_votes(lines):
@@ -235,12 +237,16 @@ def find_bill_votes(lines):
             return True
         return False
 
-    vote_chunks = getblocksByTests(lines, begin_test, end_test)
+    vote_chunks = getblocksByTests( lines
+                                  , begin_test
+                                  , end_test
+                                  , include_line_numbers=True
+                                  )
 
     if len(vote_chunks) == 0:
         return False
 
-    return map(process_vote_chunk, vote_chunks)
+    return map(process_vote_chunk, zip(*vote_chunks))
 
 # NB: idea for more general rule parser
 
@@ -262,6 +268,7 @@ def find_bill_votes(lines):
 
 find_bill_title = re.compile(r'([HS]\.( )?F\. No\. \d+)')
 def process_amendment_vote_chunk(chunk):
+    chunk, line_numbers = chunk
     # Look for title line
     for _l in chunk:
         if 'F. No.' in _l:
@@ -325,6 +332,7 @@ def process_amendment_vote_chunk(chunk):
                 , ('status_string', pass_status)
                 , ('yays', len(affirmative_names))
                 , ('nays', len(negative_names))
+                , ('source_document_range', line_numbers)
                 ])
 
 
@@ -373,18 +381,22 @@ def find_amendment_votes(lines):
         prevail = "The motion prevailed" in line
         nope    = "The motion did not prevail" in line
         following_amendment = 'moved to amend' in inner[index+1]
-        question_taken = 'question was taken' in line 
+        question_taken = 'question was taken' in line
         # Need more accuracy? test preceding S.F. No. / H.F. No. value?
         return (prevail or nope) \
                and not following_amendment \
                and not question_taken
 
-    vote_chunks = getblocksByTests(lines, begin_test, end_test)
+    vote_chunks = getblocksByTests( lines
+                                  , begin_test
+                                  , end_test
+                                  , include_line_numbers=True
+                                  )
 
     if len(vote_chunks) == 0:
         return False
 
-    return map(process_amendment_vote_chunk, vote_chunks)
+    return map(process_amendment_vote_chunk, zip(*vote_chunks))
 
 
 def parse_date(lines):
