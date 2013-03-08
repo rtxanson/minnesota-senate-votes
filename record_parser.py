@@ -4,6 +4,7 @@
 Usage:
   record_parser.py read <input_file> [options]
   record_parser.py read <input_file> <output_file> [options]
+  record_parser.py read directory <input_dir> <output_path> <output_suffix> [options]
   record_parser.py (-h | --help)
 
 Options:
@@ -11,6 +12,8 @@ Options:
   --format=<format>     Output format. [default: JSON]
   --with-resolutions    Output votes on resolutions.
   --with-amendments     Output votes on amendments.
+
+
 """
 
 
@@ -41,9 +44,9 @@ import json
 import yaml
 import re
 
-from collections import OrderedDict
+# from collections import OrderedDict
 
-from utils import *
+from utils import getBlocksByTests, getblock
 
 logger = logging.getLogger("senate")
 logger.setLevel("INFO")
@@ -137,7 +140,7 @@ def process_vote_chunk(chunk):
         negative_names = parse_vote_name_block(neg)
     else:
         affirmatives = getblock(chunk, _vote_aff, 'So the bill')
-        negatives_names = []
+        negative_names = []
 
     # Pop off the inclusive end block match line
     affs = affirmatives[1:len(affirmatives) - 1]
@@ -157,7 +160,7 @@ def process_vote_chunk(chunk):
                  , ('nays', len(negative_names))
                  , ('affirmatives', affirmative_names)
                  , ('negatives', negative_names)
-                 # TODO: these will need to be adjusted to re-include the 
+                 # TODO: these will need to be adjusted to re-include the
                  # removed ^L lines.
                  , ('source_document_range', line_numbers)
                  ])
@@ -166,6 +169,7 @@ def find_bill_votes(lines):
     """ Find bill votes in the whole text, and return a list of vote
     info.
     """
+    # TODO: list who moved to vote?
 
     def begin_test(lines, line, index):
         """ Two formats to the beginning of a vote on a bill.
@@ -239,7 +243,7 @@ def find_bill_votes(lines):
             return True
         return False
 
-    vote_chunks = getblocksByTests( lines
+    vote_chunks = getBlocksByTests( lines
                                   , begin_test
                                   , end_test
                                   , include_line_numbers=True
@@ -334,13 +338,77 @@ def process_amendment_vote_chunk(chunk):
                 , ('status_string', pass_status)
                 , ('yays', len(affirmative_names))
                 , ('nays', len(negative_names))
-                 # TODO: these will need to be adjusted to re-include the 
-                 # removed ^L lines.
+                # TODO: these will need to be adjusted to re-include the
+                # removed ^L lines.
                 , ('source_document_range', line_numbers)
                 ])
 
+find_bill_title = re.compile(r'([HS]\.( )?F\. No\. \d+)')
+def process_resolution_vote_chunk(chunk):
+    return chunk
+
+def find_resolution_votes(lines):
+    # TODO: list who moved? it's always present
+
+    # Generally begins somewhere:
+    #   moved the adoption of the foregoing resolution
+    #       - but not containing "The motion prevailed"
+    #   The question was taken on the adoption of the resolution.
+    #   The role was called
+    #   Those who voted
+
+    def begin_test(lines, line, index):
+        if index > 10:
+            moved = "moved the adoption of the foregoing resolution" in line
+            no_prevail = "The motion prevailed" not in line
+
+            a = "The question was taken on the adoption of the resolution."
+            b = "The role was called"
+            c = "Those who voted"
+
+            _end = "So the resolution"
+            _end_b = "The motion"
+
+            _a, _b, _c = False, False, False
+
+            if not all([moved, no_prevail]):
+                return False
+
+            for _l in lines[index+2::]:
+                if a in _l:
+                    _a = True
+                if b in _l and _a:
+                    _b = True
+                if c in _l and _a and _b:
+                    _c = True
+                if (_end in _l) and (_end_b in _l) and _a and _b and _c:
+                    return True
+        return False
+
+    # Ends with:
+    #   The motion prevailed. So the resolution was adopted.
+
+    def end_test(inner, line, index):
+        prevail = "The motion prevailed" in line
+        nope    = "The motion did not prevail" in line
+        resolution = 'So the resolution' in line
+        return (prevail or nope) \
+               and resolution
+
+    vote_chunks = getBlocksByTests( lines
+                                  , begin_test
+                                  , end_test
+                                  , include_line_numbers=True
+                                  )
+
+    if len(vote_chunks) == 0:
+        return False
+
+    return map(process_resolution_vote_chunk, zip(*vote_chunks))
+
 
 def find_amendment_votes(lines):
+    # TODO: list who moved to vote?
     # TODO: there may be another way of introducing multiple amendments
     # for a vote, need to look through for S.F. Nos and H.F. Nos
 
@@ -391,7 +459,7 @@ def find_amendment_votes(lines):
                and not following_amendment \
                and not question_taken
 
-    vote_chunks = getblocksByTests( lines
+    vote_chunks = getBlocksByTests( lines
                                   , begin_test
                                   , end_test
                                   , include_line_numbers=True
@@ -484,16 +552,16 @@ def main(filename, arguments):
         else:
             logger.warning( "%s - RESOLUTION VOTES: ERROR" % filename)
 
-    # if arguments["--with-resolutions"] is True:
-    #     resolution_votes = find_resolution_votes(data)
-    #     journal['resolution_votes'] = resolution_votes
+    if arguments["--with-resolutions"] is True:
+        resolution_votes = find_resolution_votes(data)
+        journal['resolution_votes'] = resolution_votes
 
-    #     if resolution_votes:
-    #         logger.info("%s - RESOLUTION VOTES: %s"
-    #                     % (filename, str(bool(resolution_votes)))
-    #                    )
-    #     else:
-    #         logger.warning( "%s - RESOLUTION VOTES: ERROR" % filename)
+        if resolution_votes:
+            logger.info("%s - RESOLUTION VOTES: %s"
+                        % (filename, str(bool(resolution_votes)))
+                       )
+        else:
+            logger.warning( "%s - RESOLUTION VOTES: ERROR" % filename)
 
     if arguments["--format"] == "JSON":
         try:
@@ -521,15 +589,18 @@ if __name__ == "__main__":
     arguments = docopt(__doc__, version='0.0.1')
 
     pdf_file = arguments["<input_file>"]
-
-    try:
-        main(pdf_file, arguments)
-    except Exception, e:
-        import traceback
-        exc_type, exc_value, exc_traceback = sys.exc_info()
-        traceback.print_tb(exc_traceback, limit=10, file=sys.stdout)
-        logger.error(e)
-        logger.error(" Error with: %s" % pdf_file)
+    if arguments['directory']:
+        print arguments
+        raise NotImplementedError
+    else:
+        try:
+            main(pdf_file, arguments)
+        except Exception, e:
+            import traceback
+            exc_type, exc_value, exc_traceback = sys.exc_info()
+            traceback.print_tb(exc_traceback, limit=10, file=sys.stdout)
+            logger.error(e)
+            logger.error(" Error with: %s" % pdf_file)
 
     sys.exit()
 
