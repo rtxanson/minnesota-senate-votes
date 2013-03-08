@@ -33,7 +33,7 @@ def getblock(lines, start_str, end_str):
     return False
 
 # [str], func, func -> [[str]]
-def getblocksByTests(lines, begin_test, end_test, include_line_numbers=False):
+def getBlocksByTests(lines, begin_test, end_test, include_line_numbers=False):
     """ Provide two functions to test, if these return true, then a
     chunk is matched.
 
