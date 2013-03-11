@@ -65,19 +65,25 @@ def call_of_the_senate(lines):
     start = "The Senate met at "
     end   = " declared a quorum present."
 
-    call_of_senate = getblock(lines, start, end)
+    _beg = "The roll was called"
+    _end = "quorum"
 
-    if not call_of_senate:
+    _roll = getBlocksByTests( lines
+                            , lambda ls, l, i:  _beg in l
+                            , lambda ils, l, i: _end in l
+                            , include_line_numbers=True
+                            )
+
+    if not _roll:
         return False
-
-    roll = getblock(call_of_senate, "The roll was called", "quorum")
-
-    if not roll:
-        return False
+    else:
+        rolls, indexes = _roll
+        roll = rolls[0]
+        index = indexes[0]
 
     senator_list = parse_vote_name_block( roll[1:len(roll) - 1] )
 
-    return senator_list
+    return senator_list, index
 
 
 find_bill_title = re.compile(r'([HS]\.( )?F\. No\. \d+)')
@@ -582,7 +588,7 @@ def main(filename, arguments):
               , data
               )
 
-    names = call_of_the_senate(data)
+    names, names_index = call_of_the_senate(data)
 
     if names:
         logger.info("%s - ROLL: %s" % (filename, str(bool(names))))
@@ -597,6 +603,7 @@ def main(filename, arguments):
         logger.warning( "%s - BILL VOTES: ERROR" % filename)
 
     journal = { 'role_call': names
+              , 'role_call_source_index': names_index
               , 'bill_votes': votes
               , 'filename': filename
               , 'date': _date_info
