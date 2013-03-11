@@ -346,8 +346,6 @@ def process_amendment_vote_chunk(chunk):
 find_bill_title = re.compile(r'([HS]\.( )?F\. No\. \d+)')
 def process_resolution_vote_chunk(chunk):
     chunk, line_numbers = chunk
-    # Look for title line
-    # TODO: Senate Resolution No. \d*, include in chunk search above
 
     try:
         pass_status = [a for a in chunk if 'So the resolution' in a][0]
@@ -407,6 +405,12 @@ def process_resolution_vote_chunk(chunk):
 
 def find_resolution_votes(lines):
     # TODO: list who moved? it's always present
+
+    # TODO: resolution number, include in chunk, probably easier way is
+    # to search backwards from the matched context until resolution
+    # number is found, followed by those introducing it.
+    # Look for title line
+    # Senate Resolution No. \d*
 
     # Generally begins somewhere:
     #   moved the adoption of the foregoing resolution
