@@ -345,7 +345,65 @@ def process_amendment_vote_chunk(chunk):
 
 find_bill_title = re.compile(r'([HS]\.( )?F\. No\. \d+)')
 def process_resolution_vote_chunk(chunk):
-    return chunk
+    chunk, line_numbers = chunk
+    # Look for title line
+    # TODO: Senate Resolution No. \d*, include in chunk search above
+
+    try:
+        pass_status = [a for a in chunk if 'So the resolution' in a][0]
+    except:
+        print len(chunk)
+        print chunk
+
+    failed = "was not adopted"
+    passed = "was adopted"
+
+    if failed in pass_status:
+        _pass = False
+    elif passed in pass_status:
+        _pass = True
+    else:
+        _pass = "UNKNOWN STATUS"
+
+    _vote_aff = 'Those who voted in the affirmative'
+    _vote_neg = 'Those who voted in the negative'
+
+    affirmative_names, negative_names = [], []
+
+    negatives_and_affirmatives = getblock(chunk, _vote_aff, _vote_neg)
+    if negatives_and_affirmatives:
+        affirmatives = negatives_and_affirmatives
+        negatives    = getblock(chunk, _vote_neg, 'So the resolution')
+    else:
+        affirmatives = getblock(chunk, _vote_aff, 'So the resolution')
+        negatives    = getblock(chunk, _vote_neg, 'So the resolution')
+
+    if affirmatives:
+        # Pop off the inclusive end block match line
+        affs = affirmatives[1:len(affirmatives) - 1]
+        affirmative_names = parse_vote_name_block(affs)
+    if negatives:
+        neg = negatives[1:len(negatives) - 1]
+        negative_names = parse_vote_name_block(neg)
+
+    log_args = ( str("TODO: ")
+               , len(affirmative_names)
+               , len(negative_names)
+               )
+
+    logger.info("    %s (amendment) - yays: %d, nays: %d" % log_args)
+
+    return dict([ ('title', "TODO:")
+                , ('affirmatives', affirmative_names)
+                , ('negatives', negative_names)
+                , ('pass', _pass)
+                , ('status_string', pass_status)
+                , ('yays', len(affirmative_names))
+                , ('nays', len(negative_names))
+                # TODO: these will need to be adjusted to re-include the
+                # removed ^L lines.
+                , ('source_document_range', line_numbers)
+                ])
 
 def find_resolution_votes(lines):
     # TODO: list who moved? it's always present
@@ -362,27 +420,25 @@ def find_resolution_votes(lines):
             moved = "moved the adoption of the foregoing resolution" in line
             no_prevail = "The motion prevailed" not in line
 
-            a = "The question was taken on the adoption of the resolution."
-            b = "The role was called"
+            a = "The question was taken"
             c = "Those who voted"
 
             _end = "So the resolution"
             _end_b = "The motion"
 
-            _a, _b, _c = False, False, False
+            _a, _c = False, False
 
             if not all([moved, no_prevail]):
                 return False
 
-            for _l in lines[index+2::]:
+            for _l in lines[index::]:
                 if a in _l:
                     _a = True
-                if b in _l and _a:
-                    _b = True
-                if c in _l and _a and _b:
+                if c in _l and _a:
                     _c = True
-                if (_end in _l) and (_end_b in _l) and _a and _b and _c:
+                if (_end in _l) and (_end_b in _l) and _a and _c:
                     return True
+
         return False
 
     # Ends with:
